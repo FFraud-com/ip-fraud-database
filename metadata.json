@@ -1,0 +1,8 @@
+{
+  "project": "ffraud-ipranges",
+  "generated_utc": "2026-06-30T11:14:37Z",
+  "counts": { "confirmed_abusive_ips": 749709, "disposable_email_domains": 206957 },
+  "license": "MIT",
+  "homepage": "https://ffraud.com",
+  "note": "ffraud's own derived intelligence. Upstream sources are never named. ASN reputation coming soon."
+}

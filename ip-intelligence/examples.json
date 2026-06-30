@@ -1,0 +1,37 @@
+{
+  "_comment": "Sample per-IP intelligence (the full file ships the top flagged IPs daily). Each entry is the ffraud engine's own verdict: a 0-100 fraud score, a plain-English reason, and threat categories. No upstream source is ever named.",
+  "_generated": "2026-06-30T07:50:00Z",
+  "examples": [
+    {
+      "ip": "206.123.156.179",
+      "fraud_score": 90,
+      "risk": "critical",
+      "reason": "Identified as part of a botnet network. Credential stuffing and login brute force attempts across multiple services. Exploiting web server vulnerabilities and launching HTTP attacks. Spam and automated registration abuse across multiple platforms. Persistent high-severity threat confirmed across 5+ independent monitoring networks. Located in a high-risk network neighborhood where 88% of the /24 subnet is flagged for abuse.",
+      "categories": ["botnet_node", "login_brute_force", "web_attack", "server_abuse", "spam", "open_proxy"],
+      "proxy": true,
+      "vpn": true,
+      "hosting": true,
+      "organization": "Limited Network LTD"
+    },
+    {
+      "ip": "8.213.134.213",
+      "fraud_score": 90,
+      "risk": "critical",
+      "reason": "Active command & control (C2) server used to coordinate malware operations. Identified as part of a botnet network. Persistent high-severity threat confirmed across 5+ independent monitoring networks. Located in a high-risk network neighborhood where 100% of the /24 subnet is flagged for abuse.",
+      "categories": ["c2_server", "botnet_node", "server_abuse", "open_proxy"],
+      "proxy": true,
+      "organization": "Alibaba (US) Technology Co., Ltd."
+    },
+    {
+      "ip": "72.10.160.170",
+      "fraud_score": 85,
+      "risk": "high",
+      "reason": "Actively distributing malware payloads to compromised systems. Heavy attack activity confirmed by threat intelligence monitoring. Located in a high-risk network neighborhood where 100% of the /24 subnet is flagged for abuse.",
+      "categories": ["malware_distribution", "open_proxy"],
+      "proxy": true,
+      "vpn": true,
+      "hosting": true,
+      "organization": "GloboTech Communications"
+    }
+  ]
+}
