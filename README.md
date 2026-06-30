@@ -66,6 +66,11 @@ We review, dedupe, score, and roll confirmed reports into the next daily build, 
 
 Rebuilt and pushed daily from the live ffraud engine. See [`metadata.json`](metadata.json) for the build time and current counts. Star the repo to keep it close.
 
+## Related open data
+
+- **[Disposable Email Database](https://github.com/FFraud-com/disposable-email-domains)**: our open list of ~207,000 disposable, temporary, and throwaway email domains.
+- **[ffraud.com](https://ffraud.com)**: free IP and email fraud intelligence, a fast API, and live checkers.
+
 ## License
 
 MIT. Use it anywhere, including commercial products. Fork it, redistribute it, build on it. Attribution appreciated, not required.
