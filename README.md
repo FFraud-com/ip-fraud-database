@@ -17,7 +17,7 @@ The open data layer of [ffraud.com](https://ffraud.com). Every IP here was flagg
 | File | Rows | What it is |
 |------|------|-----------|
 | [`threat-ips/confirmed-abusive.csv`](threat-ips/confirmed-abusive.csv) | ~750,000 | Abusive IPs, each confirmed by 2+ independent sources, with our 0 to 100 fraud score, the **threat category** (c2, malware, botnet, brute-force, web-attack, scanner, phishing, spam) and the **infrastructure type** (proxy, vpn, tor, datacenter, mobile) when known |
-| [`asn-reputation/fraudulent-networks.csv`](asn-reputation/fraudulent-networks.csv) | ~600 | Networks (ASNs) where the IPs we observed were overwhelmingly malicious and proxy-heavy. The bulletproof-hosting and proxy-operation signature |
+| [`asn-reputation/high-abuse-networks.csv`](asn-reputation/high-abuse-networks.csv) | ~600 | Networks (ASNs) where the IPs we observed were overwhelmingly malicious and proxy-heavy. The bulletproof-hosting and proxy-operation signature |
 | [`disposable-email-domains.txt`](disposable-email-domains.txt) | ~207,000 | Throwaway and disposable email domains |
 | [`ip-intelligence/examples.json`](ip-intelligence/examples.json) | sample | Full per-IP intelligence: score, a plain-English reason, and categories |
 | [`metadata.json`](metadata.json) | | Live counts and the UTC build time |
@@ -43,7 +43,7 @@ ip,ffraud_score,sources,category,type
 curl -s https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/threat-ips/confirmed-abusive.csv
 
 # The worst networks
-curl -s https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/asn-reputation/fraudulent-networks.csv
+curl -s https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/asn-reputation/high-abuse-networks.csv
 
 # Disposable email domains
 curl -s https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/disposable-email-domains.txt
@@ -60,7 +60,7 @@ We review, dedupe, score, and roll confirmed reports into the next daily build, 
 
 ## A note on the networks list
 
-`fraudulent-networks.csv` reflects the share of each network's IPs that **we observed** as malicious. It is a measurement of observed traffic, not a legal judgment of any operator. Run a listed network and think it is wrong? [Tell us](https://ffraud.com/report) and we recheck on the next build.
+`high-abuse-networks.csv` reflects the share of each network's IPs that **we observed** as malicious. It is a measurement of observed traffic, not a legal judgment of any operator. Run a listed network and think it is wrong? [Tell us](https://ffraud.com/report) and we recheck on the next build.
 
 ## Updated every single day
 
