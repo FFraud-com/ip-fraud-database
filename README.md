@@ -8,7 +8,7 @@
 ![Fraudulent networks](https://img.shields.io/badge/fraudulent%20networks-600%2B-8b5cf6)
 ![Disposable domains](https://img.shields.io/badge/disposable%20domains-207k%2B-f59e0b)
 
-The open fraud database behind [ffraud.com](https://ffraud.com), built together with the community. Every IP here was confirmed by **at least two independent monitoring networks**, verified and scored by the ffraud engine, and tagged with the **threat category** and **infrastructure type** we detected. No signup, no API key, no rate limits. Drop it straight into a firewall, a WAF, a signup form, or a fraud pipeline.
+The open fraud database behind [ffraud.com](https://ffraud.com), built together with the community. Every IP here was independently confirmed **at least twice** — by our honeypot sensors and community reports — then verified and scored by the ffraud engine, and tagged with the **threat category** and **infrastructure type** we detected. No signup, no API key, no rate limits. Drop it straight into a firewall, a WAF, a signup form, or a fraud pipeline.
 
 > Built to be contributed to: report the IPs that hit you at [ffraud.com/report](https://ffraud.com/report) or open an issue here. Confirmed reports ship in the next build, with credit if you want it.
 
@@ -16,7 +16,7 @@ The open fraud database behind [ffraud.com](https://ffraud.com), built together 
 
 | File | Rows | What it is |
 |------|------|-----------|
-| [`threat-ips/confirmed-abusive.csv`](threat-ips/confirmed-abusive.csv) | ~750,000 | Abusive IPs, each confirmed by 2+ independent sources, with our 0 to 100 fraud score, the **threat category** (c2, malware, botnet, brute-force, web-attack, scanner, phishing, spam) and the **infrastructure type** (proxy, vpn, tor, datacenter, mobile) when known |
+| [`threat-ips/confirmed-abusive.csv`](threat-ips/confirmed-abusive.csv) | ~750,000 | Abusive IPs, each independently confirmed 2+ times (honeypot hits and community reports), with our 0 to 100 fraud score, the **threat category** (c2, malware, botnet, brute-force, web-attack, scanner, phishing, spam) and the **infrastructure type** (proxy, vpn, tor, datacenter, mobile) when known |
 | [`asn-reputation/high-abuse-networks.csv`](asn-reputation/high-abuse-networks.csv) | ~600 | Networks (ASNs) where the IPs we observed were overwhelmingly malicious and proxy-heavy. The bulletproof-hosting and proxy-operation signature |
 | [`disposable-email-domains.txt`](disposable-email-domains.txt) | ~207,000 | Throwaway and disposable email domains |
 | [`ip-intelligence/examples.json`](ip-intelligence/examples.json) | sample | Full per-IP intelligence: score, a plain-English reason, and categories |
@@ -32,7 +32,7 @@ ip,ffraud_score,sources,category,type
 ```
 
 - **ffraud_score**: our own 0 to 100 score.
-- **sources**: how many independent intelligence sources flagged it. An IP only makes the list at 2 or more. The worst here carry 30 to 40.
+- **sources**: how many independent confirmations it has (honeypot hits and community reports). An IP only makes the list at 2 or more. The worst here carry 30 to 40.
 - **category**: what it was caught doing (c2, malware, botnet, brute-force, web-attack, scanner, phishing, spam).
 - **type**: the infrastructure when we can see it (proxy, vpn, tor, datacenter, mobile).
 
