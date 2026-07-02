@@ -8,9 +8,9 @@
 ![Fraudulent networks](https://img.shields.io/badge/fraudulent%20networks-600%2B-8b5cf6)
 ![Disposable domains](https://img.shields.io/badge/disposable%20domains-207k%2B-f59e0b)
 
-The open data layer of [ffraud.com](https://ffraud.com). Every IP here was flagged by **at least two independent intelligence sources**, scored by the ffraud engine, and tagged with the **threat category** and **infrastructure type** we detected. No signup, no API key, no rate limits. Drop it straight into a firewall, a WAF, a signup form, or a fraud pipeline.
+The open fraud database behind [ffraud.com](https://ffraud.com), built together with the community. Every IP here was confirmed by **at least two independent monitoring networks**, verified and scored by the ffraud engine, and tagged with the **threat category** and **infrastructure type** we detected. No signup, no API key, no rate limits. Drop it straight into a firewall, a WAF, a signup form, or a fraud pipeline.
 
-> We publish our own conclusions, never our sources. The supply chain stays ours, the answer is yours to use.
+> Built to be contributed to: report the IPs that hit you at [ffraud.com/report](https://ffraud.com/report) or open an issue here. Confirmed reports ship in the next build, with credit if you want it.
 
 ## What is inside
 
