@@ -8,11 +8,11 @@
 ![Fraudulent networks](https://img.shields.io/badge/fraudulent%20networks-600%2B-8b5cf6)
 ![Disposable domains](https://img.shields.io/badge/disposable%20domains-207k%2B-f59e0b)
 
-The open fraud database behind [ffraud.com](https://ffraud.com), built together with the community. Every IP here was independently confirmed **at least twice** — by our honeypot sensor network and community reports — then verified and scored by the ffraud engine, and tagged with the **threat category** and **infrastructure type** we detected.
+The open fraud database behind [ffraud.com](https://ffraud.com), built together with the community. Every IP here was independently confirmed **at least twice**, by our honeypot sensor network and community reports, then verified and scored by the ffraud engine, and tagged with the **threat category** and **infrastructure type** we detected.
 
 Attackers rotate infrastructure constantly, so a blocklist is only as good as its last update. This one is rebuilt **every 30 minutes** straight from the live engine, so what you pull is what's attacking the internet right now. No signup, no API key, no rate limits. Drop it into a firewall, a WAF, a signup form, or a fraud pipeline.
 
-> Built to be contributed to: report the IPs that hit you at [ffraud.com/report](https://ffraud.com/report) or open an issue here. Confirmed reports ship in the next build — within the half hour — with credit if you want it.
+> Built to be contributed to: report the IPs that hit you at [ffraud.com/report](https://ffraud.com/report) or open an issue here. Confirmed reports ship in the next build, within the half hour, with credit if you want it.
 
 ## What's inside
 
@@ -58,7 +58,7 @@ This database grows with the community. If you run servers, fail2ban, a WAF, or 
 - **Report or bulk-submit** at [ffraud.com/report](https://ffraud.com/report).
 - **Open an issue** here with a list of IPs and what they did.
 
-We review, dedupe, score, and roll confirmed reports into the next build — within the half hour — with credit if you want it. Every report protects the next person that IP attacks.
+We review, dedupe, score, and roll confirmed reports into the next build, within the half hour, with credit if you want it. Every report protects the next person that IP attacks.
 
 ## A note on the networks list
 
@@ -66,12 +66,12 @@ We review, dedupe, score, and roll confirmed reports into the next build — wit
 
 ## Refreshed around the clock
 
-Rebuilt and pushed **every 30 minutes** from the live ffraud engine — not a daily dump, a living feed. See [`metadata.json`](metadata.json) for the build time and current counts. Star the repo to keep it close.
+Rebuilt and pushed **every 30 minutes** from the live ffraud engine, not a daily dump, a living feed. See [`metadata.json`](metadata.json) for the build time and current counts. Star the repo to keep it close.
 
 ## Related open data
 
 - **[Disposable Email Database](https://github.com/FFraud-com/disposable-email-domains)**: our open list of 207,000+ disposable, temporary, and throwaway email domains.
-- **[ffraud.com](https://ffraud.com)**: free IP and email fraud intelligence — a fast API, live checkers, and open data with no limits.
+- **[ffraud.com](https://ffraud.com)**: free IP and email fraud intelligence, a fast API, live checkers, and open data with no limits.
 
 ## License
 
@@ -79,4 +79,4 @@ MIT. Use it anywhere, including commercial products. Fork it, redistribute it, b
 
 ---
 
-Built by [ffraud.com](https://ffraud.com) — free IP fraud intelligence for everyone.
+Built by [ffraud.com](https://ffraud.com), free IP fraud intelligence for everyone.
