@@ -255,7 +255,7 @@ asn,organization,ips_observed,abuse_rate_pct,proxy_rate_pct,ffraud_risk_score
 263769,ByteSolution S.A. (WispSolution Internet),235,99.6,91.1,100
 152672,Aiyun (HK) Network,588,99.5,91.0,100
 48300,PIPELLC-NET,209,100.0,90.9,100
-60246,PG-19,1949,96.2,90.9,100
+60246,Consumer Internet Cooperative PG-19,1949,96.2,90.9,100
 26658,HT,5425,94.5,90.9,100
 64445,AS-NETJOIN,2520,96.8,90.8,100
 263543,Butzen e Mentges Ltda,282,98.9,90.8,100
@@ -327,10 +327,10 @@ asn,organization,ips_observed,abuse_rate_pct,proxy_rate_pct,ffraud_risk_score
 24441,CityLink Corporation  LTD,255,98.8,87.8,100
 8399,SEWAN-FR,529,100.0,87.7,100
 42532,VEESP-LV-AS,1624,99.2,87.7,100
-62164,HEYMMAN-2,795,99.9,87.7,100
 18046,DongFong Technology Co. Ltd.,380,99.5,87.6,100
 61163,tv,266,98.5,87.6,100
 199081,Athens - Greece,555,96.4,87.6,100
+62164,HEYMMAN-2,796,99.9,87.6,100
 17551,ANYCAST HOLDINGS PTY LTD,232,97.0,87.5,100
 12494,OOO Post ltd,1297,99.6,87.4,100
 47764,VK-AS,2125,99.8,87.3,100
@@ -338,7 +338,7 @@ asn,organization,ips_observed,abuse_rate_pct,proxy_rate_pct,ffraud_risk_score
 7524,ITEC HANKYU HANSHIN CO. LTD.,202,99.5,87.1,100
 30900,t/a Web World Ireland,1643,93.9,87.1,100
 35106,Microsoft Limited,232,99.1,87.1,100
-209828,ASGENCBT,324,100.0,87.0,100
+209828,Genc BT Bilisim Teknolojileri Limited Sirketi,324,100.0,87.0,100
 17563,NEXLINX,437,99.8,87.0,100
 48882,OPTIMA-SHID-AS,815,99.6,86.9,100
 20539,Sumy  Ukraine,341,100.0,86.8,100
@@ -379,7 +379,7 @@ asn,organization,ips_observed,abuse_rate_pct,proxy_rate_pct,ffraud_risk_score
 63737,VIETSERVER SERVICES TECHNOLOGY COMPANY LIMITED,4660,99.6,85.5,100
 2907,Research Organization of Information and Systems  National Institute of Informa,425,93.2,85.4,100
 8053,IFX Networks Venezuela C.A.,841,96.8,85.4,100
-201884,am-ispsupport,296,98.3,85.1,100
+201884,ISP SUPPORT LLC,296,98.3,85.1,100
 52873,Softdados Telecomunicacoes,208,98.6,85.1,100
 201525,HZ-CA-AS,420,97.1,85.0,100
 395793,Arisk Communications inc.,4302,90.2,84.9,100
@@ -389,7 +389,7 @@ asn,organization,ips_observed,abuse_rate_pct,proxy_rate_pct,ffraud_risk_score
 44133,IPAX-AS,617,96.3,84.8,100
 139880,OWGELS INTERNATIONAL CO.  LIMITED,279,96.1,84.6,100
 2108,J.Marohnica 5  10000 Zagreb,428,90.2,84.6,100
-207513,LLC HOSTOFF CSL,451,99.8,84.5,100
+207513,HOSTOFF,451,99.8,84.5,100
 198037,SPACECORE,212,99.1,84.4,100
 141642,PT Ring Media Nusantara,263,92.0,84.4,100
 44927,Telecom-MPK,256,98.8,84.4,100
@@ -498,7 +498,7 @@ asn,organization,ips_observed,abuse_rate_pct,proxy_rate_pct,ffraud_risk_score
 59711,HZ-EU-AS,4337,96.9,77.9,100
 36916,X-DSL Networking Solutions,212,98.1,77.8,100
 212706,LIVI-HOSTING-AS,433,99.1,77.8,100
-198735,WIFI-AS,491,93.7,77.8,100
+198735,Optimal Solutions Technology Company for information Technology and software so,491,93.7,77.8,100
 34814,DYTYNETS-AS,314,100.0,77.7,100
 273217,ACOLME TECH  SRL,592,98.0,77.7,100
 153236,KARNATAKA FASTNET PRIVATE LIMITED,251,98.8,77.7,100
@@ -512,7 +512,7 @@ asn,organization,ips_observed,abuse_rate_pct,proxy_rate_pct,ffraud_risk_score
 58945,Virgo Communication Ltd,214,98.6,77.1,100
 38794,United Information Highway Co. Ltd.,416,98.8,76.9,100
 5511,Orange S.A.,2988,97.0,76.9,100
-25198,INTERKVM HOST SRL,773,98.7,76.8,100
+25198,ZetServers.com - Unmetered Cloud and Dedicated Servers Provider,773,98.7,76.8,100
 50077,SYN,626,95.7,76.8,100
 132817,DZCRD Networks Ltd,1804,99.1,76.8,100
 9205,SNS-AS,289,99.0,76.8,100
@@ -575,11 +575,11 @@ asn,organization,ips_observed,abuse_rate_pct,proxy_rate_pct,ffraud_risk_score
 135354,NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.,382,100.0,72.8,100
 199731,NAKHINTERNET-ISP,373,93.8,72.7,100
 18501,CyberCloud Professionals LLC,215,100.0,72.6,100
-210734,IPHOSTER OU,232,97.8,72.4,100
+210734,-----BEGIN TOKEN-----29e1914fcfc26b84b81143e10375189219e6e485dae7f4ee30fe9d211873068c8829ff615c42a4d080c7df931ba0520ab4a7f2f99e654e99e607e04d3029a31e-----END TOKEN-----,232,97.8,72.4,100
 28753,Leaseweb Deutschland GmbH,2947,93.8,72.1,100
 20910,BALTKOM-AS,1844,99.8,72.1,100
 63199,CDS Global Cloud Co.  Ltd,1395,97.8,72.0,100
-395092,Shock Hosting LLC,2439,91.2,72.0,100
+395092,Shock Hosting LLC,2440,91.2,72.0,100
 58952,Frontiir Co.  Ltd,325,96.9,72.0,100
 56655,GIGAHOST,592,95.9,72.0,100
 212136,NUBES,339,99.7,71.7,100
@@ -607,7 +607,7 @@ asn,organization,ips_observed,abuse_rate_pct,proxy_rate_pct,ffraud_risk_score
 12993,DEAC-AS,633,99.8,70.5,100
 150698,VCORE COMPANY LIMITED,240,95.8,70.4,100
 216154,CLODO,669,99.4,70.4,100
-57043,HOSTKEY B.V.,5358,98.8,70.3,100
+57043,HOSTKEY-AS,5358,98.8,70.3,100
 138997,Eons Data Communications Limited,629,98.9,70.3,100
 202015,HZ-US-AS,1400,93.4,70.2,100
 38186,Forewin Telecom Group Limited,312,99.7,70.2,100
