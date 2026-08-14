@@ -1,4 +1,0 @@
-# ffraud high-abuse networks. Small/medium ASNs where the IPs we OBSERVED were
-# overwhelmingly abusive AND proxy/VPN. This reflects observed traffic, not a legal
-# judgment of the operator. Corrections: https://ffraud.com/report . Derived from our own honeypot and community signals.
-asn,organization,ips_observed,abuse_rate_pct,proxy_rate_pct,ffraud_risk_score

@@ -1,0 +1,5 @@
+# ffraud confirmed-abusive IPs, from our own honeypot sensors and community reports. Each confirmed 2+ independent times, ffraud_score>=50.
+# category = worst observed threat (c2/malware/botnet/brute_force/web_attack/scanner/phishing/spam/abuse).
+# type = infrastructure when known (proxy/vpn/tor/datacenter/mobile), blank otherwise.
+# ffraud_score 0-100 is our own score; confirmations = how many independent times we observed the abuse. Rebuilt from the live engine every 30 minutes.
+ip,ffraud_score,confirmations,category,type
