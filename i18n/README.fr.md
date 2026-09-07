@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788822008" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788823809" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1 230 931 adresses IP malveillantes confirmées et 553 réseaux fortement abusifs. Chaque adresse notée, catégorisée et confirmée au moins deux fois de façon indépendante.</b></p>
 <p align="center"><sub>Licence MIT &middot; sans inscription, sans clé d'API, sans limite de requêtes &middot; mis à jour le 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fr.svg?v=1788822008" alt="Consulter la base en direct sur ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fr.svg?v=1788823809" alt="Consulter la base en direct sur ffraud.com" width="540"></a></p>
 
 Voici la base ouverte de fraude IP derrière [ffraud.com](https://ffraud.com). Chaque adresse qu'elle contient a été observée en train d'attaquer quelque chose, confirmée au moins deux fois de façon indépendante, notée de 0 à 100, puis étiquetée avec ce sur quoi elle a été prise et le type d'infrastructure qu'elle utilise. Les attaquants changent d'infrastructure en permanence : une liste de blocage ne vaut donc que sa dernière mise à jour. Celle-ci est reconstruite **toutes les 30 minutes** directement depuis le moteur en production. Ce que vous téléchargez est ce qui attaque l'internet en ce moment même. Sans inscription, sans clé, sans limite. À verser tel quel dans un pare-feu, un WAF, un formulaire d'inscription ou une chaîne antifraude.
 
