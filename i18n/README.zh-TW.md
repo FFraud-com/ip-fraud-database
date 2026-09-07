@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788765574" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788766039" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -12,13 +12,13 @@
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>其他語言: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <b>繁體中文</b> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
+<p align="center"><sub>其他語言: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <b>繁體中文</b> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
 
 # IP 詐騙資料庫，每 30 分鐘重建一次
 
 <p align="center"><b>1,226,900 個已確認的惡意 IP 位址，553 個高濫用網路。每個位址都有評分、分類，並至少經過兩次獨立確認。</b></p>
 <p align="center"><sub>MIT 授權 &middot; 免註冊、免金鑰、無流量限制 &middot; 更新於 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/zh-TW.svg?v=1788765574" alt="在 ffraud.com 上瀏覽即時資料庫" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/zh-TW.svg?v=1788766039" alt="在 ffraud.com 上瀏覽即時資料庫" width="540"></a></p>
 
 這是 [ffraud.com](https://ffraud.com) 背後的開放 IP 詐騙資料庫。裡面的每一個位址都是被觀測到正在攻擊某個目標的，至少經過兩次獨立確認，以 0 到 100 評分，並標註了它被抓到在做什麼、跑在什麼樣的基礎設施上。攻擊者會不停更換基礎設施，所以一份封鎖名單的價值只等於它最後一次更新：這份名單**每 30 分鐘**直接從線上引擎重建一次。你下載到的，就是此刻正在攻擊網際網路的東西。免註冊、免金鑰、無流量限制。直接丟進防火牆、WAF、註冊表單或風控流程即可。
 
