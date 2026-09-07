@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="ffraud IP Fraud Database">
+  <defs>
+    <linearGradient id="ff-bg" x1="0" y1="0" x2="1000" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#16181d"/>
+      <stop offset="0.55" stop-color="#0a0a0a"/>
+      <stop offset="1" stop-color="#1a0b0d"/>
+    </linearGradient>
+    <radialGradient id="ff-glow" cx="0.14" cy="0.1" r="0.95">
+      <stop offset="0" stop-color="#e11d2c" stop-opacity="0.42"/>
+      <stop offset="0.62" stop-color="#e11d2c" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Scan grid: the product reads addresses off the wire, so a faint sweep
+         of vertical rules is the on-brand texture. Low contrast, and faded out
+         under the readout so it never fights the number. -->
+    <pattern id="ff-grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M0 0V26" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+      <path d="M0 0H26" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="ff-fade" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="0.58" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="ff-mask"><rect width="1000" height="260" fill="url(#ff-fade)"/></mask>
+  </defs>
+  <rect width="1000" height="260" rx="24" fill="url(#ff-bg)"/>
+  <rect width="1000" height="260" rx="24" fill="url(#ff-grid)" mask="url(#ff-mask)"/>
+  <rect width="1000" height="260" rx="24" fill="url(#ff-glow)"/>
+  <rect x="0" y="0" width="6" height="260" rx="3" fill="#e11d2c"/>
+  <text x="72" y="126" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-3">
+    <tspan fill="#e11d2c">ff</tspan><tspan fill="#ffffff">raud</tspan><tspan fill="#ffffff" fill-opacity="0.5" font-size="30" dy="-32">&#174;</tspan>
+  </text>
+  <text x="74" y="176" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="34" font-weight="400" letter-spacing="-0.4" fill="#ffffff" fill-opacity="0.78">IP Fraud Database</text>
+  <text x="928" y="116" text-anchor="end" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2" fill="#ffffff">1,226,332</text>
+  <text x="928" y="148" text-anchor="end" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="22" font-weight="500" fill="#ffffff" fill-opacity="0.68">malicious ips</text>
+  <text x="928" y="196" text-anchor="end" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="24" font-weight="400" fill="#ffffff" fill-opacity="0.74">updated 07.09.2026</text>
+</svg>
