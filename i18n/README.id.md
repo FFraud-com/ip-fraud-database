@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788759776" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788760127" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Situs-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Situs"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_berbahaya-1.226.898-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP berbahaya"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_berbahaya-1.226.900-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP berbahaya"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Jaringan_penyalahgunaan-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jaringan penyalahgunaan"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Domain_sekali_pakai-219.429-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domain sekali pakai"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Dibangun_ulang-tiap_30_menit-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Dibangun ulang"></a>
@@ -12,19 +12,19 @@
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>Baca dalam bahasa lain: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <b>Bahasa Indonesia</b></sub></p>
+<p align="center"><sub>Baca dalam bahasa lain: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <b>Bahasa Indonesia</b></sub></p>
 
 # Basis data penipuan IP, dibangun ulang tiap 30 menit
 
-<p align="center"><b>1.226.898 alamat IP berbahaya yang terkonfirmasi dan 553 jaringan dengan penyalahgunaan tinggi. Setiap alamat diberi skor, dikategorikan, dan dikonfirmasi secara independen sedikitnya dua kali.</b></p>
+<p align="center"><b>1.226.900 alamat IP berbahaya yang terkonfirmasi dan 553 jaringan dengan penyalahgunaan tinggi. Setiap alamat diberi skor, dikategorikan, dan dikonfirmasi secara independen sedikitnya dua kali.</b></p>
 <p align="center"><sub>Lisensi MIT &middot; tanpa pendaftaran, tanpa kunci API, tanpa batas permintaan &middot; diperbarui 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/id.svg?v=1788759776" alt="Lihat basis data langsung di ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/id.svg?v=1788760127" alt="Lihat basis data langsung di ffraud.com" width="540"></a></p>
 
 Ini basis data penipuan IP terbuka yang menopang [ffraud.com](https://ffraud.com). Setiap alamat di dalamnya teramati sedang menyerang sesuatu, dikonfirmasi sedikitnya dua kali secara independen, diberi skor 0 sampai 100, dan diberi label apa yang membuatnya tertangkap serta infrastruktur apa yang dipakainya. Penyerang berganti infrastruktur terus-menerus, jadi sebuah daftar blokir hanya sebernilai pembaruan terakhirnya: yang ini dibangun ulang **tiap 30 menit** langsung dari mesin yang berjalan. Yang Anda unduh adalah yang sedang menyerang internet saat ini juga. Tanpa pendaftaran, tanpa kunci, tanpa batas. Masukkan langsung ke firewall, WAF, formulir pendaftaran, atau alur antipenipuan.
 
 ## Ringkasnya
 
-- **1.226.898** alamat IP berbahaya terkonfirmasi, masing-masing teramati menyalahgunakan **dua kali atau lebih secara independen**
+- **1.226.900** alamat IP berbahaya terkonfirmasi, masing-masing teramati menyalahgunakan **dua kali atau lebih secara independen**
 - **553** jaringan yang alamat-alamatnya kami amati sebagian besar berbahaya dan padat proxy
 - **219.429** domain email sekali pakai juga ikut di repositori ini, jadi satu klon menutup kedua sisi pemeriksaan pendaftaran
 - Setiap alamat membawa **skor 0 sampai 100**, sebuah **kategori ancaman**, dan **jenis infrastruktur** saat terlihat
@@ -36,7 +36,7 @@ Ini basis data penipuan IP terbuka yang menopang [ffraud.com](https://ffraud.com
 
 | Berkas | Baris | Apa ini |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.226.898 | Alamat berbahaya, masing-masing terkonfirmasi dua kali atau lebih, dengan skor 0 sampai 100 dari kami, kategori ancaman (c2, malware, botnet, brute force, serangan web, pemindai, phishing, spam) dan jenis infrastruktur (proxy, vpn, tor, datacenter, mobile) bila diketahui |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.226.900 | Alamat berbahaya, masing-masing terkonfirmasi dua kali atau lebih, dengan skor 0 sampai 100 dari kami, kategori ancaman (c2, malware, botnet, brute force, serangan web, pemindai, phishing, spam) dan jenis infrastruktur (proxy, vpn, tor, datacenter, mobile) bila diketahui |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Jaringan yang alamat teramatinya sebagian besar berbahaya dan padat proxy: tanda khas hosting antikeluhan |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.429 | Domain email sekali pakai dan sementara, satu per baris |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | contoh | Informasi lengkap per alamat: skor, alasan dalam bahasa sehari-hari, dan setiap kategori yang dilekatkan |
