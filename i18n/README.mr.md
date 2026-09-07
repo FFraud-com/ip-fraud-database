@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788816609" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788818417" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1,230,773 पडताळलेले घातक IP पत्ते आणि 553 अधिक गैरवापर असलेली जाळी. प्रत्येक पत्त्याला गुण, वर्ग आहेत आणि किमान दोनदा स्वतंत्रपणे पडताळला गेला आहे.</b></p>
 <p align="center"><sub>MIT परवाना &middot; नोंदणी नाही, API किल्ली नाही, विनंत्यांची मर्यादा नाही &middot; अद्ययावत 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/mr.svg?v=1788816609" alt="ffraud.com वर थेट डेटाबेस पाहा" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/mr.svg?v=1788818417" alt="ffraud.com वर थेट डेटाबेस पाहा" width="540"></a></p>
 
 हा [ffraud.com](https://ffraud.com) मागे उभा असलेला खुला IP फसवणूक डेटाबेस आहे. यातील प्रत्येक पत्ता कशावर तरी हल्ला करताना दिसला, किमान दोनदा स्वतंत्रपणे पडताळला गेला, 0 ते 100 दरम्यान गुण मिळाले, आणि तो कशात पकडला गेला व कोणत्या प्रकारच्या पायाभूत सुविधेवर चालतो हे नोंदवले गेले. हल्लेखोर सतत आपली पायाभूत सुविधा बदलतात, त्यामुळे कोणत्याही अडवणूक यादीची किंमत तिच्या शेवटच्या अद्ययावतीइतकीच असते: ही यादी **दर 30 मिनिटांनी** थेट चालू इंजिनमधून पुन्हा बांधली जाते. तुम्ही जे उतरवता तेच याच क्षणी इंटरनेटवर हल्ला करत आहे. नोंदणी नाही, किल्ली नाही, मर्यादा नाही. थेट फायरवॉल, WAF, नोंदणी अर्ज किंवा फसवणूक तपासणीच्या साखळीत टाका.
 

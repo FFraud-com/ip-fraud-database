@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788816609" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788818417" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1.230.773 alamat IP berbahaya yang terkonfirmasi dan 553 jaringan dengan penyalahgunaan tinggi. Setiap alamat diberi skor, dikategorikan, dan dikonfirmasi secara independen sedikitnya dua kali.</b></p>
 <p align="center"><sub>Lisensi MIT &middot; tanpa pendaftaran, tanpa kunci API, tanpa batas permintaan &middot; diperbarui 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/id.svg?v=1788816609" alt="Lihat basis data langsung di ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/id.svg?v=1788818417" alt="Lihat basis data langsung di ffraud.com" width="540"></a></p>
 
 Ini basis data penipuan IP terbuka yang menopang [ffraud.com](https://ffraud.com). Setiap alamat di dalamnya teramati sedang menyerang sesuatu, dikonfirmasi sedikitnya dua kali secara independen, diberi skor 0 sampai 100, dan diberi label apa yang membuatnya tertangkap serta infrastruktur apa yang dipakainya. Penyerang berganti infrastruktur terus-menerus, jadi sebuah daftar blokir hanya sebernilai pembaruan terakhirnya: yang ini dibangun ulang **tiap 30 menit** langsung dari mesin yang berjalan. Yang Anda unduh adalah yang sedang menyerang internet saat ini juga. Tanpa pendaftaran, tanpa kunci, tanpa batas. Masukkan langsung ke firewall, WAF, formulir pendaftaran, atau alur antipenipuan.
 
