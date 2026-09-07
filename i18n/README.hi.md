@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788809407" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788811202" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1,229,991 पुष्ट दुर्भावनापूर्ण IP पते और 553 भारी दुरुपयोग वाले नेटवर्क। हर पता स्कोर किया गया, वर्गीकृत किया गया और कम से कम दो बार स्वतंत्र रूप से पुष्ट।</b></p>
 <p align="center"><sub>MIT लाइसेंस &middot; पंजीकरण नहीं, API कुंजी नहीं, अनुरोध सीमा नहीं &middot; अद्यतन 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hi.svg?v=1788809407" alt="ffraud.com पर लाइव डेटाबेस देखें" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hi.svg?v=1788811202" alt="ffraud.com पर लाइव डेटाबेस देखें" width="540"></a></p>
 
 यह [ffraud.com](https://ffraud.com) के पीछे खड़ा खुला IP धोखाधड़ी डेटाबेस है। इसमें मौजूद हर पता किसी न किसी पर हमला करते हुए देखा गया, कम से कम दो बार स्वतंत्र रूप से पुष्ट हुआ, 0 से 100 के बीच स्कोर पाया, और उस पर यह लेबल लगा कि वह किस काम में पकड़ा गया और किस तरह के बुनियादी ढाँचे पर चलता है। हमलावर अपना ढाँचा लगातार बदलते रहते हैं, इसलिए किसी ब्लॉकलिस्ट की कीमत उसके आख़िरी अपडेट जितनी ही होती है: यह सूची **हर 30 मिनट** में सीधे चालू इंजन से दोबारा बनाई जाती है। आप जो डाउनलोड करते हैं, वही इस वक़्त इंटरनेट पर हमला कर रहा है। न पंजीकरण, न कुंजी, न कोई सीमा। इसे सीधे फ़ायरवॉल, WAF, साइनअप फ़ॉर्म या धोखाधड़ी पाइपलाइन में डाल दीजिए।
 
