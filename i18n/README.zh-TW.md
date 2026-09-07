@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788780601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788782402" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/官網-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="官網"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/惡意_IP-1,228,444-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="惡意 IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/惡意_IP-1,228,520-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="惡意 IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/高濫用網路-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="高濫用網路"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/拋棄式網域-219,465-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="拋棄式網域"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/重建頻率-每_30_分鐘-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="重建頻率"></a>
@@ -16,15 +16,15 @@
 
 # IP 詐騙資料庫，每 30 分鐘重建一次
 
-<p align="center"><b>1,228,444 個已確認的惡意 IP 位址，553 個高濫用網路。每個位址都有評分、分類，並至少經過兩次獨立確認。</b></p>
+<p align="center"><b>1,228,520 個已確認的惡意 IP 位址，553 個高濫用網路。每個位址都有評分、分類，並至少經過兩次獨立確認。</b></p>
 <p align="center"><sub>MIT 授權 &middot; 免註冊、免金鑰、無流量限制 &middot; 更新於 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/zh-TW.svg?v=1788780601" alt="在 ffraud.com 上瀏覽即時資料庫" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/zh-TW.svg?v=1788782402" alt="在 ffraud.com 上瀏覽即時資料庫" width="540"></a></p>
 
 這是 [ffraud.com](https://ffraud.com) 背後的開放 IP 詐騙資料庫。裡面的每一個位址都是被觀測到正在攻擊某個目標的，至少經過兩次獨立確認，以 0 到 100 評分，並標註了它被抓到在做什麼、跑在什麼樣的基礎設施上。攻擊者會不停更換基礎設施，所以一份封鎖名單的價值只等於它最後一次更新：這份名單**每 30 分鐘**直接從線上引擎重建一次。你下載到的，就是此刻正在攻擊網際網路的東西。免註冊、免金鑰、無流量限制。直接丟進防火牆、WAF、註冊表單或風控流程即可。
 
 ## 關鍵數字
 
-- **1,228,444** 個已確認的惡意 IP 位址，每一個都被**兩次以上獨立觀測**到正在濫用
+- **1,228,520** 個已確認的惡意 IP 位址，每一個都被**兩次以上獨立觀測**到正在濫用
 - **553** 個網路，我們觀測到其中的位址絕大多數是惡意的、且代理占比極高
 - **219,465** 個拋棄式信箱網域也隨本倉庫一起發布，複製一次就涵蓋註冊風控的兩半
 - 每個位址都帶有 **0 到 100 的評分**、**威脅分類**，以及看得出來時的**基礎設施類型**
@@ -36,7 +36,7 @@
 
 | 檔案 | 列數 | 說明 |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,228,444 | 惡意位址，每個至少經過兩次確認，附我們 0 到 100 的評分、威脅分類（c2、惡意軟體、殭屍網路、暴力破解、Web 攻擊、掃描器、釣魚、垃圾郵件）以及已知時的基礎設施類型（proxy、vpn、tor、datacenter、mobile） |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,228,520 | 惡意位址，每個至少經過兩次確認，附我們 0 到 100 的評分、威脅分類（c2、惡意軟體、殭屍網路、暴力破解、Web 攻擊、掃描器、釣魚、垃圾郵件）以及已知時的基礎設施類型（proxy、vpn、tor、datacenter、mobile） |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | 我們觀測到其位址絕大多數為惡意且代理占比極高的網路：防彈主機的典型特徵 |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,465 | 拋棄式與臨時信箱網域，每行一個 |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | 範例 | 單一位址的完整情報：評分、白話原因，以及我們附加的每一個分類 |
