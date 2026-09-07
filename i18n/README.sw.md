@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788798609" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788800412" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>Anwani 1,229,448 za IP hatari zilizothibitishwa na mitandao 553 yenye matumizi mabaya makubwa. Kila anwani ina alama, kundi, na uthibitisho huru angalau mara mbili.</b></p>
 <p align="center"><sub>Leseni ya MIT &middot; bila kujisajili, bila ufunguo wa API, bila mipaka ya maombi &middot; imesasishwa 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sw.svg?v=1788798609" alt="Tazama hifadhidata hai kwenye ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sw.svg?v=1788800412" alt="Tazama hifadhidata hai kwenye ffraud.com" width="540"></a></p>
 
 Hii ndiyo hifadhidata huria ya udanganyifu wa IP iliyo nyuma ya [ffraud.com](https://ffraud.com). Kila anwani ndani yake ilionekana ikishambulia kitu, ilithibitishwa angalau mara mbili kwa kujitegemea, ikapewa alama kutoka 0 hadi 100, na ikawekewa lebo ya kile ilichokamatwa ikifanya na aina ya miundombinu inayoendeshea. Washambuliaji hubadilisha miundombinu bila kukoma, kwa hivyo orodha ya kuzuia ina thamani sawa na sasisho lake la mwisho: hii hujengwa upya **kila dakika 30** moja kwa moja kutoka kwa injini inayofanya kazi. Unachopakua ndicho kinachoshambulia mtandao sasa hivi. Bila kujisajili, bila ufunguo, bila mipaka. Mimina moja kwa moja kwenye ngome, WAF, fomu ya kujisajili au mkondo wa ukaguzi wa udanganyifu.
 
