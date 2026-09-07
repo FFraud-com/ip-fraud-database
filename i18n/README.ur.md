@@ -1,12 +1,12 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788767141" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788767927" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/ویب_سائٹ-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ویب سائٹ"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/نقصان_دہ_آئی_پی-1,227,199-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="نقصان دہ آئی پی"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/نقصان_دہ_آئی_پی-1,227,247-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="نقصان دہ آئی پی"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/بدسلوکی_کے_نیٹ_ورک-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="بدسلوکی کے نیٹ ورک"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/یک_بار_استعمال_ڈومین-219,429-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="یک بار استعمال ڈومین"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/دوبارہ_تعمیر-ہر_30_منٹ_بعد-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="دوبارہ تعمیر"></a>
@@ -14,19 +14,19 @@
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>کسی اور زبان میں پڑھیں: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <b>اردو</b> &middot; <a href="README.ta.md">தமிழ்</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.tl.md">Filipino</a> &middot; <a href="README.sw.md">Kiswahili</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
+<p align="center"><sub>کسی اور زبان میں پڑھیں: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.az.md">Azərbaycanca</a> &middot; <a href="README.kk.md">Қазақша</a> &middot; <a href="README.uz.md">Oʻzbekcha</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <b>اردو</b> &middot; <a href="README.ta.md">தமிழ்</a> &middot; <a href="README.te.md">తెలుగు</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.tl.md">Filipino</a> &middot; <a href="README.sw.md">Kiswahili</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
 
 # آئی پی فراڈ ڈیٹابیس، ہر 30 منٹ بعد دوبارہ تعمیر
 
-<p align="center"><b>1,227,199 تصدیق شدہ نقصان دہ آئی پی پتے اور 553 زیادہ بدسلوکی والے نیٹ ورک۔ ہر پتے کا اسکور اور زمرہ ہے اور کم از کم دو بار آزادانہ تصدیق ہو چکی ہے۔</b></p>
+<p align="center"><b>1,227,247 تصدیق شدہ نقصان دہ آئی پی پتے اور 553 زیادہ بدسلوکی والے نیٹ ورک۔ ہر پتے کا اسکور اور زمرہ ہے اور کم از کم دو بار آزادانہ تصدیق ہو چکی ہے۔</b></p>
 <p align="center"><sub>MIT لائسنس &middot; رجسٹریشن نہیں، API کلید نہیں، درخواستوں کی حد نہیں &middot; تازہ کاری 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ur.svg?v=1788767141" alt="ffraud.com پر زندہ ڈیٹابیس دیکھیں" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ur.svg?v=1788767927" alt="ffraud.com پر زندہ ڈیٹابیس دیکھیں" width="540"></a></p>
 
 یہ [ffraud.com](https://ffraud.com) کے پیچھے کھڑا کھلا آئی پی فراڈ ڈیٹابیس ہے۔ اس میں موجود ہر پتہ کسی چیز پر حملہ کرتے ہوئے دیکھا گیا، کم از کم دو بار آزادانہ تصدیق ہوئی، 0 سے 100 کے درمیان اسکور ملا، اور اس پر یہ لیبل لگا کہ وہ کس کام میں پکڑا گیا اور کس قسم کے بنیادی ڈھانچے پر چلتا ہے۔ حملہ آور مسلسل اپنا ڈھانچہ بدلتے رہتے ہیں، اس لیے کسی بلاک لسٹ کی قیمت اس کی آخری تازہ کاری کے برابر ہوتی ہے: یہ فہرست **ہر 30 منٹ بعد** براہِ راست چلتے ہوئے انجن سے نئے سرے سے بنتی ہے۔ آپ جو ڈاؤن لوڈ کرتے ہیں، وہی اس وقت انٹرنیٹ پر حملہ کر رہا ہے۔ نہ رجسٹریشن، نہ کلید، نہ کوئی حد۔ اسے سیدھا فائروال، WAF، سائن اپ فارم یا فراڈ جانچ کی لائن میں ڈال دیجیے۔
 
 ## مختصراً
 
-- **1,227,199** تصدیق شدہ نقصان دہ آئی پی پتے، ہر ایک **کم از کم دو بار آزادانہ طور پر** بدسلوکی کرتے دیکھا گیا
+- **1,227,247** تصدیق شدہ نقصان دہ آئی پی پتے، ہر ایک **کم از کم دو بار آزادانہ طور پر** بدسلوکی کرتے دیکھا گیا
 - **553** نیٹ ورک جہاں ہمارے دیکھے ہوئے پتے زیادہ تر نقصان دہ اور پراکسی سے بھرے تھے
 - **219,429** یک بار استعمال ای میل ڈومین بھی اسی ریپوزٹری میں آتے ہیں، تو ایک بار کلون کرنے سے سائن اپ جانچ کے دونوں حصے ڈھک جاتے ہیں
 - ہر پتے کے ساتھ **0 سے 100 کا اسکور**، ایک **خطرے کا زمرہ**، اور جہاں نظر آئے وہاں **بنیادی ڈھانچے کی قسم** ہوتی ہے
@@ -38,7 +38,7 @@
 
 | فائل | سطریں | یہ کیا ہے |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,227,199 | نقصان دہ پتے، ہر ایک کم از کم دو بار تصدیق شدہ، ہمارے 0 سے 100 اسکور، خطرے کے زمرے (c2، مالویئر، بوٹ نیٹ، پاس ورڈ توڑنا، ویب حملہ، اسکینر، فشنگ، اسپیم) اور جہاں معلوم ہو وہاں بنیادی ڈھانچے کی قسم (proxy، vpn، tor، datacenter، mobile) کے ساتھ |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,227,247 | نقصان دہ پتے، ہر ایک کم از کم دو بار تصدیق شدہ، ہمارے 0 سے 100 اسکور، خطرے کے زمرے (c2، مالویئر، بوٹ نیٹ، پاس ورڈ توڑنا، ویب حملہ، اسکینر، فشنگ، اسپیم) اور جہاں معلوم ہو وہاں بنیادی ڈھانچے کی قسم (proxy، vpn، tor، datacenter، mobile) کے ساتھ |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | وہ نیٹ ورک جن کے دیکھے گئے پتے زیادہ تر نقصان دہ اور پراکسی سے بھرے تھے: شکایت سے محفوظ ہوسٹنگ کی پہچان |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,429 | یک بار استعمال اور عارضی ای میل ڈومین، فی سطر ایک |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | نمونہ | فی پتہ مکمل معلومات: اسکور، سادہ زبان میں وجہ، اور لگایا گیا ہر زمرہ |

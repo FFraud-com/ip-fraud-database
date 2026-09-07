@@ -1,12 +1,12 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788767141" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788767927" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/الموقع-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="الموقع"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/عناوين_خبيثة-1,227,199-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="عناوين خبيثة"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/عناوين_خبيثة-1,227,247-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="عناوين خبيثة"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/شبكات_مسيئة-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="شبكات مسيئة"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/نطاقات_مؤقتة-219,429-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="نطاقات مؤقتة"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/يُعاد_بناؤها-كل_30_دقيقة-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="يُعاد بناؤها"></a>
@@ -14,19 +14,19 @@
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>اقرأ هذا بلغة أخرى: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <b>العربية</b> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.ur.md">اردو</a> &middot; <a href="README.ta.md">தமிழ்</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.tl.md">Filipino</a> &middot; <a href="README.sw.md">Kiswahili</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
+<p align="center"><sub>اقرأ هذا بلغة أخرى: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.az.md">Azərbaycanca</a> &middot; <a href="README.kk.md">Қазақша</a> &middot; <a href="README.uz.md">Oʻzbekcha</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <b>العربية</b> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.ur.md">اردو</a> &middot; <a href="README.ta.md">தமிழ்</a> &middot; <a href="README.te.md">తెలుగు</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.tl.md">Filipino</a> &middot; <a href="README.sw.md">Kiswahili</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
 
 # قاعدة بيانات احتيال العناوين، يُعاد بناؤها كل 30 دقيقة
 
-<p align="center"><b>1,227,199 عنوان IP خبيث مؤكد و553 شبكة عالية الإساءة. كل عنوان له درجة وتصنيف، وتأكيد مستقل مرتين على الأقل.</b></p>
+<p align="center"><b>1,227,247 عنوان IP خبيث مؤكد و553 شبكة عالية الإساءة. كل عنوان له درجة وتصنيف، وتأكيد مستقل مرتين على الأقل.</b></p>
 <p align="center"><sub>رخصة MIT &middot; بلا تسجيل، بلا مفتاح، بلا حدود &middot; آخر تحديث 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ar.svg?v=1788767141" alt="تصفّح القاعدة الحية على ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ar.svg?v=1788767927" alt="تصفّح القاعدة الحية على ffraud.com" width="540"></a></p>
 
 هذه هي قاعدة بيانات احتيال العناوين المفتوحة التي يقوم عليها [ffraud.com](https://ffraud.com). كل عنوان فيها رُصد وهو يهاجم شيئًا ما، وتأكد مرتين على الأقل بشكل مستقل، ومُنح درجة من 0 إلى 100، ووُسم بما ضُبط يفعله وبنوع البنية التي يعمل عليها. المهاجمون يبدّلون بنيتهم باستمرار، لذا لا تساوي قائمة الحظر أكثر من آخر تحديث لها: هذه القائمة يُعاد بناؤها **كل 30 دقيقة** مباشرة من المحرك الحي. ما تنزّله هو ما يهاجم الإنترنت في هذه اللحظة. بلا تسجيل، بلا مفتاح، بلا حدود. ضعها في جدار حماية أو WAF أو نموذج تسجيل أو مسار فحص احتيال.
 
 ## أرقام سريعة
 
-- **1,227,199** عنوان خبيث مؤكد، كل منها رُصد يسيء **مرتين مستقلتين أو أكثر**
+- **1,227,247** عنوان خبيث مؤكد، كل منها رُصد يسيء **مرتين مستقلتين أو أكثر**
 - **553** شبكة كانت العناوين التي رصدناها فيها خبيثة في معظمها وكثيفة الوكلاء
 - **219,429** نطاق بريد مؤقت يأتي مع هذا المستودع أيضًا، فنسخة واحدة تغطي شقّي فحص التسجيل
 - كل عنوان يحمل **درجة من 0 إلى 100** و**تصنيف تهديد** و**نوع البنية** متى أمكن رؤيته
@@ -38,7 +38,7 @@
 
 | الملف | الصفوف | ما هو |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,227,199 | عناوين خبيثة، كل منها مؤكد مرتين فأكثر، مع درجتنا من 0 إلى 100 وتصنيف التهديد (c2، برمجيات خبيثة، شبكة روبوتات، تخمين كلمات المرور، هجوم ويب، ماسح، تصيّد، بريد مزعج) ونوع البنية (proxy، vpn، tor، datacenter، mobile) متى عُرف |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,227,247 | عناوين خبيثة، كل منها مؤكد مرتين فأكثر، مع درجتنا من 0 إلى 100 وتصنيف التهديد (c2، برمجيات خبيثة، شبكة روبوتات، تخمين كلمات المرور، هجوم ويب، ماسح، تصيّد، بريد مزعج) ونوع البنية (proxy، vpn، tor، datacenter، mobile) متى عُرف |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | شبكات كانت عناوينها المرصودة خبيثة في معظمها وكثيفة الوكلاء: بصمة الاستضافة المحصّنة |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,429 | نطاقات بريد مؤقتة وعابرة، نطاق في كل سطر |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | عيّنة | معلومات كاملة لكل عنوان: الدرجة وسبب بلغة واضحة وكل تصنيف أُلحق به |
