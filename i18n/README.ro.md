@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788811202" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788813001" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Site-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Site"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP--uri_rău_intenționate-1.229.991-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP-uri rău intenționate"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP--uri_rău_intenționate-1.230.666-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP-uri rău intenționate"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Rețele_abuzive-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Rețele abuzive"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Domenii_de_unică_folosință-219.466-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domenii de unică folosință"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Reconstruit-la_fiecare_30_de_minute-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Reconstruit"></a>
@@ -16,15 +16,15 @@
 
 # Baza de fraudă IP, reconstruită la fiecare 30 de minute
 
-<p align="center"><b>1.229.991 adrese IP rău intenționate confirmate și 553 rețele cu abuz ridicat. Fiecare adresă are scor, categorie și cel puțin două confirmări independente.</b></p>
+<p align="center"><b>1.230.666 adrese IP rău intenționate confirmate și 553 rețele cu abuz ridicat. Fiecare adresă are scor, categorie și cel puțin două confirmări independente.</b></p>
 <p align="center"><sub>Licență MIT &middot; fără înregistrare, fără cheie API, fără limite de cereri &middot; actualizat 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ro.svg?v=1788811202" alt="Vezi baza live pe ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ro.svg?v=1788813001" alt="Vezi baza live pe ffraud.com" width="540"></a></p>
 
 Aceasta este baza deschisă de fraudă IP din spatele [ffraud.com](https://ffraud.com). Fiecare adresă din ea a fost observată atacând ceva, confirmată independent de cel puțin două ori, punctată de la 0 la 100 și etichetată cu ce făcea când a fost prinsă și pe ce fel de infrastructură rulează. Atacatorii își schimbă infrastructura neîncetat, așa că o listă de blocare valorează exact cât ultima ei actualizare: aceasta se reconstruiește **la fiecare 30 de minute** direct din motorul aflat în funcțiune. Ce descarci este ceea ce atacă internetul chiar acum. Fără înregistrare, fără cheie, fără limite. Bag-o direct într-un firewall, un WAF, un formular de înregistrare sau un flux antifraudă.
 
 ## Pe scurt
 
-- **1.229.991** adrese IP rău intenționate confirmate, fiecare observată abuzând **de două sau mai multe ori, independent**
+- **1.230.666** adrese IP rău intenționate confirmate, fiecare observată abuzând **de două sau mai multe ori, independent**
 - **553** rețele în care adresele pe care le-am observat erau în mare parte rău intenționate și pline de proxy
 - **219.466** domenii de e-mail de unică folosință vin și ele în acest depozit, așa că o singură clonare acoperă ambele jumătăți ale unei verificări la înregistrare
 - Fiecare adresă poartă un **scor de la 0 la 100**, o **categorie de amenințare** și **tipul de infrastructură** când se vede
@@ -36,7 +36,7 @@ Aceasta este baza deschisă de fraudă IP din spatele [ffraud.com](https://ffrau
 
 | Fișier | Rânduri | Ce este |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.229.991 | Adrese rău intenționate, fiecare confirmată de cel puțin două ori, cu scorul nostru de la 0 la 100, categoria de amenințare (c2, malware, botnet, forță brută, atac web, scaner, phishing, spam) și tipul de infrastructură (proxy, vpn, tor, datacenter, mobile) acolo unde este cunoscut |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.230.666 | Adrese rău intenționate, fiecare confirmată de cel puțin două ori, cu scorul nostru de la 0 la 100, categoria de amenințare (c2, malware, botnet, forță brută, atac web, scaner, phishing, spam) și tipul de infrastructură (proxy, vpn, tor, datacenter, mobile) acolo unde este cunoscut |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Rețele ale căror adrese observate erau în mare parte rău intenționate și pline de proxy: semnătura găzduirii care nu răspunde la reclamații |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.466 | Domenii de e-mail temporare și de unică folosință, câte unul pe rând |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | eșantion | Informații complete per adresă: scorul, un motiv în limbaj obișnuit și fiecare categorie atașată |
