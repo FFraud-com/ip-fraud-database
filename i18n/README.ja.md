@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788759045" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788759120" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/ウェブサイト-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ウェブサイト"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/悪性IP-1,226,602-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="悪性IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/悪用ネットワーク-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="悪用ネットワーク"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/使い捨てドメイン-219,402-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="使い捨てドメイン"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/使い捨てドメイン-219,404-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="使い捨てドメイン"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/再構築-30分ごと-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="再構築"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/無料API-キー不要-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="無料API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -18,7 +18,7 @@
 
 <p align="center"><b>確認済みの悪性IPアドレス 1,226,602 件、高悪用ネットワーク 553 件。すべてにスコアと分類が付き、少なくとも2回は独立して確認されています。</b></p>
 <p align="center"><sub>MITライセンス &middot; 登録不要、APIキー不要、レート制限なし &middot; 更新日 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ja.svg?v=1788759045" alt="ffraud.com でライブのデータベースを見る" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ja.svg?v=1788759120" alt="ffraud.com でライブのデータベースを見る" width="540"></a></p>
 
 [ffraud.com](https://ffraud.com) を支えているオープンなIP不正データベースです。ここにあるアドレスはどれも、何かを攻撃しているところを観測され、少なくとも2回は独立して確認され、0から100でスコア付けされ、何をしていて捕まったのか、どんなインフラで動いているのかまでラベルが付いています。攻撃者はインフラを絶えず入れ替えるので、ブロックリストの価値は最後に更新された時点で決まります。このリストは**30分ごと**に、稼働中のエンジンから直接再構築されます。ダウンロードしたものが、今この瞬間にインターネットを攻撃しているものです。登録不要、APIキー不要、レート制限なし。ファイアウォール、WAF、登録フォーム、不正検知のパイプラインにそのまま投入できます。
 
@@ -26,7 +26,7 @@
 
 - **1,226,602** 件の確認済み悪性IPアドレス。それぞれ**2回以上、独立して**悪用が観測されています
 - **553** 件のネットワーク。観測したアドレスの大半が悪性で、かつプロキシに偏っていたものです
-- **219,402** 件の使い捨てメールドメインも同じリポジトリに入っているので、1回クローンすれば登録時チェックの両面をカバーできます
+- **219,404** 件の使い捨てメールドメインも同じリポジトリに入っているので、1回クローンすれば登録時チェックの両面をカバーできます
 - すべてのアドレスに **0から100のスコア**、**脅威カテゴリ**、そして判別できる場合は**インフラの種別**が付いています
 - **30分ごと**に再構築してプッシュ。コミット履歴がそのまま変更履歴で、[`metadata.json`](metadata.json) に正確なビルド時刻が入っています
 - **MITライセンス**、商用利用可、クレジット不要
@@ -38,7 +38,7 @@
 |------|------:|------|
 | [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,226,602 | 悪性アドレス。それぞれ2回以上確認済みで、0から100のスコア、脅威カテゴリ（c2、マルウェア、ボットネット、ブルートフォース、Web攻撃、スキャナー、フィッシング、スパム）、判明している場合はインフラ種別（proxy、vpn、tor、datacenter、mobile）付き |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | 観測したアドレスの大半が悪性かつプロキシに偏っていたネットワーク。防弾ホスティングの特徴です |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,402 | 使い捨て・一時利用のメールドメイン。1行に1つ |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,404 | 使い捨て・一時利用のメールドメイン。1行に1つ |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | サンプル | アドレスごとの完全な情報：スコア、平易な言葉での理由、付与したすべてのカテゴリ |
 | [`metadata.json`](../metadata.json) | &mdash; | 現在の件数とUTCのビルド時刻。スクリプトが手元のコピーの新しさを判断できます |
 
