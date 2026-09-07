@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788814802" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788816609" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Сайт-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Сайт"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Зловредни_IP-1 230 743-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Зловредни IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Зловредни_IP-1 230 773-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Зловредни IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Злоупотребяващи_мрежи-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Злоупотребяващи мрежи"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Еднократни_домейни-219 466-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Еднократни домейни"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Пресъздава_се-на_всеки_30_минути-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Пресъздава се"></a>
@@ -16,15 +16,15 @@
 
 # База за IP измами, пресъздавана на всеки 30 минути
 
-<p align="center"><b>1 230 743 потвърдено зловредни IP адреса и 553 мрежи с висока злоупотреба. Всеки адрес с оценка, категория и поне две независими потвърждения.</b></p>
+<p align="center"><b>1 230 773 потвърдено зловредни IP адреса и 553 мрежи с висока злоупотреба. Всеки адрес с оценка, категория и поне две независими потвърждения.</b></p>
 <p align="center"><sub>Лиценз MIT &middot; без регистрация, без API ключ, без ограничения на заявките &middot; обновено 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/bg.svg?v=1788814802" alt="Вижте живата база на ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/bg.svg?v=1788816609" alt="Вижте живата база на ffraud.com" width="540"></a></p>
 
 Това е отворената база за IP измами зад [ffraud.com](https://ffraud.com). Всеки адрес в нея е наблюдаван да атакува нещо, потвърден е поне два пъти независимо, получил е оценка от 0 до 100 и е обозначен с това, в което е хванат, и с вида инфраструктура, на която работи. Атакуващите сменят инфраструктурата си непрекъснато, така че един списък за блокиране струва точно колкото последното си обновяване: този се пресъздава **на всеки 30 минути** направо от работещия двигател. Това, което сваляте, атакува интернет точно сега. Без регистрация, без ключ, без ограничения. Изсипете го направо в защитна стена, WAF, регистрационна форма или конвейер срещу измами.
 
 ## Накратко
 
-- **1 230 743** потвърдено зловредни IP адреса, всеки наблюдаван при злоупотреба **два или повече независими пъти**
+- **1 230 773** потвърдено зловредни IP адреса, всеки наблюдаван при злоупотреба **два или повече независими пъти**
 - **553** мрежи, в които наблюдаваните от нас адреси бяха предимно зловредни и наситени с прокси
 - **219 466** еднократни имейл домейна идват също в това хранилище, така че едно клониране покрива и двете половини на проверката при регистрация
 - Всеки адрес носи **оценка от 0 до 100**, **категория на заплахата** и **вида инфраструктура**, когато се вижда
@@ -36,7 +36,7 @@
 
 | Файл | Редове | Какво е |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 230 743 | Зловредни адреси, всеки потвърден поне два пъти, с нашата оценка от 0 до 100, категорията на заплахата (c2, зловреден софтуер, ботнет, груба сила, уеб атака, скенер, фишинг, спам) и вида инфраструктура (proxy, vpn, tor, datacenter, mobile), когато е известен |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 230 773 | Зловредни адреси, всеки потвърден поне два пъти, с нашата оценка от 0 до 100, категорията на заплахата (c2, зловреден софтуер, ботнет, груба сила, уеб атака, скенер, фишинг, спам) и вида инфраструктура (proxy, vpn, tor, datacenter, mobile), когато е известен |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Мрежи, чиито наблюдавани адреси бяха предимно зловредни и наситени с прокси: почеркът на бронирания хостинг |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 466 | Еднократни и временни имейл домейни, по един на ред |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | образец | Пълна информация за адрес: оценката, причина на разбираем език и всяка прикачена категория |
