@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788764409" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788764895" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -12,13 +12,13 @@
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>Przeczytaj w innym języku: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <b>Polski</b> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a></sub></p>
+<p align="center"><sub>Przeczytaj w innym języku: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <b>Polski</b> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.sv.md">Svenska</a></sub></p>
 
 # Baza oszustw IP, przebudowywana co 30 minut
 
 <p align="center"><b>1 226 900 potwierdzonych złośliwych adresów IP i 553 sieci o wysokim poziomie nadużyć. Każdy adres z oceną, kategorią i co najmniej dwoma niezależnymi potwierdzeniami.</b></p>
 <p align="center"><sub>Licencja MIT &middot; bez rejestracji, bez klucza API, bez limitów zapytań &middot; zaktualizowano 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/pl.svg?v=1788764409" alt="Zobacz bazę na żywo na ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/pl.svg?v=1788764895" alt="Zobacz bazę na żywo na ffraud.com" width="540"></a></p>
 
 To otwarta baza oszustw IP, na której stoi [ffraud.com](https://ffraud.com). Każdy adres tutaj został zaobserwowany podczas ataku, potwierdzony co najmniej dwa razy niezależnie, oceniony w skali od 0 do 100 i opisany tym, na czym go przyłapano oraz na jakiej infrastrukturze działa. Atakujący bez przerwy zmieniają infrastrukturę, więc lista blokad jest warta tyle, ile jej ostatnia aktualizacja: ta jest przebudowywana **co 30 minut** wprost z działającego silnika. To, co pobierasz, atakuje internet w tej chwili. Bez rejestracji, bez klucza, bez limitów. Wrzuć prosto do zapory, WAF-a, formularza rejestracji albo potoku antyfraudowego.
 
