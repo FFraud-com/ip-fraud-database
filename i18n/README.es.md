@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788766410" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788767141" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Sitio_web-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sitio web"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_maliciosas-1.226.900-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP maliciosas"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_maliciosas-1.227.199-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP maliciosas"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Redes_abusivas-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Redes abusivas"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Dominios_desechables-219.429-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Dominios desechables"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Se_reconstruye-cada_30_minutos-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Se reconstruye"></a>
@@ -12,19 +12,19 @@
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>Leer en otro idioma: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <b>Español</b> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
+<p align="center"><sub>Leer en otro idioma: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <b>Español</b> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.ur.md">اردو</a> &middot; <a href="README.ta.md">தமிழ்</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.tl.md">Filipino</a> &middot; <a href="README.sw.md">Kiswahili</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
 
 # Base de fraude por IP, reconstruida cada 30 minutos
 
-<p align="center"><b>1.226.900 direcciones IP maliciosas confirmadas y 553 redes con alto nivel de abuso. Cada dirección puntuada, categorizada y confirmada al menos dos veces de forma independiente.</b></p>
+<p align="center"><b>1.227.199 direcciones IP maliciosas confirmadas y 553 redes con alto nivel de abuso. Cada dirección puntuada, categorizada y confirmada al menos dos veces de forma independiente.</b></p>
 <p align="center"><sub>Licencia MIT &middot; sin registro, sin clave de API, sin límite de peticiones &middot; actualizado el 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/es.svg?v=1788766410" alt="Ver la base en vivo en ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/es.svg?v=1788767141" alt="Ver la base en vivo en ffraud.com" width="540"></a></p>
 
 Esta es la base abierta de fraude por IP que hay detrás de [ffraud.com](https://ffraud.com). Cada dirección fue observada atacando algo, confirmada al menos dos veces de forma independiente, puntuada de 0 a 100 y etiquetada con aquello en lo que se la pilló y con el tipo de infraestructura sobre la que corre. Los atacantes cambian de infraestructura sin parar, así que una lista de bloqueo vale lo que valga su última actualización: esta se reconstruye **cada 30 minutos** directamente desde el motor en producción. Lo que descargas es lo que está atacando internet ahora mismo. Sin registro, sin clave, sin límites. Métela tal cual en un cortafuegos, un WAF, un formulario de registro o una tubería antifraude.
 
 ## En pocas cifras
 
-- **1.226.900** direcciones IP maliciosas confirmadas, cada una observada abusando **dos o más veces de forma independiente**
+- **1.227.199** direcciones IP maliciosas confirmadas, cada una observada abusando **dos o más veces de forma independiente**
 - **553** redes en las que las direcciones que observamos eran mayoritariamente maliciosas y con mucha presencia de proxies
 - **219.429** dominios de correo desechable vienen también en este repositorio, así que un solo clon cubre las dos mitades de una comprobación de registro
 - Cada dirección lleva una **puntuación de 0 a 100**, una **categoría de amenaza** y el **tipo de infraestructura** cuando se puede ver
@@ -36,7 +36,7 @@ Esta es la base abierta de fraude por IP que hay detrás de [ffraud.com](https:/
 
 | Archivo | Filas | Qué es |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.226.900 | Direcciones maliciosas, cada una confirmada dos veces o más, con nuestra puntuación de 0 a 100, la categoría de amenaza (c2, malware, botnet, fuerza bruta, ataque web, escáner, phishing, spam) y el tipo de infraestructura (proxy, vpn, tor, datacenter, mobile) cuando se conoce |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.227.199 | Direcciones maliciosas, cada una confirmada dos veces o más, con nuestra puntuación de 0 a 100, la categoría de amenaza (c2, malware, botnet, fuerza bruta, ataque web, escáner, phishing, spam) y el tipo de infraestructura (proxy, vpn, tor, datacenter, mobile) cuando se conoce |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Redes cuyas direcciones observadas eran mayoritariamente maliciosas y con mucha presencia de proxies: la firma del alojamiento a prueba de denuncias |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.429 | Dominios de correo desechable y temporal, uno por línea |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | muestra | Información completa por dirección: la puntuación, un motivo en lenguaje llano y todas las categorías asignadas |

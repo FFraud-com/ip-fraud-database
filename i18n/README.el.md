@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788766410" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788767141" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Ιστότοπος-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ιστότοπος"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Κακόβουλες_IP-1.226.900-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Κακόβουλες IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Κακόβουλες_IP-1.227.199-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Κακόβουλες IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Δίκτυα_κατάχρησης-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Δίκτυα κατάχρησης"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Αναλώσιμοι_τομείς-219.429-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Αναλώσιμοι τομείς"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Ανακατασκευή-κάθε_30_λεπτά-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ανακατασκευή"></a>
@@ -12,19 +12,19 @@
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>Διαβάστε το σε άλλη γλώσσα: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <b>Ελληνικά</b> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
+<p align="center"><sub>Διαβάστε το σε άλλη γλώσσα: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <b>Ελληνικά</b> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.ur.md">اردو</a> &middot; <a href="README.ta.md">தமிழ்</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.tl.md">Filipino</a> &middot; <a href="README.sw.md">Kiswahili</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
 
 # Βάση απάτης IP, ανακατασκευάζεται κάθε 30 λεπτά
 
-<p align="center"><b>1.226.900 επιβεβαιωμένα κακόβουλες διευθύνσεις IP και 553 δίκτυα με υψηλή κατάχρηση. Κάθε διεύθυνση βαθμολογημένη, κατηγοριοποιημένη και επιβεβαιωμένη ανεξάρτητα τουλάχιστον δύο φορές.</b></p>
+<p align="center"><b>1.227.199 επιβεβαιωμένα κακόβουλες διευθύνσεις IP και 553 δίκτυα με υψηλή κατάχρηση. Κάθε διεύθυνση βαθμολογημένη, κατηγοριοποιημένη και επιβεβαιωμένη ανεξάρτητα τουλάχιστον δύο φορές.</b></p>
 <p align="center"><sub>Άδεια MIT &middot; χωρίς εγγραφή, χωρίς κλειδί API, χωρίς όρια αιτημάτων &middot; ενημερώθηκε 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/el.svg?v=1788766410" alt="Δείτε τη ζωντανή βάση στο ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/el.svg?v=1788767141" alt="Δείτε τη ζωντανή βάση στο ffraud.com" width="540"></a></p>
 
 Αυτή είναι η ανοιχτή βάση απάτης IP πίσω από το [ffraud.com](https://ffraud.com). Κάθε διεύθυνση μέσα της παρατηρήθηκε να επιτίθεται σε κάτι, επιβεβαιώθηκε ανεξάρτητα τουλάχιστον δύο φορές, βαθμολογήθηκε από 0 έως 100 και επισημάνθηκε με το τι έκανε όταν πιάστηκε και σε τι είδους υποδομή τρέχει. Οι επιτιθέμενοι αλλάζουν υποδομή διαρκώς, άρα μια λίστα αποκλεισμού αξίζει όσο και η τελευταία της ενημέρωση: αυτή ανακατασκευάζεται **κάθε 30 λεπτά** απευθείας από τη ζωντανή μηχανή. Ό,τι κατεβάζετε είναι αυτό που επιτίθεται στο διαδίκτυο αυτή τη στιγμή. Χωρίς εγγραφή, χωρίς κλειδί, χωρίς όρια. Ρίξτε το κατευθείαν σε τείχος προστασίας, WAF, φόρμα εγγραφής ή γραμμή ελέγχου απάτης.
 
 ## Με λίγα λόγια
 
-- **1.226.900** επιβεβαιωμένα κακόβουλες διευθύνσεις IP, καθεμία παρατηρήθηκε σε κατάχρηση **δύο ή περισσότερες ανεξάρτητες φορές**
+- **1.227.199** επιβεβαιωμένα κακόβουλες διευθύνσεις IP, καθεμία παρατηρήθηκε σε κατάχρηση **δύο ή περισσότερες ανεξάρτητες φορές**
 - **553** δίκτυα όπου οι διευθύνσεις που παρατηρήσαμε ήταν κατά κύριο λόγο κακόβουλες και γεμάτες proxy
 - **219.429** αναλώσιμοι τομείς email έρχονται κι αυτοί σε αυτό το αποθετήριο, οπότε ένα μόνο κλωνοποίημα καλύπτει και τα δύο μισά ενός ελέγχου εγγραφής
 - Κάθε διεύθυνση φέρει **βαθμολογία από 0 έως 100**, μια **κατηγορία απειλής** και τον **τύπο υποδομής** όταν φαίνεται
@@ -36,7 +36,7 @@
 
 | Αρχείο | Γραμμές | Τι είναι |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.226.900 | Κακόβουλες διευθύνσεις, καθεμία επιβεβαιωμένη τουλάχιστον δύο φορές, με τη βαθμολογία μας 0 έως 100, την κατηγορία απειλής (c2, κακόβουλο λογισμικό, botnet, δοκιμή κωδικών, επίθεση σε ιστό, σαρωτής, ηλεκτρονικό ψάρεμα, ανεπιθύμητα) και τον τύπο υποδομής (proxy, vpn, tor, datacenter, mobile) όπου είναι γνωστός |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.227.199 | Κακόβουλες διευθύνσεις, καθεμία επιβεβαιωμένη τουλάχιστον δύο φορές, με τη βαθμολογία μας 0 έως 100, την κατηγορία απειλής (c2, κακόβουλο λογισμικό, botnet, δοκιμή κωδικών, επίθεση σε ιστό, σαρωτής, ηλεκτρονικό ψάρεμα, ανεπιθύμητα) και τον τύπο υποδομής (proxy, vpn, tor, datacenter, mobile) όπου είναι γνωστός |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Δίκτυα των οποίων οι παρατηρούμενες διευθύνσεις ήταν κατά κύριο λόγο κακόβουλες και γεμάτες proxy: η υπογραφή της αλεξίσφαιρης φιλοξενίας |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.429 | Αναλώσιμοι και προσωρινοί τομείς email, ένας ανά γραμμή |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | δείγμα | Πλήρη στοιχεία ανά διεύθυνση: η βαθμολογία, μια αιτία σε απλή γλώσσα και κάθε κατηγορία που αποδώσαμε |

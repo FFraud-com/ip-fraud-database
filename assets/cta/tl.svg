@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="88" viewBox="0 0 760 88" role="img" aria-label="Tingnan ang buhay na database sa ffraud.com">
+  <defs>
+    <linearGradient id="ff-cta" x1="0" y1="0" x2="760" y2="88" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0313f"/>
+      <stop offset="1" stop-color="#b91c1c"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="758" height="86" rx="20" fill="url(#ff-cta)" stroke="#ff8a92" stroke-opacity="0.35" stroke-width="2"/>
+  <text x="380" y="54.046511627906966" text-anchor="middle" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="27.9" font-weight="600" letter-spacing="-0.4" fill="#ffffff">Tingnan ang buhay na database sa ffraud.com</text>
+</svg>

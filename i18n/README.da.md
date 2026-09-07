@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788766410" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788767141" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Websted-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Websted"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Ondsindede_IP'er-1.226.900-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ondsindede IP'er"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Ondsindede_IP'er-1.227.199-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ondsindede IP'er"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Misbrugsnetværk-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Misbrugsnetværk"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Engangsdomæner-219.429-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Engangsdomæner"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Genopbygges-hvert_30._minut-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Genopbygges"></a>
@@ -12,19 +12,19 @@
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>Læs på et andet sprog: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <b>Dansk</b> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
+<p align="center"><sub>Læs på et andet sprog: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.ur.md">اردو</a> &middot; <a href="README.ta.md">தமிழ்</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.tl.md">Filipino</a> &middot; <a href="README.sw.md">Kiswahili</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <b>Dansk</b> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
 
 # IP-svindeldatabase, genopbygget hvert 30. minut
 
-<p align="center"><b>1.226.900 bekræftet ondsindede IP-adresser og 553 netværk med højt misbrug. Hver adresse scoret, kategoriseret og uafhængigt bekræftet mindst to gange.</b></p>
+<p align="center"><b>1.227.199 bekræftet ondsindede IP-adresser og 553 netværk med højt misbrug. Hver adresse scoret, kategoriseret og uafhængigt bekræftet mindst to gange.</b></p>
 <p align="center"><sub>MIT-licens &middot; ingen oprettelse, ingen API-nøgle, ingen kaldsgrænser &middot; opdateret 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/da.svg?v=1788766410" alt="Se den levende database på ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/da.svg?v=1788767141" alt="Se den levende database på ffraud.com" width="540"></a></p>
 
 Dette er den åbne IP-svindeldatabase bag [ffraud.com](https://ffraud.com). Hver adresse i den er observeret angribe noget, bekræftet mindst to gange uafhængigt, scoret fra 0 til 100 og mærket med, hvad den blev taget i, og hvilken slags infrastruktur den kører på. Angribere skifter infrastruktur uafbrudt, så en blokeringsliste er præcis så meget værd som sin seneste opdatering: denne genopbygges **hvert 30. minut** direkte fra den kørende motor. Det, du henter, er det, der angriber internettet lige nu. Ingen oprettelse, ingen nøgle, ingen grænser. Hæld det direkte i en firewall, en WAF, en tilmeldingsformular eller en svindelkontrol.
 
 ## Kort fortalt
 
-- **1.226.900** bekræftet ondsindede IP-adresser, hver observeret misbruge noget **to eller flere uafhængige gange**
+- **1.227.199** bekræftet ondsindede IP-adresser, hver observeret misbruge noget **to eller flere uafhængige gange**
 - **553** netværk, hvor de adresser, vi observerede, overvejende var ondsindede og proxytunge
 - **219.429** engangsdomæner til e-mail følger også med i dette arkiv, så én enkelt klon dækker begge halvdele af et tilmeldingstjek
 - Hver adresse bærer en **score fra 0 til 100**, en **trusselskategori** og **infrastrukturtypen**, når den kan ses
@@ -36,7 +36,7 @@ Dette er den åbne IP-svindeldatabase bag [ffraud.com](https://ffraud.com). Hver
 
 | Fil | Rækker | Hvad det er |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.226.900 | Ondsindede adresser, hver bekræftet mindst to gange, med vores score fra 0 til 100, trusselskategorien (c2, malware, botnet, adgangskodegætteri, webangreb, scanner, phishing, spam) og infrastrukturtypen (proxy, vpn, tor, datacenter, mobile), hvor den er kendt |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.227.199 | Ondsindede adresser, hver bekræftet mindst to gange, med vores score fra 0 til 100, trusselskategorien (c2, malware, botnet, adgangskodegætteri, webangreb, scanner, phishing, spam) og infrastrukturtypen (proxy, vpn, tor, datacenter, mobile), hvor den er kendt |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Netværk, hvis observerede adresser overvejende var ondsindede og proxytunge: signaturen på skudsikker hosting |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.429 | Engangs- og midlertidige e-maildomæner, ét per linje |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | eksempel | Fuld information per adresse: scoren, en årsag i almindeligt sprog og hver kategori vi har sat på |

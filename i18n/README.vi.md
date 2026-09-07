@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788766410" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788767141" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Trang_chủ-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Trang chủ"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_độc_hại-1.226.900-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP độc hại"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_độc_hại-1.227.199-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP độc hại"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Mạng_lạm_dụng-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Mạng lạm dụng"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Tên_miền_dùng_một_lần-219.429-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Tên miền dùng một lần"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Dựng_lại-mỗi_30_phút-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Dựng lại"></a>
@@ -12,19 +12,19 @@
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>Đọc bằng ngôn ngữ khác: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.th.md">ไทย</a> &middot; <b>Tiếng Việt</b> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
+<p align="center"><sub>Đọc bằng ngôn ngữ khác: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.ur.md">اردو</a> &middot; <a href="README.ta.md">தமிழ்</a> &middot; <a href="README.th.md">ไทย</a> &middot; <b>Tiếng Việt</b> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.tl.md">Filipino</a> &middot; <a href="README.sw.md">Kiswahili</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
 
 # Cơ sở dữ liệu gian lận IP, dựng lại mỗi 30 phút
 
-<p align="center"><b>1.226.900 địa chỉ IP độc hại đã xác nhận và 553 mạng lạm dụng nặng. Mỗi địa chỉ đều có điểm, phân loại và ít nhất hai lần xác nhận độc lập.</b></p>
+<p align="center"><b>1.227.199 địa chỉ IP độc hại đã xác nhận và 553 mạng lạm dụng nặng. Mỗi địa chỉ đều có điểm, phân loại và ít nhất hai lần xác nhận độc lập.</b></p>
 <p align="center"><sub>Giấy phép MIT &middot; không cần đăng ký, không cần khóa API, không giới hạn truy vấn &middot; cập nhật 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/vi.svg?v=1788766410" alt="Xem cơ sở dữ liệu trực tiếp trên ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/vi.svg?v=1788767141" alt="Xem cơ sở dữ liệu trực tiếp trên ffraud.com" width="540"></a></p>
 
 Đây là cơ sở dữ liệu gian lận IP mở nằm sau [ffraud.com](https://ffraud.com). Mỗi địa chỉ trong đó đều đã bị quan sát thấy đang tấn công thứ gì đó, được xác nhận độc lập ít nhất hai lần, chấm điểm từ 0 đến 100, và gắn nhãn theo việc nó bị bắt gặp đang làm gì cùng loại hạ tầng nó đang chạy. Kẻ tấn công liên tục đổi hạ tầng, nên một danh sách chặn chỉ đáng giá bằng lần cập nhật gần nhất của nó: danh sách này được dựng lại **mỗi 30 phút** trực tiếp từ động cơ đang chạy. Thứ bạn tải về chính là thứ đang tấn công internet ngay lúc này. Không đăng ký, không khóa, không giới hạn. Đổ thẳng vào tường lửa, WAF, biểu mẫu đăng ký hay quy trình chống gian lận.
 
 ## Vài con số
 
-- **1.226.900** địa chỉ IP độc hại đã xác nhận, mỗi địa chỉ bị quan sát thấy lạm dụng **từ hai lần độc lập trở lên**
+- **1.227.199** địa chỉ IP độc hại đã xác nhận, mỗi địa chỉ bị quan sát thấy lạm dụng **từ hai lần độc lập trở lên**
 - **553** mạng mà các địa chỉ chúng tôi quan sát được phần lớn là độc hại và dày đặc proxy
 - **219.429** tên miền email dùng một lần cũng nằm trong kho này, nên chỉ một lần clone là phủ được cả hai nửa của khâu kiểm tra đăng ký
 - Mỗi địa chỉ mang một **điểm từ 0 đến 100**, một **phân loại mối đe dọa** và **loại hạ tầng** khi nhìn ra được
@@ -36,7 +36,7 @@
 
 | Tệp | Dòng | Là gì |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.226.900 | Các địa chỉ độc hại, mỗi địa chỉ đã xác nhận từ hai lần trở lên, kèm điểm 0 đến 100 của chúng tôi, phân loại mối đe dọa (c2, mã độc, botnet, dò mật khẩu, tấn công web, máy quét, lừa đảo, thư rác) và loại hạ tầng (proxy, vpn, tor, datacenter, mobile) khi biết được |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.227.199 | Các địa chỉ độc hại, mỗi địa chỉ đã xác nhận từ hai lần trở lên, kèm điểm 0 đến 100 của chúng tôi, phân loại mối đe dọa (c2, mã độc, botnet, dò mật khẩu, tấn công web, máy quét, lừa đảo, thư rác) và loại hạ tầng (proxy, vpn, tor, datacenter, mobile) khi biết được |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Những mạng mà các địa chỉ quan sát được phần lớn là độc hại và dày đặc proxy: dấu hiệu đặc trưng của dịch vụ lưu trữ chống khiếu nại |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.429 | Tên miền email dùng một lần và tạm thời, mỗi dòng một tên |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | mẫu | Thông tin đầy đủ theo từng địa chỉ: điểm số, lý do bằng lời lẽ dễ hiểu và mọi phân loại đã gắn |

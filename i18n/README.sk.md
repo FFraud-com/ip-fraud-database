@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788766410" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788767141" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Web-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Web"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Škodlivé_IP-1 226 900-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Škodlivé IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Škodlivé_IP-1 227 199-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Škodlivé IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Zneužívané_siete-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zneužívané siete"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Jednorazové_domény-219 429-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jednorazové domény"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Prestavba-každých_30_minút-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Prestavba"></a>
@@ -12,19 +12,19 @@
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>Čítať v inom jazyku: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <b>Slovenčina</b> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
+<p align="center"><sub>Čítať v inom jazyku: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <b>Slovenčina</b> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.ur.md">اردو</a> &middot; <a href="README.ta.md">தமிழ்</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.tl.md">Filipino</a> &middot; <a href="README.sw.md">Kiswahili</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
 
 # Databáza IP podvodov, prestavovaná každých 30 minút
 
-<p align="center"><b>1 226 900 potvrdených škodlivých IP adries a 553 sietí s vysokou mierou zneužívania. Každá adresa má skóre, kategóriu a najmenej dve nezávislé potvrdenia.</b></p>
+<p align="center"><b>1 227 199 potvrdených škodlivých IP adries a 553 sietí s vysokou mierou zneužívania. Každá adresa má skóre, kategóriu a najmenej dve nezávislé potvrdenia.</b></p>
 <p align="center"><sub>Licencia MIT &middot; bez registrácie, bez API kľúča, bez limitov na požiadavky &middot; aktualizované 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sk.svg?v=1788766410" alt="Pozrieť živú databázu na ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sk.svg?v=1788767141" alt="Pozrieť živú databázu na ffraud.com" width="540"></a></p>
 
 Toto je otvorená databáza IP podvodov, na ktorej stojí [ffraud.com](https://ffraud.com). Každú adresu v nej sme zachytili pri útoku, bola najmenej dvakrát nezávisle potvrdená, dostala skóre od 0 do 100 a označenie, na čom sa nechala chytiť a na akej infraštruktúre beží. Útočníci menia infraštruktúru bez prestania, takže blokovací zoznam má hodnotu presne svojej poslednej aktualizácie: tento sa **každých 30 minút** prestavuje priamo z bežiaceho jadra. To, čo si stiahnete, práve teraz útočí na internet. Bez registrácie, bez kľúča, bez limitov. Nasypte to rovno do firewallu, WAF, registračného formulára alebo protipodvodnej linky.
 
 ## V skratke
 
-- **1 226 900** potvrdených škodlivých IP adries, každá zachytená pri zneužívaní **najmenej dvakrát nezávisle**
+- **1 227 199** potvrdených škodlivých IP adries, každá zachytená pri zneužívaní **najmenej dvakrát nezávisle**
 - **553** sietí, kde boli adresy, ktoré sme pozorovali, prevažne škodlivé a plné proxy
 - **219 429** jednorazových e-mailových domén je tiež v tomto repozitári, takže jeden klon pokryje obe polovice kontroly pri registrácii
 - Každá adresa nesie **skóre 0 až 100**, **kategóriu hrozby** a **typ infraštruktúry**, keď je vidieť
@@ -36,7 +36,7 @@ Toto je otvorená databáza IP podvodov, na ktorej stojí [ffraud.com](https://f
 
 | Súbor | Riadkov | Čo to je |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 226 900 | Škodlivé adresy, každá potvrdená najmenej dvakrát, s naším skóre 0 až 100, kategóriou hrozby (c2, malvér, botnet, hrubá sila, webový útok, skener, phishing, spam) a typom infraštruktúry (proxy, vpn, tor, datacenter, mobile), ak je známy |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 227 199 | Škodlivé adresy, každá potvrdená najmenej dvakrát, s naším skóre 0 až 100, kategóriou hrozby (c2, malvér, botnet, hrubá sila, webový útok, skener, phishing, spam) a typom infraštruktúry (proxy, vpn, tor, datacenter, mobile), ak je známy |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Siete, ktorých pozorované adresy boli prevažne škodlivé a plné proxy: rukopis nepriestrelného hostingu |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 429 | Jednorazové a dočasné e-mailové domény, jedna na riadok |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | ukážka | Úplné informácie k adrese: skóre, dôvod bežnou rečou a každá priradená kategória |

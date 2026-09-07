@@ -1,12 +1,12 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788766410" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788767141" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/אתר-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="אתר"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/כתובות_זדוניות-1,226,900-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="כתובות זדוניות"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/כתובות_זדוניות-1,227,199-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="כתובות זדוניות"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/רשתות_מנוצלות-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="רשתות מנוצלות"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/דומיינים_חד־פעמיים-219,429-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="דומיינים חד־פעמיים"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/נבנה_מחדש-כל_30_דקות-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="נבנה מחדש"></a>
@@ -14,19 +14,19 @@
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>קראו בשפה אחרת: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <b>עברית</b> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
+<p align="center"><sub>קראו בשפה אחרת: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <b>עברית</b> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.ur.md">اردو</a> &middot; <a href="README.ta.md">தமிழ்</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.tl.md">Filipino</a> &middot; <a href="README.sw.md">Kiswahili</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
 
 # מסד הונאות IP, נבנה מחדש כל 30 דקות
 
-<p align="center"><b>1,226,900 כתובות IP זדוניות מאומתות ו‑553 רשתות עם ניצול לרעה גבוה. לכל כתובת ניקוד, קטגוריה ולפחות שני אימותים עצמאיים.</b></p>
+<p align="center"><b>1,227,199 כתובות IP זדוניות מאומתות ו‑553 רשתות עם ניצול לרעה גבוה. לכל כתובת ניקוד, קטגוריה ולפחות שני אימותים עצמאיים.</b></p>
 <p align="center"><sub>רישיון MIT &middot; בלי הרשמה, בלי מפתח API, בלי הגבלת בקשות &middot; עודכן 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/he.svg?v=1788766410" alt="לצפייה במסד החי ב‑ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/he.svg?v=1788767141" alt="לצפייה במסד החי ב‑ffraud.com" width="540"></a></p>
 
 זהו מסד הונאות ה‑IP הפתוח שמאחורי [ffraud.com](https://ffraud.com). כל כתובת בו נצפתה תוקפת משהו, אומתה לפחות פעמיים באופן עצמאי, קיבלה ניקוד בין 0 ל‑100 ותויגה במה שנתפסה עושה ובאיזה סוג תשתית היא פועלת. תוקפים מחליפים תשתית ללא הרף, ולכן רשימת חסימה שווה בדיוק כמו העדכון האחרון שלה: הרשימה הזאת נבנית מחדש **כל 30 דקות** ישירות מהמנוע הפעיל. מה שאתם מורידים הוא מה שתוקף את האינטרנט ברגע זה. בלי הרשמה, בלי מפתח, בלי הגבלות. הכניסו את זה ישר לחומת אש, ל‑WAF, לטופס הרשמה או לצינור בדיקת הונאות.
 
 ## בקצרה
 
-- **1,226,900** כתובות IP זדוניות מאומתות, כל אחת נצפתה בניצול לרעה **פעמיים או יותר, באופן עצמאי**
+- **1,227,199** כתובות IP זדוניות מאומתות, כל אחת נצפתה בניצול לרעה **פעמיים או יותר, באופן עצמאי**
 - **553** רשתות שבהן הכתובות שראינו היו ברובן זדוניות ועתירות פרוקסי
 - **219,429** דומייני דוא"ל חד־פעמיים מגיעים גם הם במאגר הזה, כך שהעתקה אחת מכסה את שני חצאי הבדיקה בהרשמה
 - כל כתובת נושאת **ניקוד בין 0 ל‑100**, **קטגוריית איום** ו**סוג תשתית** כשאפשר לראות אותו
@@ -38,7 +38,7 @@
 
 | קובץ | שורות | מה זה |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,226,900 | כתובות זדוניות, כל אחת מאומתת לפחות פעמיים, עם הניקוד שלנו בין 0 ל‑100, קטגוריית האיום (c2, נוזקה, בוטנט, ניחוש סיסמאות, תקיפת אתרים, סורק, פישינג, ספאם) וסוג התשתית (proxy, vpn, tor, datacenter, mobile) כשהוא ידוע |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,227,199 | כתובות זדוניות, כל אחת מאומתת לפחות פעמיים, עם הניקוד שלנו בין 0 ל‑100, קטגוריית האיום (c2, נוזקה, בוטנט, ניחוש סיסמאות, תקיפת אתרים, סורק, פישינג, ספאם) וסוג התשתית (proxy, vpn, tor, datacenter, mobile) כשהוא ידוע |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | רשתות שהכתובות שנצפו בהן היו ברובן זדוניות ועתירות פרוקסי: החתימה של אחסון חסין תלונות |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,429 | דומייני דואר חד־פעמיים וזמניים, אחד בכל שורה |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | דוגמה | מידע מלא לכל כתובת: הניקוד, סיבה בשפה פשוטה וכל קטגוריה שצירפנו |

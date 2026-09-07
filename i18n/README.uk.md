@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788766410" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788767141" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Сайт-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Сайт"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Шкідливі_IP-1 226 900-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Шкідливі IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Шкідливі_IP-1 227 199-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Шкідливі IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Мережі_зловживань-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Мережі зловживань"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Одноразові_домени-219 429-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Одноразові домени"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Перезбирання-кожні_30_хвилин-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Перезбирання"></a>
@@ -12,19 +12,19 @@
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>Читати іншою мовою: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <b>Українська</b> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
+<p align="center"><sub>Читати іншою мовою: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <b>Українська</b> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.ur.md">اردو</a> &middot; <a href="README.ta.md">தமிழ்</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.tl.md">Filipino</a> &middot; <a href="README.sw.md">Kiswahili</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
 
 # База IP-шахрайства, перезбирається кожні 30 хвилин
 
-<p align="center"><b>1 226 900 підтверджених шкідливих IP-адрес і 553 мереж із високим рівнем зловживань. Кожна адреса з оцінкою, категорією і щонайменше двома незалежними підтвердженнями.</b></p>
+<p align="center"><b>1 227 199 підтверджених шкідливих IP-адрес і 553 мереж із високим рівнем зловживань. Кожна адреса з оцінкою, категорією і щонайменше двома незалежними підтвердженнями.</b></p>
 <p align="center"><sub>Ліцензія MIT &middot; без реєстрації, без ключа API, без обмежень на запити &middot; оновлено 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/uk.svg?v=1788766410" alt="Переглянути живу базу на ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/uk.svg?v=1788767141" alt="Переглянути живу базу на ffraud.com" width="540"></a></p>
 
 Це відкрита база IP-шахрайства, на якій працює [ffraud.com](https://ffraud.com). Кожну адресу тут було помічено під час атаки, підтверджено щонайменше двічі незалежно, оцінено за шкалою від 0 до 100 і позначено тим, на чому її спіймали та на якій інфраструктурі вона працює. Зловмисники безперервно змінюють інфраструктуру, тож список блокування вартий рівно стільки, скільки його останнє оновлення: цей перезбирається **кожні 30 хвилин** просто з робочого рушія. Те, що ви завантажуєте, атакує інтернет саме зараз. Без реєстрації, без ключа, без обмежень. Заводьте у фаєрвол, WAF, форму реєстрації чи антифрод-конвеєр.
 
 ## Коротко
 
-- **1 226 900** підтверджених шкідливих IP-адрес, кожну помічено за зловживанням **щонайменше двічі незалежно**
+- **1 227 199** підтверджених шкідливих IP-адрес, кожну помічено за зловживанням **щонайменше двічі незалежно**
 - **553** мереж, де спостережувані нами адреси були переважно шкідливими та насиченими проксі
 - **219 429** одноразових поштових доменів лежать у цьому ж репозиторії, тож один клон покриває обидві половини перевірки під час реєстрації
 - Кожна адреса має **оцінку від 0 до 100**, **категорію загрози** та **тип інфраструктури**, коли його видно
@@ -36,7 +36,7 @@
 
 | Файл | Рядків | Що це |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 226 900 | Шкідливі адреси, кожна підтверджена щонайменше двічі, з нашою оцінкою від 0 до 100, категорією загрози (c2, шкідливе ПЗ, ботнет, добір паролів, вебатака, сканер, фішинг, спам) і типом інфраструктури (proxy, vpn, tor, datacenter, mobile), коли він відомий |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 227 199 | Шкідливі адреси, кожна підтверджена щонайменше двічі, з нашою оцінкою від 0 до 100, категорією загрози (c2, шкідливе ПЗ, ботнет, добір паролів, вебатака, сканер, фішинг, спам) і типом інфраструктури (proxy, vpn, tor, datacenter, mobile), коли він відомий |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Мережі, чиї спостережувані адреси були переважно шкідливими та насиченими проксі: почерк куленепробивного хостингу |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 429 | Одноразові й тимчасові поштові домени, по одному в рядку |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | зразок | Повна інформація про адресу: оцінка, причина простою мовою та всі призначені категорії |
