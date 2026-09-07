@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788789601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788791401" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Sayt-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sayt"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Zararli_IP-1 229 125-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zararli IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Zararli_IP-1 229 268-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zararli IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Suiisteʼmol_tarmoqlari-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Suiisteʼmol tarmoqlari"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Bir_martalik_domenlar-219 465-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Bir martalik domenlar"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Bir_martalik_domenlar-219 466-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Bir martalik domenlar"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Qayta_quriladi-har_30_daqiqada-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Qayta quriladi"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Bepul_API-kalitsiz-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Bepul API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,17 +16,17 @@
 
 # IP firibgarlik bazasi, har 30 daqiqada qayta quriladi
 
-<p align="center"><b>1 229 125 tasdiqlangan zararli IP manzil va 553 yuqori suiisteʼmolli tarmoq. Har bir manzil ball va toifaga ega hamda kamida ikki marta mustaqil tasdiqlangan.</b></p>
+<p align="center"><b>1 229 268 tasdiqlangan zararli IP manzil va 553 yuqori suiisteʼmolli tarmoq. Har bir manzil ball va toifaga ega hamda kamida ikki marta mustaqil tasdiqlangan.</b></p>
 <p align="center"><sub>MIT litsenziyasi &middot; roʻyxatdan oʻtmasdan, API kalitisiz, soʻrov chegarasisiz &middot; yangilandi 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/uz.svg?v=1788789601" alt="Jonli bazani ffraud.com da koʻring" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/uz.svg?v=1788791401" alt="Jonli bazani ffraud.com da koʻring" width="540"></a></p>
 
 Bu [ffraud.com](https://ffraud.com) ortida turgan ochiq IP firibgarlik bazasi. Undagi har bir manzil biror narsaga hujum qilayotganda kuzatilgan, kamida ikki marta mustaqil tasdiqlangan, 0 dan 100 gacha baholangan va nima qilayotganda qoʻlga tushgani hamda qanday infratuzilmada ishlashi belgilangan. Hujumchilar infratuzilmasini toʻxtovsiz almashtiradi, shu bois bloklash roʻyxati faqat oxirgi yangilanishi qadar qimmatlidir: bu roʻyxat **har 30 daqiqada** bevosita ishlab turgan dvigateldan qayta quriladi. Siz yuklab olayotgan narsa aynan hozir internetga hujum qilayotgani. Roʻyxatdan oʻtmasdan, kalitsiz, cheklovsiz. Uni toʻgʻridan-toʻgʻri xavfsizlik devoriga, WAF ga, roʻyxatdan oʻtish shakliga yoki firibgarlikni tekshirish oqimiga quying.
 
 ## Qisqacha
 
-- **1 229 125** tasdiqlangan zararli IP manzil, har biri **kamida ikki marta mustaqil ravishda** suiisteʼmol qilayotganda kuzatilgan
+- **1 229 268** tasdiqlangan zararli IP manzil, har biri **kamida ikki marta mustaqil ravishda** suiisteʼmol qilayotganda kuzatilgan
 - **553** tarmoq, ularda biz kuzatgan manzillar asosan zararli va proksiga toʻla edi
-- **219 465** bir martalik pochta domeni ham shu omborda keladi, demak bir marta klonlash roʻyxatdan oʻtish tekshiruvining ikkala yarmini qamrab oladi
+- **219 466** bir martalik pochta domeni ham shu omborda keladi, demak bir marta klonlash roʻyxatdan oʻtish tekshiruvining ikkala yarmini qamrab oladi
 - Har bir manzil **0 dan 100 gacha ball**, bitta **tahdid toifasi** va koʻringanda **infratuzilma turini** olib yuradi
 - **Har 30 daqiqada** qayta qurilib chop etiladi. Commit tarixi oʻzgarishlar qaydnomasi, [`metadata.json`](metadata.json) esa aniq yigʻish vaqtini saqlaydi
 - **MIT litsenziyasi**, tijorat foydalanishi bilan birga, muallifni koʻrsatish talab etilmaydi
@@ -36,9 +36,9 @@ Bu [ffraud.com](https://ffraud.com) ortida turgan ochiq IP firibgarlik bazasi. U
 
 | Fayl | Qator | Bu nima |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 229 125 | Zararli manzillar, har biri kamida ikki marta tasdiqlangan, 0 dan 100 gacha ballimiz, tahdid toifasi (c2, zararli dastur, botnet, parol saralash, veb hujum, skaner, fishing, spam) va maʼlum boʻlsa infratuzilma turi (proxy, vpn, tor, datacenter, mobile) bilan |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 229 268 | Zararli manzillar, har biri kamida ikki marta tasdiqlangan, 0 dan 100 gacha ballimiz, tahdid toifasi (c2, zararli dastur, botnet, parol saralash, veb hujum, skaner, fishing, spam) va maʼlum boʻlsa infratuzilma turi (proxy, vpn, tor, datacenter, mobile) bilan |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Kuzatilgan manzillari asosan zararli va proksiga toʻla boʻlgan tarmoqlar: shikoyatga chidamli xostingning imzosi |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 465 | Bir martalik va vaqtinchalik pochta domenlari, har qatorda bittadan |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 466 | Bir martalik va vaqtinchalik pochta domenlari, har qatorda bittadan |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | namuna | Har bir manzil boʻyicha toʻliq maʼlumot: ball, oddiy tilda sabab va biriktirilgan har bir toifa |
 | [`metadata.json`](../metadata.json) | &mdash; | Joriy sonlar va UTC boʻyicha yigʻish vaqti, skript oʻz nusxasining qanchalik yangi ekanini bilishi uchun |
 
