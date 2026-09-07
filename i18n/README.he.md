@@ -1,12 +1,12 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788771601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788772980" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/אתר-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="אתר"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/כתובות_זדוניות-1,227,343-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="כתובות זדוניות"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/כתובות_זדוניות-1,227,344-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="כתובות זדוניות"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/רשתות_מנוצלות-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="רשתות מנוצלות"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/דומיינים_חד־פעמיים-219,429-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="דומיינים חד־פעמיים"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/נבנה_מחדש-כל_30_דקות-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="נבנה מחדש"></a>
@@ -18,15 +18,15 @@
 
 # מסד הונאות IP, נבנה מחדש כל 30 דקות
 
-<p align="center"><b>1,227,343 כתובות IP זדוניות מאומתות ו‑553 רשתות עם ניצול לרעה גבוה. לכל כתובת ניקוד, קטגוריה ולפחות שני אימותים עצמאיים.</b></p>
+<p align="center"><b>1,227,344 כתובות IP זדוניות מאומתות ו‑553 רשתות עם ניצול לרעה גבוה. לכל כתובת ניקוד, קטגוריה ולפחות שני אימותים עצמאיים.</b></p>
 <p align="center"><sub>רישיון MIT &middot; בלי הרשמה, בלי מפתח API, בלי הגבלת בקשות &middot; עודכן 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/he.svg?v=1788771601" alt="לצפייה במסד החי ב‑ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/he.svg?v=1788772980" alt="לצפייה במסד החי ב‑ffraud.com" width="540"></a></p>
 
 זהו מסד הונאות ה‑IP הפתוח שמאחורי [ffraud.com](https://ffraud.com). כל כתובת בו נצפתה תוקפת משהו, אומתה לפחות פעמיים באופן עצמאי, קיבלה ניקוד בין 0 ל‑100 ותויגה במה שנתפסה עושה ובאיזה סוג תשתית היא פועלת. תוקפים מחליפים תשתית ללא הרף, ולכן רשימת חסימה שווה בדיוק כמו העדכון האחרון שלה: הרשימה הזאת נבנית מחדש **כל 30 דקות** ישירות מהמנוע הפעיל. מה שאתם מורידים הוא מה שתוקף את האינטרנט ברגע זה. בלי הרשמה, בלי מפתח, בלי הגבלות. הכניסו את זה ישר לחומת אש, ל‑WAF, לטופס הרשמה או לצינור בדיקת הונאות.
 
 ## בקצרה
 
-- **1,227,343** כתובות IP זדוניות מאומתות, כל אחת נצפתה בניצול לרעה **פעמיים או יותר, באופן עצמאי**
+- **1,227,344** כתובות IP זדוניות מאומתות, כל אחת נצפתה בניצול לרעה **פעמיים או יותר, באופן עצמאי**
 - **553** רשתות שבהן הכתובות שראינו היו ברובן זדוניות ועתירות פרוקסי
 - **219,429** דומייני דוא"ל חד־פעמיים מגיעים גם הם במאגר הזה, כך שהעתקה אחת מכסה את שני חצאי הבדיקה בהרשמה
 - כל כתובת נושאת **ניקוד בין 0 ל‑100**, **קטגוריית איום** ו**סוג תשתית** כשאפשר לראות אותו
@@ -38,7 +38,7 @@
 
 | קובץ | שורות | מה זה |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,227,343 | כתובות זדוניות, כל אחת מאומתת לפחות פעמיים, עם הניקוד שלנו בין 0 ל‑100, קטגוריית האיום (c2, נוזקה, בוטנט, ניחוש סיסמאות, תקיפת אתרים, סורק, פישינג, ספאם) וסוג התשתית (proxy, vpn, tor, datacenter, mobile) כשהוא ידוע |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,227,344 | כתובות זדוניות, כל אחת מאומתת לפחות פעמיים, עם הניקוד שלנו בין 0 ל‑100, קטגוריית האיום (c2, נוזקה, בוטנט, ניחוש סיסמאות, תקיפת אתרים, סורק, פישינג, ספאם) וסוג התשתית (proxy, vpn, tor, datacenter, mobile) כשהוא ידוע |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | רשתות שהכתובות שנצפו בהן היו ברובן זדוניות ועתירות פרוקסי: החתימה של אחסון חסין תלונות |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,429 | דומייני דואר חד־פעמיים וזמניים, אחד בכל שורה |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | דוגמה | מידע מלא לכל כתובת: הניקוד, סיבה בשפה פשוטה וכל קטגוריה שצירפנו |
