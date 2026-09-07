@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788764895" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788765574" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -12,13 +12,13 @@
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>อ่านในภาษาอื่น: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <b>ไทย</b> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.sv.md">Svenska</a></sub></p>
+<p align="center"><sub>อ่านในภาษาอื่น: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <b>ไทย</b> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
 
 # ฐานข้อมูลการฉ้อโกงทาง IP สร้างใหม่ทุก 30 นาที
 
 <p align="center"><b>ที่อยู่ IP อันตรายที่ยืนยันแล้ว 1,226,900 รายการ และเครือข่ายที่ถูกใช้ในทางมิชอบสูง 553 เครือข่าย ทุกที่อยู่มีคะแนน มีหมวดหมู่ และผ่านการยืนยันอย่างเป็นอิสระอย่างน้อยสองครั้ง</b></p>
 <p align="center"><sub>สัญญาอนุญาต MIT &middot; ไม่ต้องสมัคร ไม่ต้องใช้คีย์ API ไม่จำกัดจำนวนคำขอ &middot; อัปเดตเมื่อ 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/th.svg?v=1788764895" alt="ดูฐานข้อมูลสดบน ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/th.svg?v=1788765574" alt="ดูฐานข้อมูลสดบน ffraud.com" width="540"></a></p>
 
 นี่คือฐานข้อมูลการฉ้อโกงทาง IP แบบเปิดที่อยู่เบื้องหลัง [ffraud.com](https://ffraud.com) ทุกที่อยู่ในนี้ถูกสังเกตพบขณะกำลังโจมตีบางอย่าง ผ่านการยืนยันอย่างเป็นอิสระอย่างน้อยสองครั้ง ได้คะแนนจาก 0 ถึง 100 และติดป้ายว่าถูกจับได้ว่าทำอะไรและทำงานอยู่บนโครงสร้างพื้นฐานแบบไหน ผู้โจมตีเปลี่ยนโครงสร้างพื้นฐานอยู่ตลอด รายการบล็อกจึงมีค่าเท่ากับการอัปเดตครั้งล่าสุดของมันเท่านั้น รายการนี้ถูกสร้างใหม่**ทุก 30 นาที**ตรงจากเอนจินที่ทำงานอยู่จริง สิ่งที่คุณดาวน์โหลดคือสิ่งที่กำลังโจมตีอินเทอร์เน็ตอยู่ในขณะนี้ ไม่ต้องสมัคร ไม่ต้องใช้คีย์ ไม่มีขีดจำกัด ใส่ลงไฟร์วอลล์ WAF ฟอร์มสมัครสมาชิก หรือสายงานตรวจจับการฉ้อโกงได้ทันที
 

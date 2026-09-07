@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="116" viewBox="0 0 760 116" role="img" aria-label="پایگاه دادهٔ زنده را در ffraud.com ببینید">
+  <defs>
+    <linearGradient id="ff-cta" x1="0" y1="0" x2="760" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0313f"/>
+      <stop offset="1" stop-color="#b91c1c"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="758" height="114" rx="20" fill="url(#ff-cta)" stroke="#ff8a92" stroke-opacity="0.35" stroke-width="2"/>
+  <text x="380" y="47.5" text-anchor="middle" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="30.0" font-weight="600" letter-spacing="-0.4" fill="#ffffff">پایگاه دادهٔ زنده</text>
+  <text x="380" y="85" text-anchor="middle" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="30.0" font-weight="600" letter-spacing="-0.4" fill="#ffffff">را در ffraud.com ببینید</text>
+</svg>
