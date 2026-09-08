@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788892210" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788894010" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1 239 601 potvrzených škodlivých IP adres a 553 sítí s vysokou mírou zneužívání. Každá adresa má skóre, kategorii a nejméně dvě nezávislá potvrzení.</b></p>
 <p align="center"><sub>Licence MIT &middot; bez registrace, bez API klíče, bez limitů na dotazy &middot; aktualizováno 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/cs.svg?v=1788892210" alt="Prohlédnout živou databázi na ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/cs.svg?v=1788894010" alt="Prohlédnout živou databázi na ffraud.com" width="540"></a></p>
 
 Tohle je otevřená databáze IP podvodů, na které stojí [ffraud.com](https://ffraud.com). Každou adresu v ní jsme zachytili při útoku, byla nejméně dvakrát nezávisle potvrzena, dostala skóre od 0 do 100 a označení, na čem se nechala chytit a na jaké infrastruktuře běží. Útočníci mění infrastrukturu bez ustání, takže blokovací seznam má cenu přesně své poslední aktualizace: tenhle se **každých 30 minut** přestavuje přímo z běžícího jádra. To, co si stáhnete, právě teď útočí na internet. Bez registrace, bez klíče, bez limitů. Nasypte to rovnou do firewallu, WAF, registračního formuláře nebo protipodvodné linky.
 
