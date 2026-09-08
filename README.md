@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788831001" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788832810" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1,231,440 confirmed-malicious IP addresses and 553 high-abuse networks. Every address scored, categorised, and independently confirmed at least twice.</b></p>
 <p align="center"><sub>MIT licensed &middot; no signup, no API key, no rate limits &middot; updated 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/en.svg?v=1788831001" alt="Browse the live database on ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/en.svg?v=1788832810" alt="Browse the live database on ffraud.com" width="540"></a></p>
 
 This is the open IP-fraud database behind [ffraud.com](https://ffraud.com). Every address in it was observed attacking something, confirmed at least twice independently, scored from 0 to 100, and labelled with what it was caught doing and what kind of infrastructure it runs on. Attackers rotate infrastructure constantly, so a blocklist is only worth as much as its last refresh: this one is rebuilt **every 30 minutes** straight from the live engine. What you download is what is attacking the internet right now. No signup, no API key, no rate limits. Drop it into a firewall, a WAF, a signup form, or a fraud pipeline.
 

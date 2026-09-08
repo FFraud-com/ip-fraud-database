@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788831001" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788832810" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1 231 440 təsdiqlənmiş zərərli IP ünvanı və 553 yüksək sui-istifadəli şəbəkə. Hər ünvan qiymətləndirilib, kateqoriyalaşdırılıb və ən azı iki dəfə müstəqil təsdiqlənib.</b></p>
 <p align="center"><sub>MIT lisenziyası &middot; qeydiyyatsız, API açarısız, sorğu limitisiz &middot; yeniləndi 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/az.svg?v=1788831001" alt="Canlı bazaya ffraud.com-da baxın" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/az.svg?v=1788832810" alt="Canlı bazaya ffraud.com-da baxın" width="540"></a></p>
 
 Bu, [ffraud.com](https://ffraud.com) arxasında duran açıq IP saxtakarlıq bazasıdır. İçindəki hər ünvan nəyəsə hücum edərkən müşahidə olunub, ən azı iki dəfə müstəqil təsdiqlənib, 0-dan 100-ə qədər qiymətləndirilib və nə edərkən tutulduğu ilə hansı infrastrukturda işlədiyi qeyd olunub. Hücum edənlər infrastrukturunu dayanmadan dəyişir, ona görə bloklama siyahısı yalnız son yenilənməsi qədər dəyərlidir: bu siyahı **hər 30 dəqiqədən bir** birbaşa işləyən mühərrikdən yenidən qurulur. Yüklədiyiniz şey elə indi internetə hücum edəndir. Qeydiyyatsız, açarsız, limitsiz. Birbaşa təhlükəsizlik divarına, WAF-a, qeydiyyat formasına və ya saxtakarlıq yoxlama xəttinə tökün.
 
