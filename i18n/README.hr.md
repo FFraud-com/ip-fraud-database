@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788823809" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788825602" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 # Baza IP prijevara, ponovno izgrađena svakih 30 minuta
 
 <p align="center"><b>1.230.931 potvrđeno zlonamjernih IP adresa i 553 mreža s visokom zlouporabom. Svaka adresa ocijenjena, kategorizirana i neovisno potvrđena najmanje dvaput.</b></p>
-<p align="center"><sub>MIT licencija &middot; bez registracije, bez API ključa, bez ograničenja zahtjeva &middot; ažurirano 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hr.svg?v=1788823809" alt="Pogledajte živu bazu na ffraud.com" width="540"></a></p>
+<p align="center"><sub>MIT licencija &middot; bez registracije, bez API ključa, bez ograničenja zahtjeva &middot; ažurirano 08.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hr.svg?v=1788825602" alt="Pogledajte živu bazu na ffraud.com" width="540"></a></p>
 
 Ovo je otvorena baza IP prijevara iza [ffraud.com](https://ffraud.com). Svaka adresa u njoj uočena je kako nešto napada, potvrđena je najmanje dvaput neovisno, ocijenjena od 0 do 100 i označena onim na čemu je uhvaćena te vrstom infrastrukture na kojoj radi. Napadači neprestano mijenjaju infrastrukturu, pa popis za blokiranje vrijedi točno koliko i njegovo posljednje ažuriranje: ovaj se **svakih 30 minuta** iznova gradi izravno iz pokrenutog stroja. Ono što preuzmete napada internet upravo sada. Bez registracije, bez ključa, bez ograničenja. Ubacite to ravno u vatrozid, WAF, obrazac za registraciju ili liniju provjere prijevara.
 
