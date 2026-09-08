@@ -1,7 +1,7 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788852601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788854414" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 <p align="center"><b>1,235,801 تصدیق شدہ نقصان دہ آئی پی پتے اور 553 زیادہ بدسلوکی والے نیٹ ورک۔ ہر پتے کا اسکور اور زمرہ ہے اور کم از کم دو بار آزادانہ تصدیق ہو چکی ہے۔</b></p>
 <p align="center"><sub>MIT لائسنس &middot; رجسٹریشن نہیں، API کلید نہیں، درخواستوں کی حد نہیں &middot; تازہ کاری 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ur.svg?v=1788852601" alt="ffraud.com پر زندہ ڈیٹابیس دیکھیں" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ur.svg?v=1788854414" alt="ffraud.com پر زندہ ڈیٹابیس دیکھیں" width="540"></a></p>
 
 یہ [ffraud.com](https://ffraud.com) کے پیچھے کھڑا کھلا آئی پی فراڈ ڈیٹابیس ہے۔ اس میں موجود ہر پتہ کسی چیز پر حملہ کرتے ہوئے دیکھا گیا، کم از کم دو بار آزادانہ تصدیق ہوئی، 0 سے 100 کے درمیان اسکور ملا، اور اس پر یہ لیبل لگا کہ وہ کس کام میں پکڑا گیا اور کس قسم کے بنیادی ڈھانچے پر چلتا ہے۔ حملہ آور مسلسل اپنا ڈھانچہ بدلتے رہتے ہیں، اس لیے کسی بلاک لسٹ کی قیمت اس کی آخری تازہ کاری کے برابر ہوتی ہے: یہ فہرست **ہر 30 منٹ بعد** براہِ راست چلتے ہوئے انجن سے نئے سرے سے بنتی ہے۔ آپ جو ڈاؤن لوڈ کرتے ہیں، وہی اس وقت انٹرنیٹ پر حملہ کر رہا ہے۔ نہ رجسٹریشن، نہ کلید، نہ کوئی حد۔ اسے سیدھا فائروال، WAF، سائن اپ فارم یا فراڈ جانچ کی لائن میں ڈال دیجیے۔
 
