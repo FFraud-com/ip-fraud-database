@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788843609" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788845408" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Website-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Website"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Malicious_IPs-1,235,440-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Malicious IPs"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Abusive_networks-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Abusive networks"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Disposable_domains-219,466-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Disposable domains"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Disposable_domains-219,468-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Disposable domains"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Rebuilt-every_30_minutes-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Rebuilt"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Free_API-no_key-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Free API"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1,235,440 confirmed-malicious IP addresses and 553 high-abuse networks. Every address scored, categorised, and independently confirmed at least twice.</b></p>
 <p align="center"><sub>MIT licensed &middot; no signup, no API key, no rate limits &middot; updated 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/en.svg?v=1788843609" alt="Browse the live database on ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/en.svg?v=1788845408" alt="Browse the live database on ffraud.com" width="540"></a></p>
 
 This is the open IP-fraud database behind [ffraud.com](https://ffraud.com). Every address in it was observed attacking something, confirmed at least twice independently, scored from 0 to 100, and labelled with what it was caught doing and what kind of infrastructure it runs on. Attackers rotate infrastructure constantly, so a blocklist is only worth as much as its last refresh: this one is rebuilt **every 30 minutes** straight from the live engine. What you download is what is attacking the internet right now. No signup, no API key, no rate limits. Drop it into a firewall, a WAF, a signup form, or a fraud pipeline.
 
@@ -26,7 +26,7 @@ This is the open IP-fraud database behind [ffraud.com](https://ffraud.com). Ever
 
 - **1,235,440** confirmed-malicious IP addresses, each seen abusing something **two or more independent times**
 - **553** networks where the addresses we observed were overwhelmingly malicious and proxy-heavy
-- **219,466** disposable email domains ship in this repo too, so one clone covers both halves of a signup check
+- **219,468** disposable email domains ship in this repo too, so one clone covers both halves of a signup check
 - Every address carries a **0 to 100 score**, a **threat category**, and the **infrastructure type** when we can see it
 - Rebuilt and pushed **every 30 minutes**. The commit history is the changelog, and [`metadata.json`](metadata.json) carries the exact build time
 - **MIT licensed**, commercial use included, no attribution required
@@ -38,7 +38,7 @@ This is the open IP-fraud database behind [ffraud.com](https://ffraud.com). Ever
 |------|------:|------|
 | [`threat-ips/confirmed-abusive.csv`](threat-ips/confirmed-abusive.csv) | 1,235,440 | Malicious addresses, each confirmed 2+ times, with our 0 to 100 score, the threat category (c2, malware, botnet, brute force, web attack, scanner, phishing, spam) and the infrastructure type (proxy, vpn, tor, datacenter, mobile) where known |
 | [`asn-reputation/high-abuse-networks.csv`](asn-reputation/high-abuse-networks.csv) | 553 | Networks whose observed addresses were overwhelmingly malicious and proxy-heavy: the bulletproof-hosting signature |
-| [`disposable-email-domains.txt`](disposable-email-domains.txt) | 219,466 | Throwaway and disposable email domains, one per line |
+| [`disposable-email-domains.txt`](disposable-email-domains.txt) | 219,468 | Throwaway and disposable email domains, one per line |
 | [`ip-intelligence/examples.json`](ip-intelligence/examples.json) | sample | Full per-address intelligence: the score, a plain-English reason, and every category we attached |
 | [`metadata.json`](metadata.json) | &mdash; | Live counts and the UTC build time, so a script can tell how fresh its copy is |
 

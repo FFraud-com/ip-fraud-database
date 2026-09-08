@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788843609" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788845408" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Tovuti-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Tovuti"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_hatari-1,235,440-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP hatari"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Mitandao_ya_matumizi_mabaya-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Mitandao ya matumizi mabaya"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Vikoa_vya_matumizi_ya_mara_moja-219,466-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Vikoa vya matumizi ya mara moja"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Vikoa_vya_matumizi_ya_mara_moja-219,468-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Vikoa vya matumizi ya mara moja"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Hujengwa_upya-kila_dakika_30-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Hujengwa upya"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_ya_bure-bila_ufunguo-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API ya bure"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -18,7 +18,7 @@
 
 <p align="center"><b>Anwani 1,235,440 za IP hatari zilizothibitishwa na mitandao 553 yenye matumizi mabaya makubwa. Kila anwani ina alama, kundi, na uthibitisho huru angalau mara mbili.</b></p>
 <p align="center"><sub>Leseni ya MIT &middot; bila kujisajili, bila ufunguo wa API, bila mipaka ya maombi &middot; imesasishwa 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sw.svg?v=1788843609" alt="Tazama hifadhidata hai kwenye ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sw.svg?v=1788845408" alt="Tazama hifadhidata hai kwenye ffraud.com" width="540"></a></p>
 
 Hii ndiyo hifadhidata huria ya udanganyifu wa IP iliyo nyuma ya [ffraud.com](https://ffraud.com). Kila anwani ndani yake ilionekana ikishambulia kitu, ilithibitishwa angalau mara mbili kwa kujitegemea, ikapewa alama kutoka 0 hadi 100, na ikawekewa lebo ya kile ilichokamatwa ikifanya na aina ya miundombinu inayoendeshea. Washambuliaji hubadilisha miundombinu bila kukoma, kwa hivyo orodha ya kuzuia ina thamani sawa na sasisho lake la mwisho: hii hujengwa upya **kila dakika 30** moja kwa moja kutoka kwa injini inayofanya kazi. Unachopakua ndicho kinachoshambulia mtandao sasa hivi. Bila kujisajili, bila ufunguo, bila mipaka. Mimina moja kwa moja kwenye ngome, WAF, fomu ya kujisajili au mkondo wa ukaguzi wa udanganyifu.
 
@@ -26,7 +26,7 @@ Hii ndiyo hifadhidata huria ya udanganyifu wa IP iliyo nyuma ya [ffraud.com](htt
 
 - Anwani **1,235,440** za IP hatari zilizothibitishwa, kila moja ikionekana ikitumiwa vibaya **mara mbili au zaidi kwa kujitegemea**
 - Mitandao **553** ambapo anwani tulizoziona zilikuwa kwa kiasi kikubwa hatari na zilizojaa proksi
-- Vikoa **219,466** vya barua pepe za mara moja pia huja katika hazina hii, hivyo kunakili mara moja hufunika pande zote mbili za ukaguzi wa kujisajili
+- Vikoa **219,468** vya barua pepe za mara moja pia huja katika hazina hii, hivyo kunakili mara moja hufunika pande zote mbili za ukaguzi wa kujisajili
 - Kila anwani hubeba **alama kutoka 0 hadi 100**, **kundi la tishio**, na **aina ya miundombinu** inapoonekana
 - Hujengwa upya na kuchapishwa **kila dakika 30**. Historia ya commit ndiyo kumbukumbu ya mabadiliko, na [`metadata.json`](metadata.json) hubeba muda kamili wa ujenzi
 - **Leseni ya MIT**, matumizi ya kibiashara yakiwemo, bila kulazimika kutaja chanzo
@@ -38,7 +38,7 @@ Hii ndiyo hifadhidata huria ya udanganyifu wa IP iliyo nyuma ya [ffraud.com](htt
 |------|------:|------|
 | [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,235,440 | Anwani hatari, kila moja ikiwa imethibitishwa angalau mara mbili, pamoja na alama yetu kutoka 0 hadi 100, kundi la tishio (c2, programu hasidi, botnet, kubahatisha nywila, shambulio la wavuti, kichanganuzi, uvuvi, taka) na aina ya miundombinu (proxy, vpn, tor, datacenter, mobile) inapojulikana |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Mitandao ambayo anwani zake tulizoziona zilikuwa kwa kiasi kikubwa hatari na zilizojaa proksi: alama ya utambulisho ya upangishaji usioguswa na malalamiko |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,466 | Vikoa vya barua pepe vya mara moja na vya muda, kimoja kwa kila mstari |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,468 | Vikoa vya barua pepe vya mara moja na vya muda, kimoja kwa kila mstari |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | sampuli | Taarifa kamili kwa kila anwani: alama, sababu kwa lugha rahisi, na kila kundi tulilobandika |
 | [`metadata.json`](../metadata.json) | &mdash; | Hesabu za sasa na muda wa ujenzi kwa UTC, ili hati ijue nakala yake ni mpya kiasi gani |
 
