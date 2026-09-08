@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788874201" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788876002" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Sivusto-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sivusto"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Haitalliset_IP:t-1 238 560-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Haitalliset IP:t"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Haitalliset_IP:t-1 238 632-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Haitalliset IP:t"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Väärinkäyttöverkot-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Väärinkäyttöverkot"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Kertakäyttöverkkotunnukset-219 506-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kertakäyttöverkkotunnukset"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Rakennetaan-30_minuutin_välein-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Rakennetaan"></a>
@@ -16,15 +16,15 @@
 
 # IP-petostietokanta, rakennetaan uudelleen 30 minuutin välein
 
-<p align="center"><b>1 238 560 vahvistetusti haitallista IP-osoitetta ja 553 korkean väärinkäytön verkkoa. Jokainen osoite pisteytetty, luokiteltu ja riippumattomasti vahvistettu vähintään kahdesti.</b></p>
+<p align="center"><b>1 238 632 vahvistetusti haitallista IP-osoitetta ja 553 korkean väärinkäytön verkkoa. Jokainen osoite pisteytetty, luokiteltu ja riippumattomasti vahvistettu vähintään kahdesti.</b></p>
 <p align="center"><sub>MIT-lisenssi &middot; ei rekisteröitymistä, ei API-avainta, ei kutsurajoja &middot; päivitetty 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fi.svg?v=1788874201" alt="Katso elävä tietokanta osoitteessa ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fi.svg?v=1788876002" alt="Katso elävä tietokanta osoitteessa ffraud.com" width="540"></a></p>
 
 Tämä on [ffraud.com](https://ffraud.com):n takana oleva avoin IP-petostietokanta. Jokainen siinä oleva osoite on havaittu hyökkäämässä johonkin, vahvistettu vähintään kahdesti riippumattomasti, pisteytetty välillä 0–100 ja merkitty sillä, mistä se jäi kiinni ja millaisella infrastruktuurilla se toimii. Hyökkääjät vaihtavat infrastruktuuria lakkaamatta, joten estolista on tasan viimeisen päivityksensä arvoinen: tämä rakennetaan uudelleen **30 minuutin välein** suoraan käynnissä olevasta moottorista. Se, minkä lataat, hyökkää internetiin juuri nyt. Ei rekisteröitymistä, ei avainta, ei rajoja. Kaada se suoraan palomuuriin, WAF:iin, rekisteröitymislomakkeeseen tai petostenvalvontaputkeen.
 
 ## Lyhyesti
 
-- **1 238 560** vahvistetusti haitallista IP-osoitetta, kukin havaittu väärinkäytössä **vähintään kahdesti riippumattomasti**
+- **1 238 632** vahvistetusti haitallista IP-osoitetta, kukin havaittu väärinkäytössä **vähintään kahdesti riippumattomasti**
 - **553** verkkoa, joissa havaitsemamme osoitteet olivat pääosin haitallisia ja välityspalvelinvoittoisia
 - **219 506** kertakäyttöistä sähköpostiverkkotunnusta tulee myös tässä repositoriossa, joten yksi kloonaus kattaa rekisteröitymistarkistuksen molemmat puoliskot
 - Jokainen osoite kantaa **pisteet 0–100**, **uhkaluokan** ja **infrastruktuurin tyypin**, kun se on nähtävissä
@@ -36,7 +36,7 @@ Tämä on [ffraud.com](https://ffraud.com):n takana oleva avoin IP-petostietokan
 
 | Tiedosto | Rivejä | Mikä se on |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 238 560 | Haitalliset osoitteet, kukin vahvistettu vähintään kahdesti, pisteillämme 0–100, uhkaluokalla (c2, haittaohjelma, bottiverkko, salasanojen arvailu, verkkohyökkäys, skanneri, tietojenkalastelu, roskaposti) ja infrastruktuurin tyypillä (proxy, vpn, tor, datacenter, mobile), kun se on tiedossa |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 238 632 | Haitalliset osoitteet, kukin vahvistettu vähintään kahdesti, pisteillämme 0–100, uhkaluokalla (c2, haittaohjelma, bottiverkko, salasanojen arvailu, verkkohyökkäys, skanneri, tietojenkalastelu, roskaposti) ja infrastruktuurin tyypillä (proxy, vpn, tor, datacenter, mobile), kun se on tiedossa |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Verkot, joiden havaitut osoitteet olivat pääosin haitallisia ja välityspalvelinvoittoisia: luodinkestävän hostingin tuntomerkki |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 506 | Kertakäyttöiset ja väliaikaiset sähköpostiverkkotunnukset, yksi riviä kohti |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | näyte | Täydet tiedot osoitetta kohti: pisteet, syy selkokielellä ja jokainen liittämämme luokka |
