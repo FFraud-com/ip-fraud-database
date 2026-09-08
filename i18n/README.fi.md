@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788867008" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788868801" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1 236 254 vahvistetusti haitallista IP-osoitetta ja 553 korkean väärinkäytön verkkoa. Jokainen osoite pisteytetty, luokiteltu ja riippumattomasti vahvistettu vähintään kahdesti.</b></p>
 <p align="center"><sub>MIT-lisenssi &middot; ei rekisteröitymistä, ei API-avainta, ei kutsurajoja &middot; päivitetty 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fi.svg?v=1788867008" alt="Katso elävä tietokanta osoitteessa ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fi.svg?v=1788868801" alt="Katso elävä tietokanta osoitteessa ffraud.com" width="540"></a></p>
 
 Tämä on [ffraud.com](https://ffraud.com):n takana oleva avoin IP-petostietokanta. Jokainen siinä oleva osoite on havaittu hyökkäämässä johonkin, vahvistettu vähintään kahdesti riippumattomasti, pisteytetty välillä 0–100 ja merkitty sillä, mistä se jäi kiinni ja millaisella infrastruktuurilla se toimii. Hyökkääjät vaihtavat infrastruktuuria lakkaamatta, joten estolista on tasan viimeisen päivityksensä arvoinen: tämä rakennetaan uudelleen **30 minuutin välein** suoraan käynnissä olevasta moottorista. Se, minkä lataat, hyökkää internetiin juuri nyt. Ei rekisteröitymistä, ei avainta, ei rajoja. Kaada se suoraan palomuuriin, WAF:iin, rekisteröitymislomakkeeseen tai petostenvalvontaputkeen.
 
