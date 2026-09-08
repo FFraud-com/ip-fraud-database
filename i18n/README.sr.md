@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788885001" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788886811" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1.239.521 potvrđeno zlonamernih IP adresa i 553 mreža sa visokom zloupotrebom. Svaka adresa ocenjena, kategorizovana i nezavisno potvrđena najmanje dvaput.</b></p>
 <p align="center"><sub>MIT licenca &middot; bez registracije, bez API ključa, bez ograničenja zahteva &middot; ažurirano 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sr.svg?v=1788885001" alt="Pogledajte živu bazu na ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sr.svg?v=1788886811" alt="Pogledajte živu bazu na ffraud.com" width="540"></a></p>
 
 Ovo je otvorena baza IP prevara iza [ffraud.com](https://ffraud.com). Svaka adresa u njoj uočena je kako nešto napada, potvrđena je najmanje dvaput nezavisno, ocenjena od 0 do 100 i označena onim na čemu je uhvaćena i vrstom infrastrukture na kojoj radi. Napadači neprekidno menjaju infrastrukturu, pa spisak za blokiranje vredi tačno koliko i njegovo poslednje ažuriranje: ovaj se **na svakih 30 minuta** iznova gradi direktno iz pokrenutog motora. Ono što preuzmete napada internet upravo sada. Bez registracije, bez ključa, bez ograničenja. Ubacite to pravo u zaštitni zid, WAF, formular za registraciju ili liniju provere prevara.
 
