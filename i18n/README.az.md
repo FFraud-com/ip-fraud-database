@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788915611" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788917407" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Sayt-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sayt"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Zərərli_IP--lər-1 243 093-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zərərli IP-lər"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Zərərli_IP--lər-1 243 098-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zərərli IP-lər"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Sui--istifadə_şəbəkələri-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sui-istifadə şəbəkələri"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Birdəfəlik_domenlər-219 506-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Birdəfəlik domenlər"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Yenidən_qurulur-hər_30_dəqiqədən_bir-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Yenidən qurulur"></a>
@@ -16,15 +16,15 @@
 
 # IP saxtakarlıq bazası, hər 30 dəqiqədən bir yenidən qurulur
 
-<p align="center"><b>1 243 093 təsdiqlənmiş zərərli IP ünvanı və 553 yüksək sui-istifadəli şəbəkə. Hər ünvan qiymətləndirilib, kateqoriyalaşdırılıb və ən azı iki dəfə müstəqil təsdiqlənib.</b></p>
+<p align="center"><b>1 243 098 təsdiqlənmiş zərərli IP ünvanı və 553 yüksək sui-istifadəli şəbəkə. Hər ünvan qiymətləndirilib, kateqoriyalaşdırılıb və ən azı iki dəfə müstəqil təsdiqlənib.</b></p>
 <p align="center"><sub>MIT lisenziyası &middot; qeydiyyatsız, API açarısız, sorğu limitisiz &middot; yeniləndi 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/az.svg?v=1788915611" alt="Canlı bazaya ffraud.com-da baxın" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/az.svg?v=1788917407" alt="Canlı bazaya ffraud.com-da baxın" width="540"></a></p>
 
 Bu, [ffraud.com](https://ffraud.com) arxasında duran açıq IP saxtakarlıq bazasıdır. İçindəki hər ünvan nəyəsə hücum edərkən müşahidə olunub, ən azı iki dəfə müstəqil təsdiqlənib, 0-dan 100-ə qədər qiymətləndirilib və nə edərkən tutulduğu ilə hansı infrastrukturda işlədiyi qeyd olunub. Hücum edənlər infrastrukturunu dayanmadan dəyişir, ona görə bloklama siyahısı yalnız son yenilənməsi qədər dəyərlidir: bu siyahı **hər 30 dəqiqədən bir** birbaşa işləyən mühərrikdən yenidən qurulur. Yüklədiyiniz şey elə indi internetə hücum edəndir. Qeydiyyatsız, açarsız, limitsiz. Birbaşa təhlükəsizlik divarına, WAF-a, qeydiyyat formasına və ya saxtakarlıq yoxlama xəttinə tökün.
 
 ## Qısaca
 
-- **1 243 093** təsdiqlənmiş zərərli IP ünvanı, hər biri **iki və ya daha çox dəfə müstəqil şəkildə** sui-istifadə edərkən müşahidə olunub
+- **1 243 098** təsdiqlənmiş zərərli IP ünvanı, hər biri **iki və ya daha çox dəfə müstəqil şəkildə** sui-istifadə edərkən müşahidə olunub
 - **553** şəbəkə, orada müşahidə etdiyimiz ünvanlar əsasən zərərli və proksi ilə dolu idi
 - **219 506** birdəfəlik e-poçt domeni də bu deponun içindədir, yəni bir dəfə klonlamaq qeydiyyat yoxlamasının hər iki yarısını əhatə edir
 - Hər ünvan **0-dan 100-ə qədər bal**, bir **təhlükə kateqoriyası** və görünəndə **infrastruktur növü** daşıyır
@@ -36,7 +36,7 @@ Bu, [ffraud.com](https://ffraud.com) arxasında duran açıq IP saxtakarlıq baz
 
 | Fayl | Sətir | Nədir |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 243 093 | Zərərli ünvanlar, hər biri ən azı iki dəfə təsdiqlənib, 0-dan 100-ə qədər balımız, təhlükə kateqoriyası (c2, zərərli proqram, botnet, parol sınama, veb hücum, skaner, fişinq, spam) və məlum olduqda infrastruktur növü (proxy, vpn, tor, datacenter, mobile) ilə |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 243 098 | Zərərli ünvanlar, hər biri ən azı iki dəfə təsdiqlənib, 0-dan 100-ə qədər balımız, təhlükə kateqoriyası (c2, zərərli proqram, botnet, parol sınama, veb hücum, skaner, fişinq, spam) və məlum olduqda infrastruktur növü (proxy, vpn, tor, datacenter, mobile) ilə |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Müşahidə olunan ünvanları əsasən zərərli və proksi ilə dolu olan şəbəkələr: şikayətə davamlı hostinqin imzası |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 506 | Birdəfəlik və müvəqqəti e-poçt domenləri, hər sətirdə bir |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | nümunə | Hər ünvan üzrə tam məlumat: bal, sadə dildə səbəb və əlavə edilmiş hər kateqoriya |
