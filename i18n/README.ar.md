@@ -1,7 +1,7 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788994809" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788996608" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 <p align="center"><b>1,249,508 عنوان IP خبيث مؤكد و553 شبكة عالية الإساءة. كل عنوان له درجة وتصنيف، وتأكيد مستقل مرتين على الأقل.</b></p>
 <p align="center"><sub>رخصة MIT &middot; بلا تسجيل، بلا مفتاح، بلا حدود &middot; آخر تحديث 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ar.svg?v=1788994809" alt="تصفّح القاعدة الحية على ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ar.svg?v=1788996608" alt="تصفّح القاعدة الحية على ffraud.com" width="540"></a></p>
 
 هذه هي قاعدة بيانات احتيال العناوين المفتوحة التي يقوم عليها [ffraud.com](https://ffraud.com). كل عنوان فيها رُصد وهو يهاجم شيئًا ما، وتأكد مرتين على الأقل بشكل مستقل، ومُنح درجة من 0 إلى 100، ووُسم بما ضُبط يفعله وبنوع البنية التي يعمل عليها. المهاجمون يبدّلون بنيتهم باستمرار، لذا لا تساوي قائمة الحظر أكثر من آخر تحديث لها: هذه القائمة يُعاد بناؤها **كل 30 دقيقة** مباشرة من المحرك الحي. ما تنزّله هو ما يهاجم الإنترنت في هذه اللحظة. بلا تسجيل، بلا مفتاح، بلا حدود. ضعها في جدار حماية أو WAF أو نموذج تسجيل أو مسار فحص احتيال.
 
