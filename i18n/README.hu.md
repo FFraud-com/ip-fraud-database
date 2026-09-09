@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788989408" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788991201" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1 249 270 megerősített rosszindulatú IP-cím és 553 magas visszaélési arányú hálózat. Minden cím pontozva, kategorizálva, és legalább kétszer függetlenül megerősítve.</b></p>
 <p align="center"><sub>MIT licenc &middot; regisztráció nélkül, API-kulcs nélkül, kéréskorlát nélkül &middot; frissítve 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hu.svg?v=1788989408" alt="Nézd meg az élő adatbázist a ffraud.com oldalon" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hu.svg?v=1788991201" alt="Nézd meg az élő adatbázist a ffraud.com oldalon" width="540"></a></p>
 
 Ez a [ffraud.com](https://ffraud.com) mögött álló nyílt IP-csalás adatbázis. Minden benne szereplő címet támadás közben figyeltünk meg, legalább kétszer függetlenül megerősítettünk, 0-tól 100-ig pontoztunk, és felcímkéztünk azzal, hogy min kaptuk rajta, és milyen infrastruktúrán fut. A támadók szüntelenül cserélik az infrastruktúrájukat, így egy tiltólista pontosan annyit ér, mint az utolsó frissítése: ez **30 percenként** épül újra közvetlenül a futó motorból. Amit letöltesz, az támadja az internetet éppen most. Regisztráció nélkül, kulcs nélkül, korlátok nélkül. Öntsd egyenesen tűzfalba, WAF-ba, regisztrációs űrlapba vagy csalásszűrő folyamatba.
 

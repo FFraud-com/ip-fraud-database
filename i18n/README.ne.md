@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788989408" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788991201" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1,249,270 पुष्टि भएका हानिकारक IP ठेगाना र 553 उच्च दुरुपयोग भएका सञ्जाल। हरेक ठेगानाको अङ्क र वर्ग छ, र कम्तीमा दुई पटक स्वतन्त्र रूपमा पुष्टि भएको छ।</b></p>
 <p align="center"><sub>MIT इजाजतपत्र &middot; दर्ता छैन, API साँचो छैन, अनुरोध सीमा छैन &middot; अद्यावधिक 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ne.svg?v=1788989408" alt="ffraud.com मा प्रत्यक्ष डेटाबेस हेर्नुहोस्" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ne.svg?v=1788991201" alt="ffraud.com मा प्रत्यक्ष डेटाबेस हेर्नुहोस्" width="540"></a></p>
 
 यो [ffraud.com](https://ffraud.com) पछाडि उभिएको खुला IP ठगी डेटाबेस हो। यसभित्रको हरेक ठेगाना कुनै कुरामाथि आक्रमण गरिरहेको बेला देखिएको हो, कम्तीमा दुई पटक स्वतन्त्र रूपमा पुष्टि भएको छ, ० देखि १०० सम्म अङ्क पाएको छ, र के गर्दै समातियो अनि कस्तो पूर्वाधारमा चल्छ भन्ने चिनो लगाइएको छ। आक्रमणकारीहरूले पूर्वाधार निरन्तर फेरिरहन्छन्, त्यसैले कुनै पनि रोक सूचीको मूल्य त्यसको अन्तिम अद्यावधिक जति नै हुन्छ: यो सूची **हरेक ३० मिनेटमा** सिधै चलिरहेको इन्जिनबाट पुनर्निर्माण हुन्छ। तपाईंले डाउनलोड गर्नुहुने कुरा नै यही क्षण इन्टरनेटमाथि आक्रमण गरिरहेको छ। दर्ता छैन, साँचो छैन, सीमा छैन। सिधै फायरवाल, WAF, दर्ता फारम वा ठगी जाँच शृंखलामा हाल्नुहोस्।
 
