@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788958801" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788960601" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Web-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Web"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Škodlivé_IP-1 247 863-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Škodlivé IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Škodlivé_IP-1 247 865-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Škodlivé IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Zneužívané_sítě-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zneužívané sítě"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Jednorázové_domény-219 530-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jednorázové domény"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Přestavba-každých_30_minut-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Přestavba"></a>
@@ -16,15 +16,15 @@
 
 # Databáze IP podvodů, přestavovaná každých 30 minut
 
-<p align="center"><b>1 247 863 potvrzených škodlivých IP adres a 553 sítí s vysokou mírou zneužívání. Každá adresa má skóre, kategorii a nejméně dvě nezávislá potvrzení.</b></p>
+<p align="center"><b>1 247 865 potvrzených škodlivých IP adres a 553 sítí s vysokou mírou zneužívání. Každá adresa má skóre, kategorii a nejméně dvě nezávislá potvrzení.</b></p>
 <p align="center"><sub>Licence MIT &middot; bez registrace, bez API klíče, bez limitů na dotazy &middot; aktualizováno 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/cs.svg?v=1788958801" alt="Prohlédnout živou databázi na ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/cs.svg?v=1788960601" alt="Prohlédnout živou databázi na ffraud.com" width="540"></a></p>
 
 Tohle je otevřená databáze IP podvodů, na které stojí [ffraud.com](https://ffraud.com). Každou adresu v ní jsme zachytili při útoku, byla nejméně dvakrát nezávisle potvrzena, dostala skóre od 0 do 100 a označení, na čem se nechala chytit a na jaké infrastruktuře běží. Útočníci mění infrastrukturu bez ustání, takže blokovací seznam má cenu přesně své poslední aktualizace: tenhle se **každých 30 minut** přestavuje přímo z běžícího jádra. To, co si stáhnete, právě teď útočí na internet. Bez registrace, bez klíče, bez limitů. Nasypte to rovnou do firewallu, WAF, registračního formuláře nebo protipodvodné linky.
 
 ## Ve zkratce
 
-- **1 247 863** potvrzených škodlivých IP adres, každá zachycena při zneužívání **nejméně dvakrát nezávisle**
+- **1 247 865** potvrzených škodlivých IP adres, každá zachycena při zneužívání **nejméně dvakrát nezávisle**
 - **553** sítí, kde byly adresy, které jsme pozorovali, převážně škodlivé a plné proxy
 - **219 530** jednorázových e-mailových domén je také v tomhle repozitáři, takže jeden klon pokryje obě poloviny kontroly při registraci
 - Každá adresa nese **skóre 0 až 100**, **kategorii hrozby** a **typ infrastruktury**, pokud je vidět
@@ -36,7 +36,7 @@ Tohle je otevřená databáze IP podvodů, na které stojí [ffraud.com](https:/
 
 | Soubor | Řádků | Co to je |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 247 863 | Škodlivé adresy, každá potvrzená nejméně dvakrát, s naším skóre 0 až 100, kategorií hrozby (c2, malware, botnet, hrubá síla, webový útok, skener, phishing, spam) a typem infrastruktury (proxy, vpn, tor, datacenter, mobile), pokud je znám |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 247 865 | Škodlivé adresy, každá potvrzená nejméně dvakrát, s naším skóre 0 až 100, kategorií hrozby (c2, malware, botnet, hrubá síla, webový útok, skener, phishing, spam) a typem infrastruktury (proxy, vpn, tor, datacenter, mobile), pokud je znám |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Sítě, jejichž pozorované adresy byly převážně škodlivé a plné proxy: rukopis neprůstřelného hostingu |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 530 | Jednorázové a dočasné e-mailové domény, jedna na řádek |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | ukázka | Úplné informace k adrese: skóre, důvod běžnou řečí a každá přiřazená kategorie |
