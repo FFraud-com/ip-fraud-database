@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788921002" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788922808" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1.243.173 doğrulanmış kötü niyetli IP adresi ve 553 yoğun kötüye kullanım ağı. Her adres puanlı, kategorili ve en az iki kez bağımsız olarak doğrulanmış.</b></p>
 <p align="center"><sub>MIT lisansı &middot; kayıt yok, API anahtarı yok, istek sınırı yok &middot; güncellendi 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/tr.svg?v=1788921002" alt="Canlı veri tabanını ffraud.com'da inceleyin" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/tr.svg?v=1788922808" alt="Canlı veri tabanını ffraud.com'da inceleyin" width="540"></a></p>
 
 Bu, [ffraud.com](https://ffraud.com) arkasındaki açık IP dolandırıcılık veri tabanıdır. İçindeki her adres bir şeye saldırırken gözlemlendi, en az iki kez bağımsız olarak doğrulandı, 0 ile 100 arasında puanlandı ve neyle yakalandığı ile hangi altyapıda çalıştığı etiketlendi. Saldırganlar altyapılarını sürekli değiştirdiği için bir engelleme listesi ancak son güncellemesi kadar değerlidir: bu liste **her 30 dakikada** doğrudan çalışan motordan yeniden derleniyor. İndirdiğiniz şey, şu anda internete saldıran şeydir. Kayıt yok, anahtar yok, sınır yok. Doğrudan bir güvenlik duvarına, WAF'a, kayıt formuna ya da dolandırıcılık hattına verin.
 
