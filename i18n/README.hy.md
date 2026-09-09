@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788982207" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788984010" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1,248,618 հաստատված վնասաբեր IP հասցե և 553 բարձր չարաշահման ցանց։ Յուրաքանչյուր հասցե ունի միավոր, կարգ և առնվազն երկու անկախ հաստատում։</b></p>
 <p align="center"><sub>MIT արտոնագիր &middot; առանց գրանցման, առանց API բանալու, առանց հարցումների սահմանի &middot; թարմացվել է 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hy.svg?v=1788982207" alt="Տեսեք կենդանի շտեմարանը ffraud.com-ում" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hy.svg?v=1788984010" alt="Տեսեք կենդանի շտեմարանը ffraud.com-ում" width="540"></a></p>
 
 Սա [ffraud.com](https://ffraud.com)-ի հետևում կանգնած բաց IP խարդախության շտեմարանն է։ Դրա մեջ յուրաքանչյուր հասցե նկատվել է ինչ-որ բանի վրա հարձակվելիս, հաստատվել է առնվազն երկու անգամ անկախ կերպով, ստացել է միավոր 0-ից 100, և նշվել է, թե ինչի վրա է բռնվել ու ինչպիսի ենթակառուցվածքի վրա է աշխատում։ Հարձակվողներն անդադար փոխում են ենթակառուցվածքը, ուստի արգելափակման ցանկն արժե ճիշտ այնքան, որքան իր վերջին թարմացումը. այս մեկը **ամեն 30 րոպեն մեկ** վերակառուցվում է ուղղակիորեն աշխատող շարժիչից։ Այն, ինչ ներբեռնում եք, հենց այս պահին հարձակվում է համացանցի վրա։ Առանց գրանցման, առանց բանալու, առանց սահմանների։ Լցրեք ուղիղ պատնեշի, WAF-ի, գրանցման ձևի կամ խարդախության ստուգման հոսքի մեջ։
 
