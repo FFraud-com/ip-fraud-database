@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788946209" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788948011" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Site-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Site"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Kötü_niyetli_IP-1.245.421-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kötü niyetli IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Kötü_niyetli_IP-1.245.890-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kötü niyetli IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Kötüye_kullanım_ağları-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kötüye kullanım ağları"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Tek_kullanımlık_alan_adı-219.507-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Tek kullanımlık alan adı"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Yeniden_derleme-her_30_dakikada-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Yeniden derleme"></a>
@@ -16,15 +16,15 @@
 
 # IP dolandırıcılık veri tabanı, her 30 dakikada yeniden derleniyor
 
-<p align="center"><b>1.245.421 doğrulanmış kötü niyetli IP adresi ve 553 yoğun kötüye kullanım ağı. Her adres puanlı, kategorili ve en az iki kez bağımsız olarak doğrulanmış.</b></p>
+<p align="center"><b>1.245.890 doğrulanmış kötü niyetli IP adresi ve 553 yoğun kötüye kullanım ağı. Her adres puanlı, kategorili ve en az iki kez bağımsız olarak doğrulanmış.</b></p>
 <p align="center"><sub>MIT lisansı &middot; kayıt yok, API anahtarı yok, istek sınırı yok &middot; güncellendi 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/tr.svg?v=1788946209" alt="Canlı veri tabanını ffraud.com'da inceleyin" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/tr.svg?v=1788948011" alt="Canlı veri tabanını ffraud.com'da inceleyin" width="540"></a></p>
 
 Bu, [ffraud.com](https://ffraud.com) arkasındaki açık IP dolandırıcılık veri tabanıdır. İçindeki her adres bir şeye saldırırken gözlemlendi, en az iki kez bağımsız olarak doğrulandı, 0 ile 100 arasında puanlandı ve neyle yakalandığı ile hangi altyapıda çalıştığı etiketlendi. Saldırganlar altyapılarını sürekli değiştirdiği için bir engelleme listesi ancak son güncellemesi kadar değerlidir: bu liste **her 30 dakikada** doğrudan çalışan motordan yeniden derleniyor. İndirdiğiniz şey, şu anda internete saldıran şeydir. Kayıt yok, anahtar yok, sınır yok. Doğrudan bir güvenlik duvarına, WAF'a, kayıt formuna ya da dolandırıcılık hattına verin.
 
 ## Kısaca
 
-- **1.245.421** doğrulanmış kötü niyetli IP adresi, her biri **iki veya daha fazla kez bağımsız olarak** kötüye kullanım sırasında gözlemlendi
+- **1.245.890** doğrulanmış kötü niyetli IP adresi, her biri **iki veya daha fazla kez bağımsız olarak** kötüye kullanım sırasında gözlemlendi
 - **553** ağ; gözlemlediğimiz adreslerin büyük çoğunluğu kötü niyetli ve proxy ağırlıklıydı
 - **219.507** tek kullanımlık e-posta alan adı da bu depoda geliyor, yani tek bir klon kayıt kontrolünün iki yarısını da kapsıyor
 - Her adres **0 ile 100 arasında bir puan**, bir **tehdit kategorisi** ve görülebildiğinde **altyapı türü** taşır
@@ -36,7 +36,7 @@ Bu, [ffraud.com](https://ffraud.com) arkasındaki açık IP dolandırıcılık v
 
 | Dosya | Satır | Nedir |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.245.421 | Kötü niyetli adresler, her biri en az iki kez doğrulanmış; 0-100 puanımız, tehdit kategorisi (c2, zararlı yazılım, botnet, kaba kuvvet, web saldırısı, tarayıcı, oltalama, spam) ve bilindiğinde altyapı türü (proxy, vpn, tor, datacenter, mobile) ile |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.245.890 | Kötü niyetli adresler, her biri en az iki kez doğrulanmış; 0-100 puanımız, tehdit kategorisi (c2, zararlı yazılım, botnet, kaba kuvvet, web saldırısı, tarayıcı, oltalama, spam) ve bilindiğinde altyapı türü (proxy, vpn, tor, datacenter, mobile) ile |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Gözlemlenen adresleri büyük çoğunlukla kötü niyetli ve proxy ağırlıklı olan ağlar: kurşun geçirmez barındırmanın imzası |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.507 | Tek kullanımlık ve geçici e-posta alan adları, satır başına bir tane |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | örnek | Adres başına tam bilgi: puan, sade dille gerekçe ve eklenmiş her kategori |
