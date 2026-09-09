@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788967809" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1788969602" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1,248,058 ధృవీకరించిన హానికర IP చిరునామాలు, 553 అధిక దుర్వినియోగ నెట్‌వర్క్‌లు. ప్రతి చిరునామాకూ స్కోరు, వర్గం ఉన్నాయి, కనీసం రెండుసార్లు స్వతంత్రంగా ధృవీకరించబడింది.</b></p>
 <p align="center"><sub>MIT లైసెన్స్ &middot; నమోదు లేదు, API కీ లేదు, అభ్యర్థన పరిమితి లేదు &middot; నవీకరించబడింది 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/te.svg?v=1788967809" alt="ffraud.com లో ప్రత్యక్ష డేటాబేస్ చూడండి" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/te.svg?v=1788969602" alt="ffraud.com లో ప్రత్యక్ష డేటాబేస్ చూడండి" width="540"></a></p>
 
 ఇది [ffraud.com](https://ffraud.com) వెనుక నిలిచిన బహిరంగ IP మోసం డేటాబేస్. ఇందులోని ప్రతి చిరునామా దేనిపైనో దాడి చేస్తుండగా గమనించబడింది, కనీసం రెండుసార్లు స్వతంత్రంగా ధృవీకరించబడింది, 0 నుంచి 100 వరకు స్కోరు పొందింది, అది దేనిలో పట్టుబడిందో, ఎలాంటి మౌలిక వసతిపై నడుస్తుందో గుర్తుగా వేయబడింది. దాడి చేసేవారు మౌలిక వసతిని ఆపకుండా మారుస్తారు, కాబట్టి ఏ నిరోధక జాబితా అయినా దాని చివరి నవీకరణ విలువే: ఇది **ప్రతి 30 నిమిషాలకు** నేరుగా నడుస్తున్న ఇంజిన్ నుంచి తిరిగి నిర్మించబడుతుంది. మీరు దించుకునేదే ఈ క్షణం ఇంటర్నెట్‌పై దాడి చేస్తున్నది. నమోదు లేదు, కీ లేదు, పరిమితి లేదు. దీన్ని నేరుగా ఫైర్‌వాల్, WAF, నమోదు ఫారం లేదా మోసం తనిఖీ ప్రవాహంలో పోయండి.
 
