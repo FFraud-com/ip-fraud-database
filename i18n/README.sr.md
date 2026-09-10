@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789070408" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789072201" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Sajt-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sajt"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Zlonamerni_IP--ovi-1.256.640-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zlonamerni IP-ovi"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Zlonamerni_IP--ovi-1.256.681-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zlonamerni IP-ovi"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Mreže_zloupotrebe-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Mreže zloupotrebe"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Jednokratni_domeni-219.575-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jednokratni domeni"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Ponovna_izgradnja-na_svakih_30_minuta-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ponovna izgradnja"></a>
@@ -16,15 +16,15 @@
 
 # Baza IP prevara, ponovo izgrađena na svakih 30 minuta
 
-<p align="center"><b>1.256.640 potvrđeno zlonamernih IP adresa i 553 mreža sa visokom zloupotrebom. Svaka adresa ocenjena, kategorizovana i nezavisno potvrđena najmanje dvaput.</b></p>
+<p align="center"><b>1.256.681 potvrđeno zlonamernih IP adresa i 553 mreža sa visokom zloupotrebom. Svaka adresa ocenjena, kategorizovana i nezavisno potvrđena najmanje dvaput.</b></p>
 <p align="center"><sub>MIT licenca &middot; bez registracije, bez API ključa, bez ograničenja zahteva &middot; ažurirano 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sr.svg?v=1789070408" alt="Pogledajte živu bazu na ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sr.svg?v=1789072201" alt="Pogledajte živu bazu na ffraud.com" width="540"></a></p>
 
 Ovo je otvorena baza IP prevara iza [ffraud.com](https://ffraud.com). Svaka adresa u njoj uočena je kako nešto napada, potvrđena je najmanje dvaput nezavisno, ocenjena od 0 do 100 i označena onim na čemu je uhvaćena i vrstom infrastrukture na kojoj radi. Napadači neprekidno menjaju infrastrukturu, pa spisak za blokiranje vredi tačno koliko i njegovo poslednje ažuriranje: ovaj se **na svakih 30 minuta** iznova gradi direktno iz pokrenutog motora. Ono što preuzmete napada internet upravo sada. Bez registracije, bez ključa, bez ograničenja. Ubacite to pravo u zaštitni zid, WAF, formular za registraciju ili liniju provere prevara.
 
 ## Ukratko
 
-- **1.256.640** potvrđeno zlonamernih IP adresa, svaka uočena u zloupotrebi **dvaput ili više puta nezavisno**
+- **1.256.681** potvrđeno zlonamernih IP adresa, svaka uočena u zloupotrebi **dvaput ili više puta nezavisno**
 - **553** mreža u kojima su adrese koje smo posmatrali bile pretežno zlonamerne i pune proksija
 - **219.575** jednokratnih imejl domena dolazi takođe u ovom repozitorijumu, pa jedno kloniranje pokriva obe polovine provere pri registraciji
 - Svaka adresa nosi **ocenu od 0 do 100**, **kategoriju pretnje** i **vrstu infrastrukture** kada se vidi
@@ -36,7 +36,7 @@ Ovo je otvorena baza IP prevara iza [ffraud.com](https://ffraud.com). Svaka adre
 
 | Fajl | Redova | Šta je to |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.256.640 | Zlonamerne adrese, svaka potvrđena najmanje dvaput, sa našom ocenom od 0 do 100, kategorijom pretnje (c2, zlonamerni softver, botnet, gruba sila, veb napad, skener, phishing, nepoželjna pošta) i vrstom infrastrukture (proxy, vpn, tor, datacenter, mobile) kada je poznata |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.256.681 | Zlonamerne adrese, svaka potvrđena najmanje dvaput, sa našom ocenom od 0 do 100, kategorijom pretnje (c2, zlonamerni softver, botnet, gruba sila, veb napad, skener, phishing, nepoželjna pošta) i vrstom infrastrukture (proxy, vpn, tor, datacenter, mobile) kada je poznata |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Mreže čije su posmatrane adrese bile pretežno zlonamerne i pune proksija: potpis neprobojnog hostinga |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.575 | Jednokratni i privremeni imejl domeni, jedan po redu |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | uzorak | Potpuni podaci po adresi: ocena, razlog običnim jezikom i svaka pridružena kategorija |
