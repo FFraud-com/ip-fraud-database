@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789016408" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789018208" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1 253 074 tasdiqlangan zararli IP manzil va 553 yuqori suiisteʼmolli tarmoq. Har bir manzil ball va toifaga ega hamda kamida ikki marta mustaqil tasdiqlangan.</b></p>
 <p align="center"><sub>MIT litsenziyasi &middot; roʻyxatdan oʻtmasdan, API kalitisiz, soʻrov chegarasisiz &middot; yangilandi 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/uz.svg?v=1789016408" alt="Jonli bazani ffraud.com da koʻring" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/uz.svg?v=1789018208" alt="Jonli bazani ffraud.com da koʻring" width="540"></a></p>
 
 Bu [ffraud.com](https://ffraud.com) ortida turgan ochiq IP firibgarlik bazasi. Undagi har bir manzil biror narsaga hujum qilayotganda kuzatilgan, kamida ikki marta mustaqil tasdiqlangan, 0 dan 100 gacha baholangan va nima qilayotganda qoʻlga tushgani hamda qanday infratuzilmada ishlashi belgilangan. Hujumchilar infratuzilmasini toʻxtovsiz almashtiradi, shu bois bloklash roʻyxati faqat oxirgi yangilanishi qadar qimmatlidir: bu roʻyxat **har 30 daqiqada** bevosita ishlab turgan dvigateldan qayta quriladi. Siz yuklab olayotgan narsa aynan hozir internetga hujum qilayotgani. Roʻyxatdan oʻtmasdan, kalitsiz, cheklovsiz. Uni toʻgʻridan-toʻgʻri xavfsizlik devoriga, WAF ga, roʻyxatdan oʻtish shakliga yoki firibgarlikni tekshirish oqimiga quying.
 
