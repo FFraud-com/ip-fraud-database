@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789030810" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789032608" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Сайт-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Сайт"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Зиянды_IP-1 253 483-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Зиянды IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Зиянды_IP-1 253 506-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Зиянды IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Теріс_пайдалану_желілері-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Теріс пайдалану желілері"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Бір_реттік_домендер-219 530-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Бір реттік домендер"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Қайта_құрылады-әр_30_минут_сайын-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Қайта құрылады"></a>
@@ -16,15 +16,15 @@
 
 # IP алаяқтық дерекқоры, әр 30 минут сайын қайта құрылады
 
-<p align="center"><b>1 253 483 расталған зиянды IP мекенжайы және 553 теріс пайдалану деңгейі жоғары желі. Әр мекенжайдың ұпайы, санаты бар және кемінде екі рет тәуелсіз расталған.</b></p>
+<p align="center"><b>1 253 506 расталған зиянды IP мекенжайы және 553 теріс пайдалану деңгейі жоғары желі. Әр мекенжайдың ұпайы, санаты бар және кемінде екі рет тәуелсіз расталған.</b></p>
 <p align="center"><sub>MIT лицензиясы &middot; тіркеусіз, API кілтісіз, сұраныс шегісіз &middot; жаңартылды 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/kk.svg?v=1789030810" alt="Тірі дерекқорды ffraud.com сайтынан қараңыз" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/kk.svg?v=1789032608" alt="Тірі дерекқорды ffraud.com сайтынан қараңыз" width="540"></a></p>
 
 Бұл [ffraud.com](https://ffraud.com) артында тұрған ашық IP алаяқтық дерекқоры. Ондағы әр мекенжай бір нәрсеге шабуыл жасап тұрғанда байқалған, кемінде екі рет тәуелсіз расталған, 0-ден 100-ге дейін бағаланған және не істеп жүріп ұсталғаны мен қандай инфрақұрылымда жұмыс істейтіні белгіленген. Шабуылдаушылар инфрақұрылымын үздіксіз ауыстырады, сондықтан бұғаттау тізімі соңғы жаңартылуы қандай болса, сонша ғана тұрады: бұл тізім **әр 30 минут сайын** тікелей жұмыс істеп тұрған қозғалтқыштан қайта құрылады. Сіз жүктегеніңіз дәл қазір интернетке шабуыл жасап жатқаны. Тіркеусіз, кілтсіз, шексіз. Оны тікелей желіаралық қалқанға, WAF-қа, тіркелу пішініне немесе алаяқтықты тексеру ағынына құйыңыз.
 
 ## Қысқаша
 
-- **1 253 483** расталған зиянды IP мекенжайы, әрқайсысы **кемінде екі рет тәуелсіз** теріс пайдалану кезінде байқалған
+- **1 253 506** расталған зиянды IP мекенжайы, әрқайсысы **кемінде екі рет тәуелсіз** теріс пайдалану кезінде байқалған
 - **553** желі, онда біз байқаған мекенжайлар негізінен зиянды және прокси көп болды
 - **219 530** бір реттік пошта домені де осы репозиторийде келеді, сондықтан бір рет клондау тіркелу тексерісінің екі жағын да қамтиды
 - Әр мекенжай **0-ден 100-ге дейінгі ұпайды**, **қауіп санатын** және көрінген жағдайда **инфрақұрылым түрін** алып жүреді
@@ -36,7 +36,7 @@
 
 | Файл | Жол | Бұл не |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 253 483 | Зиянды мекенжайлар, әрқайсысы кемінде екі рет расталған, біздің 0-ден 100-ге дейінгі ұпайымызбен, қауіп санатымен (c2, зиянды бағдарлама, ботнет, құпиясөз таңдау, веб-шабуыл, сканер, фишинг, спам) және белгілі болса инфрақұрылым түрімен (proxy, vpn, tor, datacenter, mobile) |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 253 506 | Зиянды мекенжайлар, әрқайсысы кемінде екі рет расталған, біздің 0-ден 100-ге дейінгі ұпайымызбен, қауіп санатымен (c2, зиянды бағдарлама, ботнет, құпиясөз таңдау, веб-шабуыл, сканер, фишинг, спам) және белгілі болса инфрақұрылым түрімен (proxy, vpn, tor, datacenter, mobile) |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Байқалған мекенжайлары негізінен зиянды әрі прокси көп болған желілер: шағымға көнбейтін хостингтің қолтаңбасы |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 530 | Бір реттік және уақытша пошта домендері, әр жолда біреуден |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | үлгі | Әр мекенжай бойынша толық ақпарат: ұпай, қарапайым тілмен себеп және тіркелген әр санат |
