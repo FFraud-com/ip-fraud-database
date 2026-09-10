@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789081209" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789083001" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1.256.856 επιβεβαιωμένα κακόβουλες διευθύνσεις IP και 553 δίκτυα με υψηλή κατάχρηση. Κάθε διεύθυνση βαθμολογημένη, κατηγοριοποιημένη και επιβεβαιωμένη ανεξάρτητα τουλάχιστον δύο φορές.</b></p>
 <p align="center"><sub>Άδεια MIT &middot; χωρίς εγγραφή, χωρίς κλειδί API, χωρίς όρια αιτημάτων &middot; ενημερώθηκε 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/el.svg?v=1789081209" alt="Δείτε τη ζωντανή βάση στο ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/el.svg?v=1789083001" alt="Δείτε τη ζωντανή βάση στο ffraud.com" width="540"></a></p>
 
 Αυτή είναι η ανοιχτή βάση απάτης IP πίσω από το [ffraud.com](https://ffraud.com). Κάθε διεύθυνση μέσα της παρατηρήθηκε να επιτίθεται σε κάτι, επιβεβαιώθηκε ανεξάρτητα τουλάχιστον δύο φορές, βαθμολογήθηκε από 0 έως 100 και επισημάνθηκε με το τι έκανε όταν πιάστηκε και σε τι είδους υποδομή τρέχει. Οι επιτιθέμενοι αλλάζουν υποδομή διαρκώς, άρα μια λίστα αποκλεισμού αξίζει όσο και η τελευταία της ενημέρωση: αυτή ανακατασκευάζεται **κάθε 30 λεπτά** απευθείας από τη ζωντανή μηχανή. Ό,τι κατεβάζετε είναι αυτό που επιτίθεται στο διαδίκτυο αυτή τη στιγμή. Χωρίς εγγραφή, χωρίς κλειδί, χωρίς όρια. Ρίξτε το κατευθείαν σε τείχος προστασίας, WAF, φόρμα εγγραφής ή γραμμή ελέγχου απάτης.
 
