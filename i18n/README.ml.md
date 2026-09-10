@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789039809" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789041610" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1,253,634 സ്ഥിരീകരിച്ച ദോഷകരമായ IP വിലാസങ്ങളും 553 ഉയർന്ന ദുരുപയോഗമുള്ള ശൃംഖലകളും. ഓരോ വിലാസത്തിനും സ്കോറും വിഭാഗവുമുണ്ട്, കുറഞ്ഞത് രണ്ടു തവണ സ്വതന്ത്രമായി സ്ഥിരീകരിച്ചിട്ടുമുണ്ട്.</b></p>
 <p align="center"><sub>MIT ലൈസൻസ് &middot; രജിസ്ട്രേഷനില്ല, API കീ ഇല്ല, അഭ്യർത്ഥനാ പരിധിയില്ല &middot; പുതുക്കിയത് 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ml.svg?v=1789039809" alt="ffraud.com ൽ തത്സമയ ഡാറ്റാബേസ് കാണുക" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ml.svg?v=1789041610" alt="ffraud.com ൽ തത്സമയ ഡാറ്റാബേസ് കാണുക" width="540"></a></p>
 
 ഇത് [ffraud.com](https://ffraud.com) ന് പിന്നിൽ നിൽക്കുന്ന തുറന്ന IP തട്ടിപ്പ് ഡാറ്റാബേസാണ്. ഇതിലെ ഓരോ വിലാസവും എന്തിനെയോ ആക്രമിക്കുന്നതിനിടെ കണ്ടിട്ടുള്ളതാണ്, കുറഞ്ഞത് രണ്ടു തവണ സ്വതന്ത്രമായി സ്ഥിരീകരിച്ചതാണ്, 0 മുതൽ 100 വരെ സ്കോർ കിട്ടിയതാണ്, എന്തു ചെയ്യുന്നതിനിടെ പിടിക്കപ്പെട്ടു എന്നും ഏതു തരം അടിസ്ഥാനസൗകര്യത്തിലാണ് പ്രവർത്തിക്കുന്നതെന്നും അടയാളപ്പെടുത്തിയതുമാണ്. ആക്രമിക്കുന്നവർ അടിസ്ഥാനസൗകര്യം ഇടതടവില്ലാതെ മാറ്റുന്നു, അതിനാൽ ഒരു തടയൽ പട്ടികയ്ക്ക് അതിന്റെ അവസാന പുതുക്കലിന്റെ വിലയേ ഉള്ളൂ: ഇത് **ഓരോ 30 മിനിറ്റിലും** പ്രവർത്തിക്കുന്ന എൻജിനിൽ നിന്ന് നേരിട്ട് പുനർനിർമ്മിക്കപ്പെടുന്നു. നിങ്ങൾ ഡൗൺലോഡ് ചെയ്യുന്നതുതന്നെയാണ് ഈ നിമിഷം ഇന്റർനെറ്റിനെ ആക്രമിക്കുന്നത്. രജിസ്ട്രേഷനില്ല, കീ ഇല്ല, പരിധിയില്ല. നേരിട്ട് ഒരു ഫയർവാളിലേക്കോ WAF ലേക്കോ രജിസ്ട്രേഷൻ ഫോമിലേക്കോ തട്ടിപ്പ് പരിശോധനാ ശൃംഖലയിലേക്കോ ഒഴിക്കൂ.
 
