@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789025408" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789027210" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>အတည်ပြုပြီး အန္တရာယ်ရှိ IP လိပ်စာ 1,253,178 ခုနှင့် အလွဲသုံးစားမှု မြင့်မားသော ကွန်ရက် 553 ခု။ လိပ်စာတိုင်းတွင် အမှတ်၊ အမျိုးအစားရှိပြီး အနည်းဆုံး နှစ်ကြိမ် လွတ်လပ်စွာ အတည်ပြုထားသည်။</b></p>
 <p align="center"><sub>MIT လိုင်စင် &middot; မှတ်ပုံတင်စရာမလို၊ API သော့မလို၊ တောင်းဆိုမှု ကန့်သတ်ချက်မရှိ &middot; မွမ်းမံပြီး 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/my.svg?v=1789025408" alt="ffraud.com တွင် တိုက်ရိုက်ဒေတာဘေ့စ်ကို ကြည့်ပါ" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/my.svg?v=1789027210" alt="ffraud.com တွင် တိုက်ရိုက်ဒေတာဘေ့စ်ကို ကြည့်ပါ" width="540"></a></p>
 
 ဤသည်မှာ [ffraud.com](https://ffraud.com) နောက်ကွယ်တွင် ရပ်တည်နေသော ပွင့်လင်း IP လိမ်လည်မှု ဒေတာဘေ့စ်ဖြစ်သည်။ ထဲတွင်ရှိသော လိပ်စာတိုင်းကို တစ်ခုခုကို တိုက်ခိုက်နေစဉ် တွေ့ရှိခဲ့ပြီး၊ အနည်းဆုံး နှစ်ကြိမ် လွတ်လပ်စွာ အတည်ပြုကာ၊ ၀ မှ ၁၀၀ အထိ အမှတ်ပေးပြီး၊ ဘာလုပ်နေစဉ် ဖမ်းမိသည်နှင့် မည်သည့်အခြေခံအဆောက်အအုံပေါ်တွင် လည်ပတ်နေသည်ကို အမှတ်အသားပြုထားသည်။ တိုက်ခိုက်သူများသည် အခြေခံအဆောက်အအုံကို မရပ်မနား ပြောင်းလဲကြသဖြင့် ပိတ်ဆို့စာရင်းတစ်ခု၏ တန်ဖိုးမှာ ၎င်း၏ နောက်ဆုံးမွမ်းမံမှုအတိုင်းသာ ဖြစ်သည်- ဤစာရင်းကို **မိနစ် ၃၀ တိုင်း** လည်ပတ်နေသော အင်ဂျင်မှ တိုက်ရိုက် ပြန်တည်ဆောက်သည်။ သင်ဒေါင်းလုဒ်လုပ်သည့်အရာမှာ ယခုအချိန်တွင် အင်တာနက်ကို တိုက်ခိုက်နေသည့်အရာပင် ဖြစ်သည်။ မှတ်ပုံတင်စရာမလို၊ သော့မလို၊ ကန့်သတ်ချက်မရှိ။ firewall၊ WAF၊ စာရင်းသွင်းပုံစံ သို့မဟုတ် လိမ်လည်မှု စစ်ဆေးလိုင်းထဲသို့ တိုက်ရိုက် ထည့်လိုက်ပါ။
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789025408" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789027210" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1,253,178 உறுதிப்படுத்தப்பட்ட தீங்கிழைக்கும் IP முகவரிகள் மற்றும் 553 அதிக தவறான பயன்பாடு கொண்ட வலையமைப்புகள். ஒவ்வொரு முகவரிக்கும் மதிப்பெண், வகை, மற்றும் குறைந்தது இரு முறை தனித்த உறுதிப்படுத்தல்.</b></p>
 <p align="center"><sub>MIT உரிமம் &middot; பதிவு இல்லை, API சாவி இல்லை, கோரிக்கை வரம்பு இல்லை &middot; புதுப்பிக்கப்பட்டது 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ta.svg?v=1789025408" alt="ffraud.com இல் நேரடித் தரவுத்தளத்தைப் பாருங்கள்" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ta.svg?v=1789027210" alt="ffraud.com இல் நேரடித் தரவுத்தளத்தைப் பாருங்கள்" width="540"></a></p>
 
 இது [ffraud.com](https://ffraud.com) பின்னால் நிற்கும் திறந்த IP மோசடித் தரவுத்தளம். இதிலுள்ள ஒவ்வொரு முகவரியும் எதையாவது தாக்கிக் கொண்டிருக்கும்போது கவனிக்கப்பட்டது, குறைந்தது இரு முறை தனித்து உறுதிப்படுத்தப்பட்டது, 0 முதல் 100 வரை மதிப்பெண் பெற்றது, மேலும் எதில் பிடிபட்டது என்பதும் எத்தகைய உள்கட்டமைப்பில் இயங்குகிறது என்பதும் குறிக்கப்பட்டது. தாக்குபவர்கள் இடைவிடாமல் உள்கட்டமைப்பை மாற்றுகிறார்கள், எனவே ஒரு தடுப்புப் பட்டியலின் மதிப்பு அதன் கடைசிப் புதுப்பிப்புக்குச் சமமே: இது **ஒவ்வொரு 30 நிமிடமும்** இயங்கும் இயந்திரத்திலிருந்து நேரடியாக மீளக் கட்டப்படுகிறது. நீங்கள் பதிவிறக்குவது இந்தக் கணமே இணையத்தைத் தாக்கிக் கொண்டிருப்பதுதான். பதிவு இல்லை, சாவி இல்லை, வரம்பு இல்லை. நேராக ஒரு ஃபயர்வால், WAF, பதிவு படிவம் அல்லது மோசடிச் சரிபார்ப்பு வழியில் ஊற்றுங்கள்.
 
