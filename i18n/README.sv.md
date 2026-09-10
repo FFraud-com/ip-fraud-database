@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789000201" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789002014" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Webbplats-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Webbplats"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Skadliga_IP-1 249 558-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Skadliga IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Skadliga_IP-1 249 586-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Skadliga IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Missbruksnätverk-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Missbruksnätverk"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Engångsdomäner-219 530-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Engångsdomäner"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Byggs_om-var_30:e_minut-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Byggs om"></a>
@@ -16,15 +16,15 @@
 
 # IP-bedrägeridatabas, ombyggd var 30:e minut
 
-<p align="center"><b>1 249 558 bekräftat skadliga IP-adresser och 553 nätverk med mycket missbruk. Varje adress poängsatt, kategoriserad och oberoende bekräftad minst två gånger.</b></p>
+<p align="center"><b>1 249 586 bekräftat skadliga IP-adresser och 553 nätverk med mycket missbruk. Varje adress poängsatt, kategoriserad och oberoende bekräftad minst två gånger.</b></p>
 <p align="center"><sub>MIT-licens &middot; ingen registrering, ingen API-nyckel, inga anropsgränser &middot; uppdaterad 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sv.svg?v=1789000201" alt="Se den levande databasen på ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sv.svg?v=1789002014" alt="Se den levande databasen på ffraud.com" width="540"></a></p>
 
 Det här är den öppna IP-bedrägeridatabasen bakom [ffraud.com](https://ffraud.com). Varje adress i den har observerats angripa något, bekräftats minst två gånger oberoende, poängsatts från 0 till 100 och märkts med vad den togs på och vilken sorts infrastruktur den kör på. Angripare byter infrastruktur oavbrutet, så en blocklista är värd precis så mycket som sin senaste uppdatering: den här byggs om **var 30:e minut** direkt från den körande motorn. Det du laddar ner är det som angriper internet just nu. Ingen registrering, ingen nyckel, inga gränser. Häll in det i en brandvägg, en WAF, ett registreringsformulär eller en bedrägerikedja.
 
 ## Kort och gott
 
-- **1 249 558** bekräftat skadliga IP-adresser, var och en observerad missbruka något **två eller fler oberoende gånger**
+- **1 249 586** bekräftat skadliga IP-adresser, var och en observerad missbruka något **två eller fler oberoende gånger**
 - **553** nätverk där adresserna vi observerade till övervägande del var skadliga och proxytäta
 - **219 530** engångsdomäner för e-post följer också med i det här arkivet, så en enda klon täcker båda halvorna av en registreringskontroll
 - Varje adress bär en **poäng från 0 till 100**, en **hotkategori** och **infrastrukturtypen** när den går att se
@@ -36,7 +36,7 @@ Det här är den öppna IP-bedrägeridatabasen bakom [ffraud.com](https://ffraud
 
 | Fil | Rader | Vad det är |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 249 558 | Skadliga adresser, var och en bekräftad minst två gånger, med vår poäng från 0 till 100, hotkategorin (c2, skadlig kod, botnät, lösenordsknäckning, webbattack, skanner, nätfiske, skräppost) och infrastrukturtypen (proxy, vpn, tor, datacenter, mobile) där den är känd |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 249 586 | Skadliga adresser, var och en bekräftad minst två gånger, med vår poäng från 0 till 100, hotkategorin (c2, skadlig kod, botnät, lösenordsknäckning, webbattack, skanner, nätfiske, skräppost) och infrastrukturtypen (proxy, vpn, tor, datacenter, mobile) där den är känd |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Nätverk vars observerade adresser till övervägande del var skadliga och proxytäta: signaturen för skottsäker hosting |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 530 | Engångs- och tillfälliga e-postdomäner, en per rad |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | exempel | Fullständig information per adress: poängen, en orsak på vanlig svenska och varje kategori vi satt på den |
