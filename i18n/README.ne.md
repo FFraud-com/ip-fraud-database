@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789047001" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789048812" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/वेबसाइट-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="वेबसाइट"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/हानिकारक_IP-1,255,243-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="हानिकारक IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/हानिकारक_IP-1,255,257-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="हानिकारक IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/दुरुपयोग_सञ्जालहरू-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="दुरुपयोग सञ्जालहरू"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/एकपटक_प्रयोग_हुने_डोमेन-219,573-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="एकपटक प्रयोग हुने डोमेन"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/पुनर्निर्माण-हरेक_३०_मिनेटमा-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="पुनर्निर्माण"></a>
@@ -16,15 +16,15 @@
 
 # IP ठगी डेटाबेस, हरेक ३० मिनेटमा पुनर्निर्माण
 
-<p align="center"><b>1,255,243 पुष्टि भएका हानिकारक IP ठेगाना र 553 उच्च दुरुपयोग भएका सञ्जाल। हरेक ठेगानाको अङ्क र वर्ग छ, र कम्तीमा दुई पटक स्वतन्त्र रूपमा पुष्टि भएको छ।</b></p>
+<p align="center"><b>1,255,257 पुष्टि भएका हानिकारक IP ठेगाना र 553 उच्च दुरुपयोग भएका सञ्जाल। हरेक ठेगानाको अङ्क र वर्ग छ, र कम्तीमा दुई पटक स्वतन्त्र रूपमा पुष्टि भएको छ।</b></p>
 <p align="center"><sub>MIT इजाजतपत्र &middot; दर्ता छैन, API साँचो छैन, अनुरोध सीमा छैन &middot; अद्यावधिक 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ne.svg?v=1789047001" alt="ffraud.com मा प्रत्यक्ष डेटाबेस हेर्नुहोस्" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ne.svg?v=1789048812" alt="ffraud.com मा प्रत्यक्ष डेटाबेस हेर्नुहोस्" width="540"></a></p>
 
 यो [ffraud.com](https://ffraud.com) पछाडि उभिएको खुला IP ठगी डेटाबेस हो। यसभित्रको हरेक ठेगाना कुनै कुरामाथि आक्रमण गरिरहेको बेला देखिएको हो, कम्तीमा दुई पटक स्वतन्त्र रूपमा पुष्टि भएको छ, ० देखि १०० सम्म अङ्क पाएको छ, र के गर्दै समातियो अनि कस्तो पूर्वाधारमा चल्छ भन्ने चिनो लगाइएको छ। आक्रमणकारीहरूले पूर्वाधार निरन्तर फेरिरहन्छन्, त्यसैले कुनै पनि रोक सूचीको मूल्य त्यसको अन्तिम अद्यावधिक जति नै हुन्छ: यो सूची **हरेक ३० मिनेटमा** सिधै चलिरहेको इन्जिनबाट पुनर्निर्माण हुन्छ। तपाईंले डाउनलोड गर्नुहुने कुरा नै यही क्षण इन्टरनेटमाथि आक्रमण गरिरहेको छ। दर्ता छैन, साँचो छैन, सीमा छैन। सिधै फायरवाल, WAF, दर्ता फारम वा ठगी जाँच शृंखलामा हाल्नुहोस्।
 
 ## छोटकरीमा
 
-- **1,255,243** पुष्टि भएका हानिकारक IP ठेगाना, हरेक **कम्तीमा दुई पटक स्वतन्त्र रूपमा** दुरुपयोग गर्दै देखिएको
+- **1,255,257** पुष्टि भएका हानिकारक IP ठेगाना, हरेक **कम्तीमा दुई पटक स्वतन्त्र रूपमा** दुरुपयोग गर्दै देखिएको
 - **553** सञ्जाल जहाँ हामीले देखेका ठेगानाहरू प्रायः हानिकारक र प्रोक्सीले भरिएका थिए
 - **219,573** एकपटक प्रयोग हुने इमेल डोमेन पनि यही भण्डारमा आउँछन्, अर्थात् एकपटक क्लोन गर्दा दर्ता जाँचका दुवै भाग ढाकिन्छन्
 - हरेक ठेगानाले **० देखि १०० सम्मको अङ्क**, एउटा **खतरा वर्ग**, र देखिएमा **पूर्वाधारको प्रकार** बोक्छ
@@ -36,7 +36,7 @@
 
 | फाइल | पङ्क्ति | यो के हो |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,255,243 | हानिकारक ठेगानाहरू, हरेक कम्तीमा दुई पटक पुष्टि भएको, हाम्रो ० देखि १०० अङ्क, खतरा वर्ग (c2, मालवेयर, बोटनेट, पासवर्ड अनुमान, वेब आक्रमण, स्क्यानर, फिसिङ, स्प्याम) र थाहा भएमा पूर्वाधारको प्रकार (proxy, vpn, tor, datacenter, mobile) सहित |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,255,257 | हानिकारक ठेगानाहरू, हरेक कम्तीमा दुई पटक पुष्टि भएको, हाम्रो ० देखि १०० अङ्क, खतरा वर्ग (c2, मालवेयर, बोटनेट, पासवर्ड अनुमान, वेब आक्रमण, स्क्यानर, फिसिङ, स्प्याम) र थाहा भएमा पूर्वाधारको प्रकार (proxy, vpn, tor, datacenter, mobile) सहित |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | जुन सञ्जालका देखिएका ठेगानाहरू प्रायः हानिकारक र प्रोक्सीले भरिएका थिए: उजुरी नटेर्ने होस्टिङको छाप |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,573 | एकपटक प्रयोग हुने र अस्थायी इमेल डोमेन, प्रति पङ्क्ति एउटा |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | नमुना | प्रति ठेगाना पूर्ण जानकारी: अङ्क, सरल भाषामा कारण, र जोडिएको हरेक वर्ग |
