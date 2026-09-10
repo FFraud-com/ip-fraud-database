@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789018208" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789020002" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1,253,074 個已確認的惡意 IP 位址，553 個高濫用網路。每個位址都有評分、分類，並至少經過兩次獨立確認。</b></p>
 <p align="center"><sub>MIT 授權 &middot; 免註冊、免金鑰、無流量限制 &middot; 更新於 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/zh-TW.svg?v=1789018208" alt="在 ffraud.com 上瀏覽即時資料庫" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/zh-TW.svg?v=1789020002" alt="在 ffraud.com 上瀏覽即時資料庫" width="540"></a></p>
 
 這是 [ffraud.com](https://ffraud.com) 背後的開放 IP 詐騙資料庫。裡面的每一個位址都是被觀測到正在攻擊某個目標的，至少經過兩次獨立確認，以 0 到 100 評分，並標註了它被抓到在做什麼、跑在什麼樣的基礎設施上。攻擊者會不停更換基礎設施，所以一份封鎖名單的價值只等於它最後一次更新：這份名單**每 30 分鐘**直接從線上引擎重建一次。你下載到的，就是此刻正在攻擊網際網路的東西。免註冊、免金鑰、無流量限制。直接丟進防火牆、WAF、註冊表單或風控流程即可。
 

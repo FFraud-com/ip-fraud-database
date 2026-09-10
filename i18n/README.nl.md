@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789018208" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789020002" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1.253.074 bevestigde kwaadaardige IP-adressen en 553 netwerken met veel misbruik. Elk adres met score, categorie en minstens twee onafhankelijke bevestigingen.</b></p>
 <p align="center"><sub>MIT-licentie &middot; geen registratie, geen API-sleutel, geen limieten &middot; bijgewerkt op 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/nl.svg?v=1789018208" alt="Bekijk de live database op ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/nl.svg?v=1789020002" alt="Bekijk de live database op ffraud.com" width="540"></a></p>
 
 Dit is de open IP-fraudedatabase achter [ffraud.com](https://ffraud.com). Elk adres erin is waargenomen terwijl het iets aanviel, minstens twee keer onafhankelijk bevestigd, gescoord van 0 tot 100 en gelabeld met waarop het betrapt is en op wat voor infrastructuur het draait. Aanvallers wisselen voortdurend van infrastructuur, dus een blokkeerlijst is niet meer waard dan zijn laatste actualisering: deze wordt **elke 30 minuten** rechtstreeks vanuit de draaiende engine herbouwd. Wat je downloadt is wat op dit moment het internet aanvalt. Geen registratie, geen sleutel, geen limieten. Zo in een firewall, een WAF, een registratieformulier of een fraudepijplijn te gooien.
 
