@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789045209" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789047001" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Laman_web-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Laman web"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_berniat_jahat-1,254,504-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP berniat jahat"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_berniat_jahat-1,255,243-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP berniat jahat"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Rangkaian_penyalahgunaan-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Rangkaian penyalahgunaan"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Domain_guna_buang-219,530-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domain guna buang"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Domain_guna_buang-219,573-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domain guna buang"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Dibina_semula-setiap_30_minit-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Dibina semula"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_percuma-tanpa_kunci-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API percuma"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,17 +16,17 @@
 
 # Pangkalan data penipuan IP, dibina semula setiap 30 minit
 
-<p align="center"><b>1,254,504 alamat IP berniat jahat yang disahkan dan 553 rangkaian dengan penyalahgunaan tinggi. Setiap alamat berskor, berkategori, dan disahkan secara bebas sekurang-kurangnya dua kali.</b></p>
+<p align="center"><b>1,255,243 alamat IP berniat jahat yang disahkan dan 553 rangkaian dengan penyalahgunaan tinggi. Setiap alamat berskor, berkategori, dan disahkan secara bebas sekurang-kurangnya dua kali.</b></p>
 <p align="center"><sub>Lesen MIT &middot; tanpa pendaftaran, tanpa kunci API, tanpa had permintaan &middot; dikemas kini 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ms.svg?v=1789045209" alt="Lihat pangkalan data langsung di ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ms.svg?v=1789047001" alt="Lihat pangkalan data langsung di ffraud.com" width="540"></a></p>
 
 Inilah pangkalan data penipuan IP terbuka di sebalik [ffraud.com](https://ffraud.com). Setiap alamat di dalamnya diperhatikan sedang menyerang sesuatu, disahkan sekurang-kurangnya dua kali secara bebas, diberi skor dari 0 hingga 100, dan dilabel dengan apa yang ia lakukan semasa ditangkap serta jenis infrastruktur yang digunakannya. Penyerang menukar infrastruktur tanpa henti, jadi sesuatu senarai sekatan hanya bernilai setakat kemas kini terakhirnya: yang ini dibina semula **setiap 30 minit** terus daripada enjin yang sedang berjalan. Apa yang anda muat turun ialah apa yang sedang menyerang internet pada saat ini. Tanpa pendaftaran, tanpa kunci, tanpa had. Curahkan terus ke dalam tembok api, WAF, borang pendaftaran atau saluran pemeriksaan penipuan.
 
 ## Ringkasnya
 
-- **1,254,504** alamat IP berniat jahat yang disahkan, setiapnya diperhatikan menyalahguna **dua kali atau lebih secara bebas**
+- **1,255,243** alamat IP berniat jahat yang disahkan, setiapnya diperhatikan menyalahguna **dua kali atau lebih secara bebas**
 - **553** rangkaian yang alamat-alamatnya kami perhatikan kebanyakannya berniat jahat dan padat dengan proksi
-- **219,530** domain e-mel guna buang turut hadir dalam repositori ini, jadi satu klon meliputi kedua-dua bahagian semakan pendaftaran
+- **219,573** domain e-mel guna buang turut hadir dalam repositori ini, jadi satu klon meliputi kedua-dua bahagian semakan pendaftaran
 - Setiap alamat membawa **skor 0 hingga 100**, satu **kategori ancaman**, dan **jenis infrastruktur** apabila ia kelihatan
 - Dibina semula dan diterbitkan **setiap 30 minit**. Sejarah commit ialah log perubahannya, dan [`metadata.json`](metadata.json) membawa masa binaan yang tepat
 - **Lesen MIT**, termasuk penggunaan komersial, tanpa keperluan pengiktirafan
@@ -36,9 +36,9 @@ Inilah pangkalan data penipuan IP terbuka di sebalik [ffraud.com](https://ffraud
 
 | Fail | Baris | Apa ini |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,254,504 | Alamat berniat jahat, setiapnya disahkan sekurang-kurangnya dua kali, dengan skor 0 hingga 100 kami, kategori ancaman (c2, perisian hasad, botnet, cubaan kata laluan, serangan web, pengimbas, pancingan data, spam) dan jenis infrastruktur (proxy, vpn, tor, datacenter, mobile) apabila diketahui |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,255,243 | Alamat berniat jahat, setiapnya disahkan sekurang-kurangnya dua kali, dengan skor 0 hingga 100 kami, kategori ancaman (c2, perisian hasad, botnet, cubaan kata laluan, serangan web, pengimbas, pancingan data, spam) dan jenis infrastruktur (proxy, vpn, tor, datacenter, mobile) apabila diketahui |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Rangkaian yang alamat diperhatikannya kebanyakannya berniat jahat dan padat dengan proksi: tanda pengenalan hosting kalis aduan |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,530 | Domain e-mel guna buang dan sementara, satu setiap baris |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,573 | Domain e-mel guna buang dan sementara, satu setiap baris |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | contoh | Maklumat penuh bagi setiap alamat: skor, sebab dalam bahasa mudah, dan setiap kategori yang kami lekatkan |
 | [`metadata.json`](../metadata.json) | &mdash; | Kiraan terkini dan masa binaan dalam UTC, supaya skrip tahu betapa segar salinannya |
 
