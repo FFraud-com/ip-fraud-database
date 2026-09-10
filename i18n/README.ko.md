@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789038002" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789039809" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>확인된 악성 IP 주소 1,253,634개와 악용이 심한 네트워크 553개. 모든 주소에 점수와 분류가 있고, 최소 두 번 독립적으로 확인되었습니다.</b></p>
 <p align="center"><sub>MIT 라이선스 &middot; 가입 불필요, API 키 불필요, 요청 제한 없음 &middot; 업데이트 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ko.svg?v=1789038002" alt="ffraud.com에서 실시간 데이터베이스 보기" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ko.svg?v=1789039809" alt="ffraud.com에서 실시간 데이터베이스 보기" width="540"></a></p>
 
 [ffraud.com](https://ffraud.com)을 떠받치는 공개 IP 사기 데이터베이스입니다. 여기 있는 주소는 모두 무언가를 공격하는 중에 관측되었고, 최소 두 번 독립적으로 확인되었으며, 0에서 100까지 점수가 매겨지고, 무엇을 하다 잡혔는지와 어떤 인프라에서 도는지까지 표시되어 있습니다. 공격자는 인프라를 끊임없이 바꾸기 때문에 차단 목록의 가치는 마지막 갱신 시점이 정합니다. 이 목록은 **30분마다** 살아 있는 엔진에서 바로 다시 만들어집니다. 내려받는 것이 지금 이 순간 인터넷을 공격하고 있는 것입니다. 가입도, API 키도, 요청 제한도 없습니다. 방화벽이나 WAF, 가입 폼, 사기 탐지 파이프라인에 그대로 넣으면 됩니다.
 
