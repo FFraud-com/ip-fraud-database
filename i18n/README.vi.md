@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789032608" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789034410" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1.253.506 địa chỉ IP độc hại đã xác nhận và 553 mạng lạm dụng nặng. Mỗi địa chỉ đều có điểm, phân loại và ít nhất hai lần xác nhận độc lập.</b></p>
 <p align="center"><sub>Giấy phép MIT &middot; không cần đăng ký, không cần khóa API, không giới hạn truy vấn &middot; cập nhật 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/vi.svg?v=1789032608" alt="Xem cơ sở dữ liệu trực tiếp trên ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/vi.svg?v=1789034410" alt="Xem cơ sở dữ liệu trực tiếp trên ffraud.com" width="540"></a></p>
 
 Đây là cơ sở dữ liệu gian lận IP mở nằm sau [ffraud.com](https://ffraud.com). Mỗi địa chỉ trong đó đều đã bị quan sát thấy đang tấn công thứ gì đó, được xác nhận độc lập ít nhất hai lần, chấm điểm từ 0 đến 100, và gắn nhãn theo việc nó bị bắt gặp đang làm gì cùng loại hạ tầng nó đang chạy. Kẻ tấn công liên tục đổi hạ tầng, nên một danh sách chặn chỉ đáng giá bằng lần cập nhật gần nhất của nó: danh sách này được dựng lại **mỗi 30 phút** trực tiếp từ động cơ đang chạy. Thứ bạn tải về chính là thứ đang tấn công internet ngay lúc này. Không đăng ký, không khóa, không giới hạn. Đổ thẳng vào tường lửa, WAF, biểu mẫu đăng ký hay quy trình chống gian lận.
 
