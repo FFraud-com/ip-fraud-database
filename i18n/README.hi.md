@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789090207" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789092001" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/वेबसाइट-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="वेबसाइट"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/दुर्भावनापूर्ण_IP-1,257,053-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="दुर्भावनापूर्ण IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/दुर्भावनापूर्ण_IP-1,258,077-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="दुर्भावनापूर्ण IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/दुरुपयोग_नेटवर्क-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="दुरुपयोग नेटवर्क"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/डिस्पोजेबल_डोमेन-219,575-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="डिस्पोजेबल डोमेन"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/पुनर्निर्माण-हर_30_मिनट-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="पुनर्निर्माण"></a>
@@ -16,15 +16,15 @@
 
 # IP धोखाधड़ी डेटाबेस, हर 30 मिनट में पुनर्निर्मित
 
-<p align="center"><b>1,257,053 पुष्ट दुर्भावनापूर्ण IP पते और 553 भारी दुरुपयोग वाले नेटवर्क। हर पता स्कोर किया गया, वर्गीकृत किया गया और कम से कम दो बार स्वतंत्र रूप से पुष्ट।</b></p>
+<p align="center"><b>1,258,077 पुष्ट दुर्भावनापूर्ण IP पते और 553 भारी दुरुपयोग वाले नेटवर्क। हर पता स्कोर किया गया, वर्गीकृत किया गया और कम से कम दो बार स्वतंत्र रूप से पुष्ट।</b></p>
 <p align="center"><sub>MIT लाइसेंस &middot; पंजीकरण नहीं, API कुंजी नहीं, अनुरोध सीमा नहीं &middot; अद्यतन 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hi.svg?v=1789090207" alt="ffraud.com पर लाइव डेटाबेस देखें" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hi.svg?v=1789092001" alt="ffraud.com पर लाइव डेटाबेस देखें" width="540"></a></p>
 
 यह [ffraud.com](https://ffraud.com) के पीछे खड़ा खुला IP धोखाधड़ी डेटाबेस है। इसमें मौजूद हर पता किसी न किसी पर हमला करते हुए देखा गया, कम से कम दो बार स्वतंत्र रूप से पुष्ट हुआ, 0 से 100 के बीच स्कोर पाया, और उस पर यह लेबल लगा कि वह किस काम में पकड़ा गया और किस तरह के बुनियादी ढाँचे पर चलता है। हमलावर अपना ढाँचा लगातार बदलते रहते हैं, इसलिए किसी ब्लॉकलिस्ट की कीमत उसके आख़िरी अपडेट जितनी ही होती है: यह सूची **हर 30 मिनट** में सीधे चालू इंजन से दोबारा बनाई जाती है। आप जो डाउनलोड करते हैं, वही इस वक़्त इंटरनेट पर हमला कर रहा है। न पंजीकरण, न कुंजी, न कोई सीमा। इसे सीधे फ़ायरवॉल, WAF, साइनअप फ़ॉर्म या धोखाधड़ी पाइपलाइन में डाल दीजिए।
 
 ## संक्षेप में
 
-- **1,257,053** पुष्ट दुर्भावनापूर्ण IP पते, हर एक **दो या उससे अधिक बार स्वतंत्र रूप से** दुरुपयोग करते देखा गया
+- **1,258,077** पुष्ट दुर्भावनापूर्ण IP पते, हर एक **दो या उससे अधिक बार स्वतंत्र रूप से** दुरुपयोग करते देखा गया
 - **553** नेटवर्क जहाँ हमने जो पते देखे वे अधिकांशतः दुर्भावनापूर्ण और प्रॉक्सी से भरे थे
 - **219,575** डिस्पोजेबल ईमेल डोमेन भी इसी रिपॉज़िटरी में आते हैं, यानी एक ही क्लोन साइनअप जाँच के दोनों हिस्से ढक लेता है
 - हर पते के साथ **0 से 100 का स्कोर**, एक **ख़तरा श्रेणी**, और जहाँ दिख सके वहाँ **बुनियादी ढाँचे का प्रकार** जुड़ा होता है
@@ -36,7 +36,7 @@
 
 | फ़ाइल | पंक्तियाँ | यह क्या है |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,257,053 | दुर्भावनापूर्ण पते, हर एक कम से कम दो बार पुष्ट, हमारे 0 से 100 स्कोर, ख़तरा श्रेणी (c2, मालवेयर, बॉटनेट, ब्रूट फ़ोर्स, वेब हमला, स्कैनर, फ़िशिंग, स्पैम) और जहाँ ज्ञात हो वहाँ ढाँचे के प्रकार (proxy, vpn, tor, datacenter, mobile) के साथ |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,258,077 | दुर्भावनापूर्ण पते, हर एक कम से कम दो बार पुष्ट, हमारे 0 से 100 स्कोर, ख़तरा श्रेणी (c2, मालवेयर, बॉटनेट, ब्रूट फ़ोर्स, वेब हमला, स्कैनर, फ़िशिंग, स्पैम) और जहाँ ज्ञात हो वहाँ ढाँचे के प्रकार (proxy, vpn, tor, datacenter, mobile) के साथ |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | वे नेटवर्क जिनके देखे गए पते अधिकांशतः दुर्भावनापूर्ण और प्रॉक्सी से भरे थे: बुलेटप्रूफ़ होस्टिंग की पहचान |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,575 | डिस्पोजेबल और अस्थायी ईमेल डोमेन, हर पंक्ति में एक |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | नमूना | प्रति पता पूरी जानकारी: स्कोर, सरल भाषा में कारण, और जोड़ी गई हर श्रेणी |
