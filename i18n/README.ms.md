@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789144206" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789146008" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1,263,349 alamat IP berniat jahat yang disahkan dan 553 rangkaian dengan penyalahgunaan tinggi. Setiap alamat berskor, berkategori, dan disahkan secara bebas sekurang-kurangnya dua kali.</b></p>
 <p align="center"><sub>Lesen MIT &middot; tanpa pendaftaran, tanpa kunci API, tanpa had permintaan &middot; dikemas kini 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ms.svg?v=1789144206" alt="Lihat pangkalan data langsung di ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ms.svg?v=1789146008" alt="Lihat pangkalan data langsung di ffraud.com" width="540"></a></p>
 
 Inilah pangkalan data penipuan IP terbuka di sebalik [ffraud.com](https://ffraud.com). Setiap alamat di dalamnya diperhatikan sedang menyerang sesuatu, disahkan sekurang-kurangnya dua kali secara bebas, diberi skor dari 0 hingga 100, dan dilabel dengan apa yang ia lakukan semasa ditangkap serta jenis infrastruktur yang digunakannya. Penyerang menukar infrastruktur tanpa henti, jadi sesuatu senarai sekatan hanya bernilai setakat kemas kini terakhirnya: yang ini dibina semula **setiap 30 minit** terus daripada enjin yang sedang berjalan. Apa yang anda muat turun ialah apa yang sedang menyerang internet pada saat ini. Tanpa pendaftaran, tanpa kunci, tanpa had. Curahkan terus ke dalam tembok api, WAF, borang pendaftaran atau saluran pemeriksaan penipuan.
 

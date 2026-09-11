@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789144206" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789146008" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1 263 349 расталған зиянды IP мекенжайы және 553 теріс пайдалану деңгейі жоғары желі. Әр мекенжайдың ұпайы, санаты бар және кемінде екі рет тәуелсіз расталған.</b></p>
 <p align="center"><sub>MIT лицензиясы &middot; тіркеусіз, API кілтісіз, сұраныс шегісіз &middot; жаңартылды 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/kk.svg?v=1789144206" alt="Тірі дерекқорды ffraud.com сайтынан қараңыз" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/kk.svg?v=1789146008" alt="Тірі дерекқорды ffraud.com сайтынан қараңыз" width="540"></a></p>
 
 Бұл [ffraud.com](https://ffraud.com) артында тұрған ашық IP алаяқтық дерекқоры. Ондағы әр мекенжай бір нәрсеге шабуыл жасап тұрғанда байқалған, кемінде екі рет тәуелсіз расталған, 0-ден 100-ге дейін бағаланған және не істеп жүріп ұсталғаны мен қандай инфрақұрылымда жұмыс істейтіні белгіленген. Шабуылдаушылар инфрақұрылымын үздіксіз ауыстырады, сондықтан бұғаттау тізімі соңғы жаңартылуы қандай болса, сонша ғана тұрады: бұл тізім **әр 30 минут сайын** тікелей жұмыс істеп тұрған қозғалтқыштан қайта құрылады. Сіз жүктегеніңіз дәл қазір интернетке шабуыл жасап жатқаны. Тіркеусіз, кілтсіз, шексіз. Оны тікелей желіаралық қалқанға, WAF-қа, тіркелу пішініне немесе алаяқтықты тексеру ағынына құйыңыз.
 
