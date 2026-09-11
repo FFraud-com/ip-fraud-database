@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789124402" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789126201" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1.262.193 direcciones IP maliciosas confirmadas y 553 redes con alto nivel de abuso. Cada dirección puntuada, categorizada y confirmada al menos dos veces de forma independiente.</b></p>
 <p align="center"><sub>Licencia MIT &middot; sin registro, sin clave de API, sin límite de peticiones &middot; actualizado el 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/es.svg?v=1789124402" alt="Ver la base en vivo en ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/es.svg?v=1789126201" alt="Ver la base en vivo en ffraud.com" width="540"></a></p>
 
 Esta es la base abierta de fraude por IP que hay detrás de [ffraud.com](https://ffraud.com). Cada dirección fue observada atacando algo, confirmada al menos dos veces de forma independiente, puntuada de 0 a 100 y etiquetada con aquello en lo que se la pilló y con el tipo de infraestructura sobre la que corre. Los atacantes cambian de infraestructura sin parar, así que una lista de bloqueo vale lo que valga su última actualización: esta se reconstruye **cada 30 minutos** directamente desde el motor en producción. Lo que descargas es lo que está atacando internet ahora mismo. Sin registro, sin clave, sin límites. Métela tal cual en un cortafuegos, un WAF, un formulario de registro o una tubería antifraude.
 
