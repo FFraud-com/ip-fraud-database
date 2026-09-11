@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789142412" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789144206" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1.263.349 bestätigt bösartige IP-Adressen und 553 stark auffällige Netze. Jede Adresse bewertet, kategorisiert und mindestens zweimal unabhängig bestätigt.</b></p>
 <p align="center"><sub>MIT-Lizenz &middot; keine Anmeldung, kein API-Schlüssel, kein Limit &middot; aktualisiert am 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/de.svg?v=1789142412" alt="Die Live-Datenbank auf ffraud.com ansehen" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/de.svg?v=1789144206" alt="Die Live-Datenbank auf ffraud.com ansehen" width="540"></a></p>
 
 Das ist die offene IP-Betrugsdatenbank hinter [ffraud.com](https://ffraud.com). Jede Adresse darin wurde beim Angriff beobachtet, mindestens zweimal unabhängig bestätigt, von 0 bis 100 bewertet und damit beschriftet, wobei sie erwischt wurde und auf welcher Infrastruktur sie läuft. Angreifer wechseln ihre Infrastruktur ständig, deshalb ist eine Sperrliste nur so viel wert wie ihre letzte Aktualisierung: diese hier wird **alle 30 Minuten** direkt aus der laufenden Engine neu gebaut. Was Sie herunterladen, greift das Internet gerade jetzt an. Keine Anmeldung, kein API-Schlüssel, kein Limit. Rein damit in eine Firewall, eine WAF, ein Anmeldeformular oder eine Betrugsprüfung.
 
