@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789106410" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789108201" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>確認済みの悪性IPアドレス 1,261,192 件、高悪用ネットワーク 553 件。すべてにスコアと分類が付き、少なくとも2回は独立して確認されています。</b></p>
 <p align="center"><sub>MITライセンス &middot; 登録不要、APIキー不要、レート制限なし &middot; 更新日 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ja.svg?v=1789106410" alt="ffraud.com でライブのデータベースを見る" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ja.svg?v=1789108201" alt="ffraud.com でライブのデータベースを見る" width="540"></a></p>
 
 [ffraud.com](https://ffraud.com) を支えているオープンなIP不正データベースです。ここにあるアドレスはどれも、何かを攻撃しているところを観測され、少なくとも2回は独立して確認され、0から100でスコア付けされ、何をしていて捕まったのか、どんなインフラで動いているのかまでラベルが付いています。攻撃者はインフラを絶えず入れ替えるので、ブロックリストの価値は最後に更新された時点で決まります。このリストは**30分ごと**に、稼働中のエンジンから直接再構築されます。ダウンロードしたものが、今この瞬間にインターネットを攻撃しているものです。登録不要、APIキー不要、レート制限なし。ファイアウォール、WAF、登録フォーム、不正検知のパイプラインにそのまま投入できます。
 
