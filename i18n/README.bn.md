@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789146008" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789147809" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1,263,349টি নিশ্চিত ক্ষতিকর আইপি ঠিকানা এবং 553টি উচ্চ অপব্যবহারের নেটওয়ার্ক। প্রতিটি ঠিকানার স্কোর ও শ্রেণি আছে এবং অন্তত দুবার স্বতন্ত্রভাবে নিশ্চিত করা হয়েছে।</b></p>
 <p align="center"><sub>MIT লাইসেন্স &middot; নিবন্ধন নেই, API কি নেই, অনুরোধের সীমা নেই &middot; হালনাগাদ 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/bn.svg?v=1789146008" alt="ffraud.com-এ সরাসরি ডেটাবেস দেখুন" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/bn.svg?v=1789147809" alt="ffraud.com-এ সরাসরি ডেটাবেস দেখুন" width="540"></a></p>
 
 এটি [ffraud.com](https://ffraud.com)-এর পেছনে থাকা উন্মুক্ত আইপি প্রতারণা ডেটাবেস। এর প্রতিটি ঠিকানাকে কিছু-একটাতে আক্রমণ করতে দেখা গেছে, অন্তত দুবার স্বতন্ত্রভাবে নিশ্চিত করা হয়েছে, ০ থেকে ১০০-র মধ্যে স্কোর দেওয়া হয়েছে, এবং কী করতে গিয়ে ধরা পড়ল ও কী ধরনের অবকাঠামোয় চলে তা দিয়ে চিহ্নিত করা হয়েছে। আক্রমণকারীরা অবিরাম অবকাঠামো বদলায়, তাই কোনো ব্লকলিস্টের দাম তার শেষ হালনাগাদের সমান: এটি **প্রতি ৩০ মিনিটে** সরাসরি চালু ইঞ্জিন থেকে নতুন করে তৈরি হয়। আপনি যা নামাচ্ছেন, সেটিই এই মুহূর্তে ইন্টারনেটে আক্রমণ করছে। নিবন্ধন নেই, কি নেই, সীমা নেই। সরাসরি ফায়ারওয়াল, WAF, সাইনআপ ফর্ম বা প্রতারণা যাচাইয়ের পাইপলাইনে ঢেলে দিন।
 
