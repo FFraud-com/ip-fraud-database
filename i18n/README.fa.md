@@ -1,7 +1,7 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789156801" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789158607" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 <p align="center"><b>1,265,197 نشانی آی‌پی مخرب تأییدشده و 553 شبکهٔ با سوءاستفادهٔ بالا. هر نشانی امتیاز و دسته دارد و دست‌کم دو بار به‌طور مستقل تأیید شده است.</b></p>
 <p align="center"><sub>پروانهٔ MIT &middot; بدون ثبت‌نام، بدون کلید API، بدون محدودیت درخواست &middot; به‌روزرسانی 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fa.svg?v=1789156801" alt="پایگاه دادهٔ زنده را در ffraud.com ببینید" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fa.svg?v=1789158607" alt="پایگاه دادهٔ زنده را در ffraud.com ببینید" width="540"></a></p>
 
 این پایگاه دادهٔ باز کلاهبرداری آی‌پی است که پشت [ffraud.com](https://ffraud.com) ایستاده. هر نشانی در آن هنگام حمله به چیزی دیده شده، دست‌کم دو بار به‌طور مستقل تأیید شده، از ۰ تا ۱۰۰ امتیاز گرفته و با آنچه در حالش گرفته شده و نوع زیرساختی که رویش کار می‌کند برچسب خورده است. مهاجمان زیرساخت خود را بی‌وقفه عوض می‌کنند، پس یک فهرست مسدودسازی دقیقاً به اندازهٔ آخرین به‌روزرسانی‌اش می‌ارزد: این فهرست **هر ۳۰ دقیقه** مستقیماً از موتور در حال کار بازسازی می‌شود. آنچه دانلود می‌کنید همان چیزی است که همین حالا به اینترنت حمله می‌کند. بدون ثبت‌نام، بدون کلید، بدون محدودیت. مستقیم بریزیدش در یک فایروال، یک WAF، یک فرم ثبت‌نام یا یک خط بررسی کلاهبرداری.
 
