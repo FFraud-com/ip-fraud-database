@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789153201" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789155008" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/వెబ్‌సైట్-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="వెబ్‌సైట్"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/హానికర_IP-1,265,135-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="హానికర IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/హానికర_IP-1,265,160-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="హానికర IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/దుర్వినియోగ_నెట్‌వర్క్‌లు-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="దుర్వినియోగ నెట్‌వర్క్‌లు"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/ఒకసారి_వాడే_డొమైన్‌లు-219,608-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ఒకసారి వాడే డొమైన్‌లు"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/పునర్నిర్మాణం-ప్రతి_30_నిమిషాలకు-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="పునర్నిర్మాణం"></a>
@@ -16,15 +16,15 @@
 
 # IP మోసం డేటాబేస్, ప్రతి 30 నిమిషాలకు పునర్నిర్మాణం
 
-<p align="center"><b>1,265,135 ధృవీకరించిన హానికర IP చిరునామాలు, 553 అధిక దుర్వినియోగ నెట్‌వర్క్‌లు. ప్రతి చిరునామాకూ స్కోరు, వర్గం ఉన్నాయి, కనీసం రెండుసార్లు స్వతంత్రంగా ధృవీకరించబడింది.</b></p>
+<p align="center"><b>1,265,160 ధృవీకరించిన హానికర IP చిరునామాలు, 553 అధిక దుర్వినియోగ నెట్‌వర్క్‌లు. ప్రతి చిరునామాకూ స్కోరు, వర్గం ఉన్నాయి, కనీసం రెండుసార్లు స్వతంత్రంగా ధృవీకరించబడింది.</b></p>
 <p align="center"><sub>MIT లైసెన్స్ &middot; నమోదు లేదు, API కీ లేదు, అభ్యర్థన పరిమితి లేదు &middot; నవీకరించబడింది 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/te.svg?v=1789153201" alt="ffraud.com లో ప్రత్యక్ష డేటాబేస్ చూడండి" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/te.svg?v=1789155008" alt="ffraud.com లో ప్రత్యక్ష డేటాబేస్ చూడండి" width="540"></a></p>
 
 ఇది [ffraud.com](https://ffraud.com) వెనుక నిలిచిన బహిరంగ IP మోసం డేటాబేస్. ఇందులోని ప్రతి చిరునామా దేనిపైనో దాడి చేస్తుండగా గమనించబడింది, కనీసం రెండుసార్లు స్వతంత్రంగా ధృవీకరించబడింది, 0 నుంచి 100 వరకు స్కోరు పొందింది, అది దేనిలో పట్టుబడిందో, ఎలాంటి మౌలిక వసతిపై నడుస్తుందో గుర్తుగా వేయబడింది. దాడి చేసేవారు మౌలిక వసతిని ఆపకుండా మారుస్తారు, కాబట్టి ఏ నిరోధక జాబితా అయినా దాని చివరి నవీకరణ విలువే: ఇది **ప్రతి 30 నిమిషాలకు** నేరుగా నడుస్తున్న ఇంజిన్ నుంచి తిరిగి నిర్మించబడుతుంది. మీరు దించుకునేదే ఈ క్షణం ఇంటర్నెట్‌పై దాడి చేస్తున్నది. నమోదు లేదు, కీ లేదు, పరిమితి లేదు. దీన్ని నేరుగా ఫైర్‌వాల్, WAF, నమోదు ఫారం లేదా మోసం తనిఖీ ప్రవాహంలో పోయండి.
 
 ## క్లుప్తంగా
 
-- **1,265,135** ధృవీకరించిన హానికర IP చిరునామాలు, ప్రతిదీ **కనీసం రెండుసార్లు స్వతంత్రంగా** దుర్వినియోగం చేస్తుండగా గమనించబడింది
+- **1,265,160** ధృవీకరించిన హానికర IP చిరునామాలు, ప్రతిదీ **కనీసం రెండుసార్లు స్వతంత్రంగా** దుర్వినియోగం చేస్తుండగా గమనించబడింది
 - **553** నెట్‌వర్క్‌లు, అక్కడ మేము గమనించిన చిరునామాలు ఎక్కువగా హానికరమైనవి, ప్రాక్సీలతో నిండినవి
 - **219,608** ఒకసారి వాడే ఇమెయిల్ డొమైన్‌లు కూడా ఇదే రిపోజిటరీలో వస్తాయి, కాబట్టి ఒక్కసారి క్లోన్ చేస్తే నమోదు తనిఖీ రెండు వైపులా కప్పబడుతుంది
 - ప్రతి చిరునామా **0 నుంచి 100 వరకు స్కోరు**, ఒక **ముప్పు వర్గం**, కనిపిస్తే **మౌలిక వసతి రకం** మోసుకొస్తుంది
@@ -36,7 +36,7 @@
 
 | ఫైల్ | వరుసలు | ఇది ఏమిటి |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,265,135 | హానికర చిరునామాలు, ప్రతిదీ కనీసం రెండుసార్లు ధృవీకరించబడింది, మా 0 నుంచి 100 స్కోరు, ముప్పు వర్గం (c2, మాల్‌వేర్, బాట్‌నెట్, పాస్‌వర్డ్ ఊహింపు, వెబ్ దాడి, స్కానర్, ఫిషింగ్, స్పామ్) మరియు తెలిస్తే మౌలిక వసతి రకం (proxy, vpn, tor, datacenter, mobile) తో |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,265,160 | హానికర చిరునామాలు, ప్రతిదీ కనీసం రెండుసార్లు ధృవీకరించబడింది, మా 0 నుంచి 100 స్కోరు, ముప్పు వర్గం (c2, మాల్‌వేర్, బాట్‌నెట్, పాస్‌వర్డ్ ఊహింపు, వెబ్ దాడి, స్కానర్, ఫిషింగ్, స్పామ్) మరియు తెలిస్తే మౌలిక వసతి రకం (proxy, vpn, tor, datacenter, mobile) తో |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | గమనించిన చిరునామాలు ఎక్కువగా హానికరంగా, ప్రాక్సీలతో నిండి ఉన్న నెట్‌వర్క్‌లు: ఫిర్యాదులకు లొంగని హోస్టింగ్ ముద్ర |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,608 | ఒకసారి వాడే, తాత్కాలిక ఇమెయిల్ డొమైన్‌లు, ప్రతి వరుసకు ఒకటి |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | నమూనా | ప్రతి చిరునామాకు పూర్తి సమాచారం: స్కోరు, సాదా భాషలో కారణం, జతచేసిన ప్రతి వర్గం |
