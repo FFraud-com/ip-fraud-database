@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789228802" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789230602" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1,268,549 个已确认的恶意 IP 地址，537 个高滥用网络。每个地址都有评分、分类，并至少经过两次独立确认。</b></p>
 <p align="center"><sub>MIT 许可 &middot; 无需注册、无需密钥、没有速率限制 &middot; 更新于 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/zh-CN.svg?v=1789228802" alt="在 ffraud.com 上浏览实时数据库" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/zh-CN.svg?v=1789230602" alt="在 ffraud.com 上浏览实时数据库" width="540"></a></p>
 
 这是 [ffraud.com](https://ffraud.com) 背后的开放 IP 欺诈数据库。里面的每一个地址都是被观测到正在攻击某个目标的，至少经过两次独立确认，按 0 到 100 打分，并标注了它被抓到在做什么、跑在什么样的基础设施上。攻击者会不停更换基础设施，所以一份封禁名单的价值只等于它最后一次更新：这份名单**每 30 分钟**直接从在线引擎重建一次。你下载到的，就是此刻正在攻击互联网的东西。无需注册、无需密钥、没有速率限制。直接丢进防火墙、WAF、注册表单或风控流程即可。
 
