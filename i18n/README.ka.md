@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789216208" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789218001" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/ვებგვერდი-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ვებგვერდი"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/მავნე_IP-1,268,012-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="მავნე IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/მავნე_IP-1,268,477-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="მავნე IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ბოროტად_გამოყენების_ქსელები-537-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ბოროტად გამოყენების ქსელები"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/ერთჯერადი_დომენები-219,610-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ერთჯერადი დომენები"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/ხელახლა_შენება-ყოველ_30_წუთში-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ხელახლა შენება"></a>
@@ -16,15 +16,15 @@
 
 # IP თაღლითობის ბაზა, ხელახლა შენდება ყოველ 30 წუთში
 
-<p align="center"><b>1,268,012 დადასტურებულად მავნე IP მისამართი და 537 მაღალი ბოროტად გამოყენების ქსელი. თითოეულ მისამართს აქვს ქულა, კატეგორია და სულ მცირე ორი დამოუკიდებელი დადასტურება.</b></p>
+<p align="center"><b>1,268,477 დადასტურებულად მავნე IP მისამართი და 537 მაღალი ბოროტად გამოყენების ქსელი. თითოეულ მისამართს აქვს ქულა, კატეგორია და სულ მცირე ორი დამოუკიდებელი დადასტურება.</b></p>
 <p align="center"><sub>MIT ლიცენზია &middot; რეგისტრაციის გარეშე, API გასაღების გარეშე, მოთხოვნების ლიმიტის გარეშე &middot; განახლდა 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ka.svg?v=1789216208" alt="იხილეთ ცოცხალი ბაზა ffraud.com-ზე" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ka.svg?v=1789218001" alt="იხილეთ ცოცხალი ბაზა ffraud.com-ზე" width="540"></a></p>
 
 ეს არის ღია IP თაღლითობის ბაზა, რომელიც [ffraud.com](https://ffraud.com)-ს უდგას უკან. მასში თითოეული მისამართი დაფიქსირდა, როცა რაღაცას თავს ესხმოდა, დადასტურდა სულ მცირე ორჯერ დამოუკიდებლად, მიიღო ქულა 0-დან 100-მდე და მოინიშნა იმით, რაზეც წაასწრეს და რა ტიპის ინფრასტრუქტურაზე მუშაობს. თავდამსხმელები ინფრასტრუქტურას განუწყვეტლივ ცვლიან, ამიტომ ბლოკირების სია ზუსტად იმდენად ღირს, რამდენადაც მისი ბოლო განახლება: ეს სია **ყოველ 30 წუთში** პირდაპირ მომუშავე ძრავიდან შენდება ხელახლა. ის, რასაც ჩამოტვირთავთ, სწორედ ახლა ესხმის თავს ინტერნეტს. რეგისტრაციის გარეშე, გასაღების გარეშე, ლიმიტების გარეშე. ჩაასხით პირდაპირ ბრანდმაუერში, WAF-ში, რეგისტრაციის ფორმაში ან თაღლითობის შემოწმების ხაზში.
 
 ## მოკლედ
 
-- **1,268,012** დადასტურებულად მავნე IP მისამართი, თითოეული **სულ მცირე ორჯერ დამოუკიდებლად** დაფიქსირდა ბოროტად გამოყენებისას
+- **1,268,477** დადასტურებულად მავნე IP მისამართი, თითოეული **სულ მცირე ორჯერ დამოუკიდებლად** დაფიქსირდა ბოროტად გამოყენებისას
 - **537** ქსელი, სადაც ჩვენ მიერ დაფიქსირებული მისამართები უპირატესად მავნე და პროქსით სავსე იყო
 - **219,610** ერთჯერადი ელფოსტის დომენიც ამავე საცავში მოდის, ანუ ერთი კლონირება რეგისტრაციის შემოწმების ორივე ნახევარს ფარავს
 - თითოეულ მისამართს აქვს **ქულა 0-დან 100-მდე**, **საფრთხის კატეგორია** და, თუ ჩანს, **ინფრასტრუქტურის ტიპი**
@@ -36,7 +36,7 @@
 
 | ფაილი | სტრიქონი | რა არის ეს |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,268,012 | მავნე მისამართები, თითოეული სულ მცირე ორჯერ დადასტურებული, ჩვენი 0-დან 100-მდე ქულით, საფრთხის კატეგორიით (c2, მავნე პროგრამა, ბოტნეტი, პაროლის გამოცნობა, ვებშეტევა, სკანერი, ფიშინგი, სპამი) და, თუ ცნობილია, ინფრასტრუქტურის ტიპით (proxy, vpn, tor, datacenter, mobile) |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,268,477 | მავნე მისამართები, თითოეული სულ მცირე ორჯერ დადასტურებული, ჩვენი 0-დან 100-მდე ქულით, საფრთხის კატეგორიით (c2, მავნე პროგრამა, ბოტნეტი, პაროლის გამოცნობა, ვებშეტევა, სკანერი, ფიშინგი, სპამი) და, თუ ცნობილია, ინფრასტრუქტურის ტიპით (proxy, vpn, tor, datacenter, mobile) |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 537 | ქსელები, რომელთა დაფიქსირებული მისამართები უპირატესად მავნე და პროქსით სავსე იყო: საჩივრებისადმი გაუტეხავი ჰოსტინგის ხელწერა |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,610 | ერთჯერადი და დროებითი ელფოსტის დომენები, თითო სტრიქონზე ერთი |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | ნიმუში | სრული ინფორმაცია თითო მისამართზე: ქულა, მიზეზი მარტივ ენაზე და ყველა მიმაგრებული კატეგორია |
