@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789200008" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789201801" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1 269 855 потвърдено зловредни IP адреса и 553 мрежи с висока злоупотреба. Всеки адрес с оценка, категория и поне две независими потвърждения.</b></p>
 <p align="center"><sub>Лиценз MIT &middot; без регистрация, без API ключ, без ограничения на заявките &middot; обновено 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/bg.svg?v=1789200008" alt="Вижте живата база на ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/bg.svg?v=1789201801" alt="Вижте живата база на ffraud.com" width="540"></a></p>
 
 Това е отворената база за IP измами зад [ffraud.com](https://ffraud.com). Всеки адрес в нея е наблюдаван да атакува нещо, потвърден е поне два пъти независимо, получил е оценка от 0 до 100 и е обозначен с това, в което е хванат, и с вида инфраструктура, на която работи. Атакуващите сменят инфраструктурата си непрекъснато, така че един списък за блокиране струва точно колкото последното си обновяване: този се пресъздава **на всеки 30 минути** направо от работещия двигател. Това, което сваляте, атакува интернет точно сега. Без регистрация, без ключ, без ограничения. Изсипете го направо в защитна стена, WAF, регистрационна форма или конвейер срещу измами.
 
