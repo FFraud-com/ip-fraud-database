@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789246802" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789248607" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/ဝဘ်ဆိုက်-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ဝဘ်ဆိုက်"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/အန္တရာယ်ရှိ_IP-1,268,835-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="အန္တရာယ်ရှိ IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/အန္တရာယ်ရှိ_IP-1,270,320-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="အန္တရာယ်ရှိ IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/အလွဲသုံးစား_ကွန်ရက်များ-537-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="အလွဲသုံးစား ကွန်ရက်များ"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/တစ်ကြိမ်သုံး_ဒိုမိန်းများ-219,617-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="တစ်ကြိမ်သုံး ဒိုမိန်းများ"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/ပြန်တည်ဆောက်-မိနစ်_၃၀_တိုင်း-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ပြန်တည်ဆောက်"></a>
@@ -16,15 +16,15 @@
 
 # IP လိမ်လည်မှု ဒေတာဘေ့စ်၊ မိနစ် ၃၀ တိုင်း ပြန်တည်ဆောက်သည်
 
-<p align="center"><b>အတည်ပြုပြီး အန္တရာယ်ရှိ IP လိပ်စာ 1,268,835 ခုနှင့် အလွဲသုံးစားမှု မြင့်မားသော ကွန်ရက် 537 ခု။ လိပ်စာတိုင်းတွင် အမှတ်၊ အမျိုးအစားရှိပြီး အနည်းဆုံး နှစ်ကြိမ် လွတ်လပ်စွာ အတည်ပြုထားသည်။</b></p>
+<p align="center"><b>အတည်ပြုပြီး အန္တရာယ်ရှိ IP လိပ်စာ 1,270,320 ခုနှင့် အလွဲသုံးစားမှု မြင့်မားသော ကွန်ရက် 537 ခု။ လိပ်စာတိုင်းတွင် အမှတ်၊ အမျိုးအစားရှိပြီး အနည်းဆုံး နှစ်ကြိမ် လွတ်လပ်စွာ အတည်ပြုထားသည်။</b></p>
 <p align="center"><sub>MIT လိုင်စင် &middot; မှတ်ပုံတင်စရာမလို၊ API သော့မလို၊ တောင်းဆိုမှု ကန့်သတ်ချက်မရှိ &middot; မွမ်းမံပြီး 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/my.svg?v=1789246802" alt="ffraud.com တွင် တိုက်ရိုက်ဒေတာဘေ့စ်ကို ကြည့်ပါ" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/my.svg?v=1789248607" alt="ffraud.com တွင် တိုက်ရိုက်ဒေတာဘေ့စ်ကို ကြည့်ပါ" width="540"></a></p>
 
 ဤသည်မှာ [ffraud.com](https://ffraud.com) နောက်ကွယ်တွင် ရပ်တည်နေသော ပွင့်လင်း IP လိမ်လည်မှု ဒေတာဘေ့စ်ဖြစ်သည်။ ထဲတွင်ရှိသော လိပ်စာတိုင်းကို တစ်ခုခုကို တိုက်ခိုက်နေစဉ် တွေ့ရှိခဲ့ပြီး၊ အနည်းဆုံး နှစ်ကြိမ် လွတ်လပ်စွာ အတည်ပြုကာ၊ ၀ မှ ၁၀၀ အထိ အမှတ်ပေးပြီး၊ ဘာလုပ်နေစဉ် ဖမ်းမိသည်နှင့် မည်သည့်အခြေခံအဆောက်အအုံပေါ်တွင် လည်ပတ်နေသည်ကို အမှတ်အသားပြုထားသည်။ တိုက်ခိုက်သူများသည် အခြေခံအဆောက်အအုံကို မရပ်မနား ပြောင်းလဲကြသဖြင့် ပိတ်ဆို့စာရင်းတစ်ခု၏ တန်ဖိုးမှာ ၎င်း၏ နောက်ဆုံးမွမ်းမံမှုအတိုင်းသာ ဖြစ်သည်- ဤစာရင်းကို **မိနစ် ၃၀ တိုင်း** လည်ပတ်နေသော အင်ဂျင်မှ တိုက်ရိုက် ပြန်တည်ဆောက်သည်။ သင်ဒေါင်းလုဒ်လုပ်သည့်အရာမှာ ယခုအချိန်တွင် အင်တာနက်ကို တိုက်ခိုက်နေသည့်အရာပင် ဖြစ်သည်။ မှတ်ပုံတင်စရာမလို၊ သော့မလို၊ ကန့်သတ်ချက်မရှိ။ firewall၊ WAF၊ စာရင်းသွင်းပုံစံ သို့မဟုတ် လိမ်လည်မှု စစ်ဆေးလိုင်းထဲသို့ တိုက်ရိုက် ထည့်လိုက်ပါ။
 
 ## အကျဉ်းချုပ်
 
-- အတည်ပြုပြီး အန္တရာယ်ရှိ IP လိပ်စာ **1,268,835** ခု၊ တစ်ခုချင်းစီကို **အနည်းဆုံး နှစ်ကြိမ် လွတ်လပ်စွာ** အလွဲသုံးစားနေစဉ် တွေ့ရှိခဲ့သည်
+- အတည်ပြုပြီး အန္တရာယ်ရှိ IP လိပ်စာ **1,270,320** ခု၊ တစ်ခုချင်းစီကို **အနည်းဆုံး နှစ်ကြိမ် လွတ်လပ်စွာ** အလွဲသုံးစားနေစဉ် တွေ့ရှိခဲ့သည်
 - ကွန်ရက် **537** ခု၊ ထိုနေရာများတွင် ကျွန်ုပ်တို့ တွေ့ရှိသော လိပ်စာများသည် အများစုအားဖြင့် အန္တရာယ်ရှိပြီး ပရောက်စီ ပြည့်နှက်နေသည်
 - တစ်ကြိမ်သုံး အီးမေးလ် ဒိုမိန်း **219,617** ခုသည်လည်း ဤသိုလှောင်ရာတွင် ပါဝင်လာသဖြင့် တစ်ကြိမ် clone လုပ်ရုံဖြင့် စာရင်းသွင်းစစ်ဆေးမှု၏ နှစ်ဖက်စလုံးကို လွှမ်းခြုံနိုင်သည်
 - လိပ်စာတိုင်းတွင် **၀ မှ ၁၀၀ အမှတ်**၊ **ခြိမ်းခြောက်မှု အမျိုးအစား**နှင့် မြင်နိုင်လျှင် **အခြေခံအဆောက်အအုံ အမျိုးအစား** ပါဝင်သည်
@@ -36,7 +36,7 @@
 
 | ဖိုင် | အတန်း | ဘာလဲ |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,268,835 | အန္တရာယ်ရှိ လိပ်စာများ၊ တစ်ခုချင်းစီ အနည်းဆုံး နှစ်ကြိမ် အတည်ပြုပြီး၊ ကျွန်ုပ်တို့၏ ၀ မှ ၁၀၀ အမှတ်၊ ခြိမ်းခြောက်မှု အမျိုးအစား (c2၊ malware၊ botnet၊ စကားဝှက်ခန့်မှန်းမှု၊ ဝဘ်တိုက်ခိုက်မှု၊ scanner၊ phishing၊ spam) နှင့် သိရှိပါက အခြေခံအဆောက်အအုံ အမျိုးအစား (proxy၊ vpn၊ tor၊ datacenter၊ mobile) တို့နှင့်အတူ |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,270,320 | အန္တရာယ်ရှိ လိပ်စာများ၊ တစ်ခုချင်းစီ အနည်းဆုံး နှစ်ကြိမ် အတည်ပြုပြီး၊ ကျွန်ုပ်တို့၏ ၀ မှ ၁၀၀ အမှတ်၊ ခြိမ်းခြောက်မှု အမျိုးအစား (c2၊ malware၊ botnet၊ စကားဝှက်ခန့်မှန်းမှု၊ ဝဘ်တိုက်ခိုက်မှု၊ scanner၊ phishing၊ spam) နှင့် သိရှိပါက အခြေခံအဆောက်အအုံ အမျိုးအစား (proxy၊ vpn၊ tor၊ datacenter၊ mobile) တို့နှင့်အတူ |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 537 | တွေ့ရှိသော လိပ်စာများ အများစုအားဖြင့် အန္တရာယ်ရှိပြီး ပရောက်စီပြည့်နှက်နေသော ကွန်ရက်များ- တိုင်ကြားမှုကို ဂရုမစိုက်သော ဟိုစတင်း၏ လက္ခဏာ |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,617 | တစ်ကြိမ်သုံးနှင့် ယာယီ အီးမေးလ် ဒိုမိန်းများ၊ တစ်ကြောင်းလျှင် တစ်ခု |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | နမူနာ | လိပ်စာတစ်ခုချင်းစီအတွက် အပြည့်အစုံ အချက်အလက်- အမှတ်၊ ရိုးရှင်းသော ဘာသာစကားဖြင့် အကြောင်းရင်းနှင့် တွဲထားသော အမျိုးအစားတိုင်း |

@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789246802" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789248607" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Site-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Site"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_malveillantes-1 268 835-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP malveillantes"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_malveillantes-1 270 320-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP malveillantes"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Réseaux_abusifs-537-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Réseaux abusifs"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Domaines_jetables-219 617-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domaines jetables"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Reconstruit-toutes_les_30_minutes-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Reconstruit"></a>
@@ -16,15 +16,15 @@
 
 # Base de fraude IP, reconstruite toutes les 30 minutes
 
-<p align="center"><b>1 268 835 adresses IP malveillantes confirmées et 537 réseaux fortement abusifs. Chaque adresse notée, catégorisée et confirmée au moins deux fois de façon indépendante.</b></p>
+<p align="center"><b>1 270 320 adresses IP malveillantes confirmées et 537 réseaux fortement abusifs. Chaque adresse notée, catégorisée et confirmée au moins deux fois de façon indépendante.</b></p>
 <p align="center"><sub>Licence MIT &middot; sans inscription, sans clé d'API, sans limite de requêtes &middot; mis à jour le 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fr.svg?v=1789246802" alt="Consulter la base en direct sur ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fr.svg?v=1789248607" alt="Consulter la base en direct sur ffraud.com" width="540"></a></p>
 
 Voici la base ouverte de fraude IP derrière [ffraud.com](https://ffraud.com). Chaque adresse qu'elle contient a été observée en train d'attaquer quelque chose, confirmée au moins deux fois de façon indépendante, notée de 0 à 100, puis étiquetée avec ce sur quoi elle a été prise et le type d'infrastructure qu'elle utilise. Les attaquants changent d'infrastructure en permanence : une liste de blocage ne vaut donc que sa dernière mise à jour. Celle-ci est reconstruite **toutes les 30 minutes** directement depuis le moteur en production. Ce que vous téléchargez est ce qui attaque l'internet en ce moment même. Sans inscription, sans clé, sans limite. À verser tel quel dans un pare-feu, un WAF, un formulaire d'inscription ou une chaîne antifraude.
 
 ## En bref
 
-- **1 268 835** adresses IP malveillantes confirmées, chacune observée en train d'abuser **au moins deux fois de façon indépendante**
+- **1 270 320** adresses IP malveillantes confirmées, chacune observée en train d'abuser **au moins deux fois de façon indépendante**
 - **537** réseaux dont les adresses que nous avons observées étaient très majoritairement malveillantes et fortement liées à des proxys
 - **219 617** domaines de messagerie jetables sont également livrés dans ce dépôt : un seul clone couvre les deux moitiés d'un contrôle à l'inscription
 - Chaque adresse porte un **score de 0 à 100**, une **catégorie de menace** et le **type d'infrastructure** lorsqu'il est visible
@@ -36,7 +36,7 @@ Voici la base ouverte de fraude IP derrière [ffraud.com](https://ffraud.com). C
 
 | Fichier | Lignes | De quoi il s'agit |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 268 835 | Adresses malveillantes, chacune confirmée au moins deux fois, avec notre score de 0 à 100, la catégorie de menace (c2, logiciel malveillant, botnet, force brute, attaque web, scanner, hameçonnage, spam) et le type d'infrastructure (proxy, vpn, tor, datacenter, mobile) lorsqu'il est connu |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 270 320 | Adresses malveillantes, chacune confirmée au moins deux fois, avec notre score de 0 à 100, la catégorie de menace (c2, logiciel malveillant, botnet, force brute, attaque web, scanner, hameçonnage, spam) et le type d'infrastructure (proxy, vpn, tor, datacenter, mobile) lorsqu'il est connu |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 537 | Réseaux dont les adresses observées étaient très majoritairement malveillantes et fortement liées à des proxys : la signature de l'hébergement à toute épreuve |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 617 | Domaines de messagerie jetables et temporaires, un par ligne |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | échantillon | Renseignement complet par adresse : le score, un motif en français clair et toutes les catégories associées |
