@@ -1,7 +1,7 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789243201" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789245001" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 <p align="center"><b>1,268,837 כתובות IP זדוניות מאומתות ו‑537 רשתות עם ניצול לרעה גבוה. לכל כתובת ניקוד, קטגוריה ולפחות שני אימותים עצמאיים.</b></p>
 <p align="center"><sub>רישיון MIT &middot; בלי הרשמה, בלי מפתח API, בלי הגבלת בקשות &middot; עודכן 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/he.svg?v=1789243201" alt="לצפייה במסד החי ב‑ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/he.svg?v=1789245001" alt="לצפייה במסד החי ב‑ffraud.com" width="540"></a></p>
 
 זהו מסד הונאות ה‑IP הפתוח שמאחורי [ffraud.com](https://ffraud.com). כל כתובת בו נצפתה תוקפת משהו, אומתה לפחות פעמיים באופן עצמאי, קיבלה ניקוד בין 0 ל‑100 ותויגה במה שנתפסה עושה ובאיזה סוג תשתית היא פועלת. תוקפים מחליפים תשתית ללא הרף, ולכן רשימת חסימה שווה בדיוק כמו העדכון האחרון שלה: הרשימה הזאת נבנית מחדש **כל 30 דקות** ישירות מהמנוע הפעיל. מה שאתם מורידים הוא מה שתוקף את האינטרנט ברגע זה. בלי הרשמה, בלי מפתח, בלי הגבלות. הכניסו את זה ישר לחומת אש, ל‑WAF, לטופס הרשמה או לצינור בדיקת הונאות.
 
