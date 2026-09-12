@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789207202" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789209002" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Sito-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sito"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_malevoli-1.269.764-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP malevoli"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Reti_abusive-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Reti abusive"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_malevoli-1.267.243-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP malevoli"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Reti_abusive-545-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Reti abusive"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Domini_usa_e_getta-219.610-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domini usa e getta"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Ricostruito-ogni_30_minuti-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ricostruito"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_gratuita-senza_chiave-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API gratuita"></a>
@@ -16,16 +16,16 @@
 
 # Database frodi IP, ricostruito ogni 30 minuti
 
-<p align="center"><b>1.269.764 indirizzi IP malevoli confermati e 553 reti ad alto tasso di abuso. Ogni indirizzo con punteggio, categoria e almeno due conferme indipendenti.</b></p>
+<p align="center"><b>1.267.243 indirizzi IP malevoli confermati e 545 reti ad alto tasso di abuso. Ogni indirizzo con punteggio, categoria e almeno due conferme indipendenti.</b></p>
 <p align="center"><sub>Licenza MIT &middot; senza registrazione, senza chiave API, senza limiti di richieste &middot; aggiornato il 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/it.svg?v=1789207202" alt="Consulta il database live su ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/it.svg?v=1789209002" alt="Consulta il database live su ffraud.com" width="540"></a></p>
 
 Questo è il database aperto sulle frodi IP che sta dietro a [ffraud.com](https://ffraud.com). Ogni indirizzo qui dentro è stato osservato mentre attaccava qualcosa, confermato almeno due volte in modo indipendente, valutato da 0 a 100 ed etichettato con ciò per cui è stato colto e con il tipo di infrastruttura su cui gira. Chi attacca cambia infrastruttura di continuo, quindi una lista di blocco vale quanto il suo ultimo aggiornamento: questa viene ricostruita **ogni 30 minuti** direttamente dal motore in produzione. Quello che scarichi è ciò che sta attaccando internet in questo momento. Senza registrazione, senza chiave, senza limiti. Mettilo così com'è in un firewall, un WAF, un modulo di registrazione o una pipeline antifrode.
 
 ## In breve
 
-- **1.269.764** indirizzi IP malevoli confermati, ciascuno osservato mentre abusava **due o più volte in modo indipendente**
-- **553** reti in cui gli indirizzi che abbiamo osservato erano in larga maggioranza malevoli e ricchi di proxy
+- **1.267.243** indirizzi IP malevoli confermati, ciascuno osservato mentre abusava **due o più volte in modo indipendente**
+- **545** reti in cui gli indirizzi che abbiamo osservato erano in larga maggioranza malevoli e ricchi di proxy
 - **219.610** domini di posta usa e getta arrivano anche in questo repository, così un solo clone copre entrambe le metà di un controllo alla registrazione
 - Ogni indirizzo porta un **punteggio da 0 a 100**, una **categoria di minaccia** e il **tipo di infrastruttura** quando è visibile
 - Ricostruito e pubblicato **ogni 30 minuti**. La cronologia dei commit è il registro delle modifiche, e [`metadata.json`](metadata.json) contiene l'orario esatto della build
@@ -36,8 +36,8 @@ Questo è il database aperto sulle frodi IP che sta dietro a [ffraud.com](https:
 
 | File | Righe | Che cos'è |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.269.764 | Indirizzi malevoli, ciascuno confermato almeno due volte, con il nostro punteggio da 0 a 100, la categoria di minaccia (c2, malware, botnet, forza bruta, attacco web, scanner, phishing, spam) e il tipo di infrastruttura (proxy, vpn, tor, datacenter, mobile) quando è noto |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Reti i cui indirizzi osservati erano in larga maggioranza malevoli e ricchi di proxy: la firma dell'hosting a prova di segnalazione |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.267.243 | Indirizzi malevoli, ciascuno confermato almeno due volte, con il nostro punteggio da 0 a 100, la categoria di minaccia (c2, malware, botnet, forza bruta, attacco web, scanner, phishing, spam) e il tipo di infrastruttura (proxy, vpn, tor, datacenter, mobile) quando è noto |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 545 | Reti i cui indirizzi osservati erano in larga maggioranza malevoli e ricchi di proxy: la firma dell'hosting a prova di segnalazione |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.610 | Domini di posta usa e getta e temporanei, uno per riga |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | esempio | Informazioni complete per indirizzo: il punteggio, un motivo in parole semplici e tutte le categorie assegnate |
 | [`metadata.json`](../metadata.json) | &mdash; | Conteggi aggiornati e orario della build in UTC, così uno script sa quanto è fresca la sua copia |
