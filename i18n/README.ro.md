@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789223401" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789225201" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1.268.415 adrese IP rău intenționate confirmate și 537 rețele cu abuz ridicat. Fiecare adresă are scor, categorie și cel puțin două confirmări independente.</b></p>
 <p align="center"><sub>Licență MIT &middot; fără înregistrare, fără cheie API, fără limite de cereri &middot; actualizat 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ro.svg?v=1789223401" alt="Vezi baza live pe ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ro.svg?v=1789225201" alt="Vezi baza live pe ffraud.com" width="540"></a></p>
 
 Aceasta este baza deschisă de fraudă IP din spatele [ffraud.com](https://ffraud.com). Fiecare adresă din ea a fost observată atacând ceva, confirmată independent de cel puțin două ori, punctată de la 0 la 100 și etichetată cu ce făcea când a fost prinsă și pe ce fel de infrastructură rulează. Atacatorii își schimbă infrastructura neîncetat, așa că o listă de blocare valorează exact cât ultima ei actualizare: aceasta se reconstruiește **la fiecare 30 de minute** direct din motorul aflat în funcțiune. Ce descarci este ceea ce atacă internetul chiar acum. Fără înregistrare, fără cheie, fără limite. Bag-o direct într-un firewall, un WAF, un formular de înregistrare sau un flux antifraudă.
 
