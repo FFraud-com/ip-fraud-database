@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789174801" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789176608" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Strona-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Strona"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Złośliwe_IP-1 265 580-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Złośliwe IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Złośliwe_IP-1 265 590-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Złośliwe IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Sieci_nadużyć-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sieci nadużyć"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Domeny_jednorazowe-219 608-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domeny jednorazowe"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Przebudowa-co_30_minut-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Przebudowa"></a>
@@ -16,15 +16,15 @@
 
 # Baza oszustw IP, przebudowywana co 30 minut
 
-<p align="center"><b>1 265 580 potwierdzonych złośliwych adresów IP i 553 sieci o wysokim poziomie nadużyć. Każdy adres z oceną, kategorią i co najmniej dwoma niezależnymi potwierdzeniami.</b></p>
+<p align="center"><b>1 265 590 potwierdzonych złośliwych adresów IP i 553 sieci o wysokim poziomie nadużyć. Każdy adres z oceną, kategorią i co najmniej dwoma niezależnymi potwierdzeniami.</b></p>
 <p align="center"><sub>Licencja MIT &middot; bez rejestracji, bez klucza API, bez limitów zapytań &middot; zaktualizowano 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/pl.svg?v=1789174801" alt="Zobacz bazę na żywo na ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/pl.svg?v=1789176608" alt="Zobacz bazę na żywo na ffraud.com" width="540"></a></p>
 
 To otwarta baza oszustw IP, na której stoi [ffraud.com](https://ffraud.com). Każdy adres tutaj został zaobserwowany podczas ataku, potwierdzony co najmniej dwa razy niezależnie, oceniony w skali od 0 do 100 i opisany tym, na czym go przyłapano oraz na jakiej infrastrukturze działa. Atakujący bez przerwy zmieniają infrastrukturę, więc lista blokad jest warta tyle, ile jej ostatnia aktualizacja: ta jest przebudowywana **co 30 minut** wprost z działającego silnika. To, co pobierasz, atakuje internet w tej chwili. Bez rejestracji, bez klucza, bez limitów. Wrzuć prosto do zapory, WAF-a, formularza rejestracji albo potoku antyfraudowego.
 
 ## W skrócie
 
-- **1 265 580** potwierdzonych złośliwych adresów IP, każdy zaobserwowany przy nadużyciu **co najmniej dwa razy niezależnie**
+- **1 265 590** potwierdzonych złośliwych adresów IP, każdy zaobserwowany przy nadużyciu **co najmniej dwa razy niezależnie**
 - **553** sieci, w których obserwowane przez nas adresy były w przeważającej części złośliwe i pełne proxy
 - **219 608** jednorazowych domen pocztowych trafia także do tego repozytorium, więc jeden klon pokrywa obie połowy kontroli przy rejestracji
 - Każdy adres niesie **ocenę od 0 do 100**, **kategorię zagrożenia** oraz **typ infrastruktury**, gdy da się go rozpoznać
@@ -36,7 +36,7 @@ To otwarta baza oszustw IP, na której stoi [ffraud.com](https://ffraud.com). Ka
 
 | Plik | Wierszy | Co to jest |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 265 580 | Złośliwe adresy, każdy potwierdzony co najmniej dwukrotnie, z naszą oceną od 0 do 100, kategorią zagrożenia (c2, złośliwe oprogramowanie, botnet, atak siłowy, atak webowy, skaner, phishing, spam) i typem infrastruktury (proxy, vpn, tor, datacenter, mobile), gdy jest znany |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 265 590 | Złośliwe adresy, każdy potwierdzony co najmniej dwukrotnie, z naszą oceną od 0 do 100, kategorią zagrożenia (c2, złośliwe oprogramowanie, botnet, atak siłowy, atak webowy, skaner, phishing, spam) i typem infrastruktury (proxy, vpn, tor, datacenter, mobile), gdy jest znany |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | Sieci, których obserwowane adresy były w przeważającej części złośliwe i pełne proxy: sygnatura hostingu odpornego na zgłoszenia |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 608 | Jednorazowe i tymczasowe domeny pocztowe, po jednej w wierszu |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | próbka | Pełne informacje o adresie: ocena, powód zwykłym językiem i wszystkie przypisane kategorie |
