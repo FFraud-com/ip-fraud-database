@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789192801" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789194608" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1 269 690 bekräftat skadliga IP-adresser och 553 nätverk med mycket missbruk. Varje adress poängsatt, kategoriserad och oberoende bekräftad minst två gånger.</b></p>
 <p align="center"><sub>MIT-licens &middot; ingen registrering, ingen API-nyckel, inga anropsgränser &middot; uppdaterad 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sv.svg?v=1789192801" alt="Se den levande databasen på ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sv.svg?v=1789194608" alt="Se den levande databasen på ffraud.com" width="540"></a></p>
 
 Det här är den öppna IP-bedrägeridatabasen bakom [ffraud.com](https://ffraud.com). Varje adress i den har observerats angripa något, bekräftats minst två gånger oberoende, poängsatts från 0 till 100 och märkts med vad den togs på och vilken sorts infrastruktur den kör på. Angripare byter infrastruktur oavbrutet, så en blocklista är värd precis så mycket som sin senaste uppdatering: den här byggs om **var 30:e minut** direkt från den körande motorn. Det du laddar ner är det som angriper internet just nu. Ingen registrering, ingen nyckel, inga gränser. Häll in det i en brandvägg, en WAF, ett registreringsformulär eller en bedrägerikedja.
 
