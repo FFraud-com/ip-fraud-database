@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789239602" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789241401" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/വെബ്‌സൈറ്റ്-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="വെബ്‌സൈറ്റ്"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ദോഷകരമായ_IP-1,268,739-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ദോഷകരമായ IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ദോഷകരമായ_IP-1,268,799-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ദോഷകരമായ IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ദുരുപയോഗ_ശൃംഖലകൾ-537-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ദുരുപയോഗ ശൃംഖലകൾ"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/ഒറ്റത്തവണ_ഡൊമെയ്‌നുകൾ-219,617-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ഒറ്റത്തവണ ഡൊമെയ്‌നുകൾ"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/പുനർനിർമ്മാണം-ഓരോ_30_മിനിറ്റിലും-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="പുനർനിർമ്മാണം"></a>
@@ -16,15 +16,15 @@
 
 # IP തട്ടിപ്പ് ഡാറ്റാബേസ്, ഓരോ 30 മിനിറ്റിലും പുനർനിർമ്മിക്കപ്പെടുന്നു
 
-<p align="center"><b>1,268,739 സ്ഥിരീകരിച്ച ദോഷകരമായ IP വിലാസങ്ങളും 537 ഉയർന്ന ദുരുപയോഗമുള്ള ശൃംഖലകളും. ഓരോ വിലാസത്തിനും സ്കോറും വിഭാഗവുമുണ്ട്, കുറഞ്ഞത് രണ്ടു തവണ സ്വതന്ത്രമായി സ്ഥിരീകരിച്ചിട്ടുമുണ്ട്.</b></p>
+<p align="center"><b>1,268,799 സ്ഥിരീകരിച്ച ദോഷകരമായ IP വിലാസങ്ങളും 537 ഉയർന്ന ദുരുപയോഗമുള്ള ശൃംഖലകളും. ഓരോ വിലാസത്തിനും സ്കോറും വിഭാഗവുമുണ്ട്, കുറഞ്ഞത് രണ്ടു തവണ സ്വതന്ത്രമായി സ്ഥിരീകരിച്ചിട്ടുമുണ്ട്.</b></p>
 <p align="center"><sub>MIT ലൈസൻസ് &middot; രജിസ്ട്രേഷനില്ല, API കീ ഇല്ല, അഭ്യർത്ഥനാ പരിധിയില്ല &middot; പുതുക്കിയത് 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ml.svg?v=1789239602" alt="ffraud.com ൽ തത്സമയ ഡാറ്റാബേസ് കാണുക" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ml.svg?v=1789241401" alt="ffraud.com ൽ തത്സമയ ഡാറ്റാബേസ് കാണുക" width="540"></a></p>
 
 ഇത് [ffraud.com](https://ffraud.com) ന് പിന്നിൽ നിൽക്കുന്ന തുറന്ന IP തട്ടിപ്പ് ഡാറ്റാബേസാണ്. ഇതിലെ ഓരോ വിലാസവും എന്തിനെയോ ആക്രമിക്കുന്നതിനിടെ കണ്ടിട്ടുള്ളതാണ്, കുറഞ്ഞത് രണ്ടു തവണ സ്വതന്ത്രമായി സ്ഥിരീകരിച്ചതാണ്, 0 മുതൽ 100 വരെ സ്കോർ കിട്ടിയതാണ്, എന്തു ചെയ്യുന്നതിനിടെ പിടിക്കപ്പെട്ടു എന്നും ഏതു തരം അടിസ്ഥാനസൗകര്യത്തിലാണ് പ്രവർത്തിക്കുന്നതെന്നും അടയാളപ്പെടുത്തിയതുമാണ്. ആക്രമിക്കുന്നവർ അടിസ്ഥാനസൗകര്യം ഇടതടവില്ലാതെ മാറ്റുന്നു, അതിനാൽ ഒരു തടയൽ പട്ടികയ്ക്ക് അതിന്റെ അവസാന പുതുക്കലിന്റെ വിലയേ ഉള്ളൂ: ഇത് **ഓരോ 30 മിനിറ്റിലും** പ്രവർത്തിക്കുന്ന എൻജിനിൽ നിന്ന് നേരിട്ട് പുനർനിർമ്മിക്കപ്പെടുന്നു. നിങ്ങൾ ഡൗൺലോഡ് ചെയ്യുന്നതുതന്നെയാണ് ഈ നിമിഷം ഇന്റർനെറ്റിനെ ആക്രമിക്കുന്നത്. രജിസ്ട്രേഷനില്ല, കീ ഇല്ല, പരിധിയില്ല. നേരിട്ട് ഒരു ഫയർവാളിലേക്കോ WAF ലേക്കോ രജിസ്ട്രേഷൻ ഫോമിലേക്കോ തട്ടിപ്പ് പരിശോധനാ ശൃംഖലയിലേക്കോ ഒഴിക്കൂ.
 
 ## ചുരുക്കത്തിൽ
 
-- **1,268,739** സ്ഥിരീകരിച്ച ദോഷകരമായ IP വിലാസങ്ങൾ, ഓരോന്നും **കുറഞ്ഞത് രണ്ടു തവണ സ്വതന്ത്രമായി** ദുരുപയോഗം ചെയ്യുന്നതിനിടെ കണ്ടിട്ടുള്ളത്
+- **1,268,799** സ്ഥിരീകരിച്ച ദോഷകരമായ IP വിലാസങ്ങൾ, ഓരോന്നും **കുറഞ്ഞത് രണ്ടു തവണ സ്വതന്ത്രമായി** ദുരുപയോഗം ചെയ്യുന്നതിനിടെ കണ്ടിട്ടുള്ളത്
 - **537** ശൃംഖലകൾ, അവിടെ ഞങ്ങൾ കണ്ട വിലാസങ്ങൾ ഏറെയും ദോഷകരവും പ്രോക്സി നിറഞ്ഞതുമായിരുന്നു
 - **219,617** ഒറ്റത്തവണ ഇമെയിൽ ഡൊമെയ്‌നുകളും ഇതേ ശേഖരത്തിൽ വരുന്നു, അതായത് ഒരിക്കൽ ക്ലോൺ ചെയ്താൽ രജിസ്ട്രേഷൻ പരിശോധനയുടെ രണ്ടു പകുതികളും മൂടപ്പെടും
 - ഓരോ വിലാസവും **0 മുതൽ 100 വരെ സ്കോർ**, ഒരു **ഭീഷണി വിഭാഗം**, കാണാൻ കഴിയുമ്പോൾ **അടിസ്ഥാനസൗകര്യത്തിന്റെ തരം** എന്നിവ വഹിക്കുന്നു
@@ -36,7 +36,7 @@
 
 | ഫയൽ | വരികൾ | എന്താണിത് |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,268,739 | ദോഷകരമായ വിലാസങ്ങൾ, ഓരോന്നും കുറഞ്ഞത് രണ്ടു തവണ സ്ഥിരീകരിച്ചത്, ഞങ്ങളുടെ 0 മുതൽ 100 വരെ സ്കോർ, ഭീഷണി വിഭാഗം (c2, മാൽവെയർ, ബോട്ട്നെറ്റ്, പാസ്‌വേഡ് ഊഹം, വെബ് ആക്രമണം, സ്കാനർ, ഫിഷിംഗ്, സ്പാം), അറിയാമെങ്കിൽ അടിസ്ഥാനസൗകര്യ തരം (proxy, vpn, tor, datacenter, mobile) എന്നിവയോടെ |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,268,799 | ദോഷകരമായ വിലാസങ്ങൾ, ഓരോന്നും കുറഞ്ഞത് രണ്ടു തവണ സ്ഥിരീകരിച്ചത്, ഞങ്ങളുടെ 0 മുതൽ 100 വരെ സ്കോർ, ഭീഷണി വിഭാഗം (c2, മാൽവെയർ, ബോട്ട്നെറ്റ്, പാസ്‌വേഡ് ഊഹം, വെബ് ആക്രമണം, സ്കാനർ, ഫിഷിംഗ്, സ്പാം), അറിയാമെങ്കിൽ അടിസ്ഥാനസൗകര്യ തരം (proxy, vpn, tor, datacenter, mobile) എന്നിവയോടെ |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 537 | കണ്ട വിലാസങ്ങൾ ഏറെയും ദോഷകരവും പ്രോക്സി നിറഞ്ഞതുമായിരുന്ന ശൃംഖലകൾ: പരാതികളെ വകവയ്ക്കാത്ത ഹോസ്റ്റിംഗിന്റെ അടയാളം |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,617 | ഒറ്റത്തവണ, താൽക്കാലിക ഇമെയിൽ ഡൊമെയ്‌നുകൾ, ഓരോ വരിയിലും ഒന്ന് |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | മാതൃക | ഓരോ വിലാസത്തിന്റെയും പൂർണ്ണ വിവരം: സ്കോർ, ലളിതഭാഷയിൽ കാരണം, ചേർത്ത ഓരോ വിഭാഗവും |
