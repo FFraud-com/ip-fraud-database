@@ -1,12 +1,12 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789185609" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789187401" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/وب‌سایت-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="وب‌سایت"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/آی‌پی‌های_مخرب-1,269,102-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="آی‌پی‌های مخرب"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/آی‌پی‌های_مخرب-1,269,393-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="آی‌پی‌های مخرب"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/شبکه‌های_پرسوءاستفاده-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="شبکه‌های پرسوءاستفاده"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/دامنه‌های_یک‌بارمصرف-219,608-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="دامنه‌های یک‌بارمصرف"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/بازسازی-هر_۳۰_دقیقه-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="بازسازی"></a>
@@ -18,15 +18,15 @@
 
 # پایگاه دادهٔ کلاهبرداری آی‌پی، هر ۳۰ دقیقه بازسازی می‌شود
 
-<p align="center"><b>1,269,102 نشانی آی‌پی مخرب تأییدشده و 553 شبکهٔ با سوءاستفادهٔ بالا. هر نشانی امتیاز و دسته دارد و دست‌کم دو بار به‌طور مستقل تأیید شده است.</b></p>
+<p align="center"><b>1,269,393 نشانی آی‌پی مخرب تأییدشده و 553 شبکهٔ با سوءاستفادهٔ بالا. هر نشانی امتیاز و دسته دارد و دست‌کم دو بار به‌طور مستقل تأیید شده است.</b></p>
 <p align="center"><sub>پروانهٔ MIT &middot; بدون ثبت‌نام، بدون کلید API، بدون محدودیت درخواست &middot; به‌روزرسانی 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fa.svg?v=1789185609" alt="پایگاه دادهٔ زنده را در ffraud.com ببینید" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fa.svg?v=1789187401" alt="پایگاه دادهٔ زنده را در ffraud.com ببینید" width="540"></a></p>
 
 این پایگاه دادهٔ باز کلاهبرداری آی‌پی است که پشت [ffraud.com](https://ffraud.com) ایستاده. هر نشانی در آن هنگام حمله به چیزی دیده شده، دست‌کم دو بار به‌طور مستقل تأیید شده، از ۰ تا ۱۰۰ امتیاز گرفته و با آنچه در حالش گرفته شده و نوع زیرساختی که رویش کار می‌کند برچسب خورده است. مهاجمان زیرساخت خود را بی‌وقفه عوض می‌کنند، پس یک فهرست مسدودسازی دقیقاً به اندازهٔ آخرین به‌روزرسانی‌اش می‌ارزد: این فهرست **هر ۳۰ دقیقه** مستقیماً از موتور در حال کار بازسازی می‌شود. آنچه دانلود می‌کنید همان چیزی است که همین حالا به اینترنت حمله می‌کند. بدون ثبت‌نام، بدون کلید، بدون محدودیت. مستقیم بریزیدش در یک فایروال، یک WAF، یک فرم ثبت‌نام یا یک خط بررسی کلاهبرداری.
 
 ## در یک نگاه
 
-- **1,269,102** نشانی آی‌پی مخرب تأییدشده، هر کدام **دو بار یا بیشتر به‌طور مستقل** در حال سوءاستفاده دیده شده
+- **1,269,393** نشانی آی‌پی مخرب تأییدشده، هر کدام **دو بار یا بیشتر به‌طور مستقل** در حال سوءاستفاده دیده شده
 - **553** شبکه که نشانی‌های مشاهده‌شدهٔ ما در آن‌ها عمدتاً مخرب و پر از پراکسی بودند
 - **219,608** دامنهٔ ایمیل یک‌بارمصرف هم در همین مخزن می‌آید، پس یک بار کلون کردن هر دو نیمهٔ بررسی هنگام ثبت‌نام را پوشش می‌دهد
 - هر نشانی یک **امتیاز ۰ تا ۱۰۰**، یک **دستهٔ تهدید** و در صورت دیده شدن، **نوع زیرساخت** را با خود دارد
@@ -38,7 +38,7 @@
 
 | فایل | سطر | چیست |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,269,102 | نشانی‌های مخرب، هر کدام دست‌کم دو بار تأییدشده، همراه با امتیاز ۰ تا ۱۰۰ ما، دستهٔ تهدید (c2، بدافزار، بات‌نت، حملهٔ جستجوی فراگیر، حملهٔ وب، پویشگر، فیشینگ، هرزنامه) و نوع زیرساخت (proxy، vpn، tor، datacenter، mobile) در صورت شناخته بودن |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,269,393 | نشانی‌های مخرب، هر کدام دست‌کم دو بار تأییدشده، همراه با امتیاز ۰ تا ۱۰۰ ما، دستهٔ تهدید (c2، بدافزار، بات‌نت، حملهٔ جستجوی فراگیر، حملهٔ وب، پویشگر، فیشینگ، هرزنامه) و نوع زیرساخت (proxy، vpn، tor، datacenter، mobile) در صورت شناخته بودن |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | شبکه‌هایی که نشانی‌های مشاهده‌شده‌شان عمدتاً مخرب و پر از پراکسی بودند: امضای میزبانی ضدشکایت |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,608 | دامنه‌های ایمیل یک‌بارمصرف و موقت، هر سطر یکی |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | نمونه | اطلاعات کامل هر نشانی: امتیاز، دلیل به زبان ساده و هر دسته‌ای که به آن چسبانده‌ایم |
