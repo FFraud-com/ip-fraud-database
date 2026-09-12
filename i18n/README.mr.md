@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789173007" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789174801" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/संकेतस्थळ-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="संकेतस्थळ"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/घातक_IP-1,265,563-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="घातक IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/घातक_IP-1,265,580-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="घातक IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/गैरवापराची_जाळी-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="गैरवापराची जाळी"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/एकदाच_वापरायचे_डोमेन-219,608-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="एकदाच वापरायचे डोमेन"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/पुन्हा_बांधणी-दर_30_मिनिटांनी-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="पुन्हा बांधणी"></a>
@@ -16,15 +16,15 @@
 
 # IP फसवणूक डेटाबेस, दर 30 मिनिटांनी पुन्हा बांधला जातो
 
-<p align="center"><b>1,265,563 पडताळलेले घातक IP पत्ते आणि 553 अधिक गैरवापर असलेली जाळी. प्रत्येक पत्त्याला गुण, वर्ग आहेत आणि किमान दोनदा स्वतंत्रपणे पडताळला गेला आहे.</b></p>
+<p align="center"><b>1,265,580 पडताळलेले घातक IP पत्ते आणि 553 अधिक गैरवापर असलेली जाळी. प्रत्येक पत्त्याला गुण, वर्ग आहेत आणि किमान दोनदा स्वतंत्रपणे पडताळला गेला आहे.</b></p>
 <p align="center"><sub>MIT परवाना &middot; नोंदणी नाही, API किल्ली नाही, विनंत्यांची मर्यादा नाही &middot; अद्ययावत 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/mr.svg?v=1789173007" alt="ffraud.com वर थेट डेटाबेस पाहा" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/mr.svg?v=1789174801" alt="ffraud.com वर थेट डेटाबेस पाहा" width="540"></a></p>
 
 हा [ffraud.com](https://ffraud.com) मागे उभा असलेला खुला IP फसवणूक डेटाबेस आहे. यातील प्रत्येक पत्ता कशावर तरी हल्ला करताना दिसला, किमान दोनदा स्वतंत्रपणे पडताळला गेला, 0 ते 100 दरम्यान गुण मिळाले, आणि तो कशात पकडला गेला व कोणत्या प्रकारच्या पायाभूत सुविधेवर चालतो हे नोंदवले गेले. हल्लेखोर सतत आपली पायाभूत सुविधा बदलतात, त्यामुळे कोणत्याही अडवणूक यादीची किंमत तिच्या शेवटच्या अद्ययावतीइतकीच असते: ही यादी **दर 30 मिनिटांनी** थेट चालू इंजिनमधून पुन्हा बांधली जाते. तुम्ही जे उतरवता तेच याच क्षणी इंटरनेटवर हल्ला करत आहे. नोंदणी नाही, किल्ली नाही, मर्यादा नाही. थेट फायरवॉल, WAF, नोंदणी अर्ज किंवा फसवणूक तपासणीच्या साखळीत टाका.
 
 ## थोडक्यात
 
-- **1,265,563** पडताळलेले घातक IP पत्ते, प्रत्येक **किमान दोनदा स्वतंत्रपणे** गैरवापर करताना दिसला
+- **1,265,580** पडताळलेले घातक IP पत्ते, प्रत्येक **किमान दोनदा स्वतंत्रपणे** गैरवापर करताना दिसला
 - **553** जाळी जिथे आम्ही पाहिलेले पत्ते बहुतांशी घातक आणि प्रॉक्सीने भरलेले होते
 - **219,608** एकदाच वापरायचे ईमेल डोमेनही याच भांडारात येतात, म्हणजे एकदा क्लोन केले की नोंदणी तपासणीचे दोन्ही भाग झाकले जातात
 - प्रत्येक पत्ता **0 ते 100 गुण**, एक **धोक्याचा वर्ग**, आणि दिसत असल्यास **पायाभूत सुविधेचा प्रकार** घेऊन येतो
@@ -36,7 +36,7 @@
 
 | फाइल | ओळी | हे काय आहे |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,265,563 | घातक पत्ते, प्रत्येक किमान दोनदा पडताळलेला, आमच्या 0 ते 100 गुणांसह, धोक्याच्या वर्गासह (c2, मालवेअर, बॉटनेट, पासवर्ड फोडणे, वेब हल्ला, स्कॅनर, फिशिंग, स्पॅम) आणि माहीत असल्यास पायाभूत सुविधेच्या प्रकारासह (proxy, vpn, tor, datacenter, mobile) |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,265,580 | घातक पत्ते, प्रत्येक किमान दोनदा पडताळलेला, आमच्या 0 ते 100 गुणांसह, धोक्याच्या वर्गासह (c2, मालवेअर, बॉटनेट, पासवर्ड फोडणे, वेब हल्ला, स्कॅनर, फिशिंग, स्पॅम) आणि माहीत असल्यास पायाभूत सुविधेच्या प्रकारासह (proxy, vpn, tor, datacenter, mobile) |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | ज्या जाळ्यांतले पाहिलेले पत्ते बहुतांशी घातक आणि प्रॉक्सीने भरलेले होते: तक्रारींना न जुमानणाऱ्या होस्टिंगची खूण |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,608 | एकदाच वापरायचे आणि तात्पुरते ईमेल डोमेन, प्रत्येक ओळीवर एक |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | नमुना | प्रत्येक पत्त्याची संपूर्ण माहिती: गुण, सोप्या भाषेत कारण, आणि जोडलेला प्रत्येक वर्ग |
