@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789209002" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789210801" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Webbplats-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Webbplats"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Skadliga_IP-1 267 243-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Skadliga IP"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Missbruksnätverk-545-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Missbruksnätverk"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Skadliga_IP-1 267 917-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Skadliga IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Missbruksnätverk-537-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Missbruksnätverk"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Engångsdomäner-219 610-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Engångsdomäner"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Byggs_om-var_30:e_minut-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Byggs om"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Gratis_API-utan_nyckel-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Gratis API"></a>
@@ -16,16 +16,16 @@
 
 # IP-bedrägeridatabas, ombyggd var 30:e minut
 
-<p align="center"><b>1 267 243 bekräftat skadliga IP-adresser och 545 nätverk med mycket missbruk. Varje adress poängsatt, kategoriserad och oberoende bekräftad minst två gånger.</b></p>
+<p align="center"><b>1 267 917 bekräftat skadliga IP-adresser och 537 nätverk med mycket missbruk. Varje adress poängsatt, kategoriserad och oberoende bekräftad minst två gånger.</b></p>
 <p align="center"><sub>MIT-licens &middot; ingen registrering, ingen API-nyckel, inga anropsgränser &middot; uppdaterad 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sv.svg?v=1789209002" alt="Se den levande databasen på ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sv.svg?v=1789210801" alt="Se den levande databasen på ffraud.com" width="540"></a></p>
 
 Det här är den öppna IP-bedrägeridatabasen bakom [ffraud.com](https://ffraud.com). Varje adress i den har observerats angripa något, bekräftats minst två gånger oberoende, poängsatts från 0 till 100 och märkts med vad den togs på och vilken sorts infrastruktur den kör på. Angripare byter infrastruktur oavbrutet, så en blocklista är värd precis så mycket som sin senaste uppdatering: den här byggs om **var 30:e minut** direkt från den körande motorn. Det du laddar ner är det som angriper internet just nu. Ingen registrering, ingen nyckel, inga gränser. Häll in det i en brandvägg, en WAF, ett registreringsformulär eller en bedrägerikedja.
 
 ## Kort och gott
 
-- **1 267 243** bekräftat skadliga IP-adresser, var och en observerad missbruka något **två eller fler oberoende gånger**
-- **545** nätverk där adresserna vi observerade till övervägande del var skadliga och proxytäta
+- **1 267 917** bekräftat skadliga IP-adresser, var och en observerad missbruka något **två eller fler oberoende gånger**
+- **537** nätverk där adresserna vi observerade till övervägande del var skadliga och proxytäta
 - **219 610** engångsdomäner för e-post följer också med i det här arkivet, så en enda klon täcker båda halvorna av en registreringskontroll
 - Varje adress bär en **poäng från 0 till 100**, en **hotkategori** och **infrastrukturtypen** när den går att se
 - Byggs om och publiceras **var 30:e minut**. Commit-historiken är ändringsloggen, och [`metadata.json`](metadata.json) bär den exakta byggtiden
@@ -36,8 +36,8 @@ Det här är den öppna IP-bedrägeridatabasen bakom [ffraud.com](https://ffraud
 
 | Fil | Rader | Vad det är |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 267 243 | Skadliga adresser, var och en bekräftad minst två gånger, med vår poäng från 0 till 100, hotkategorin (c2, skadlig kod, botnät, lösenordsknäckning, webbattack, skanner, nätfiske, skräppost) och infrastrukturtypen (proxy, vpn, tor, datacenter, mobile) där den är känd |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 545 | Nätverk vars observerade adresser till övervägande del var skadliga och proxytäta: signaturen för skottsäker hosting |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 267 917 | Skadliga adresser, var och en bekräftad minst två gånger, med vår poäng från 0 till 100, hotkategorin (c2, skadlig kod, botnät, lösenordsknäckning, webbattack, skanner, nätfiske, skräppost) och infrastrukturtypen (proxy, vpn, tor, datacenter, mobile) där den är känd |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 537 | Nätverk vars observerade adresser till övervägande del var skadliga och proxytäta: signaturen för skottsäker hosting |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 610 | Engångs- och tillfälliga e-postdomäner, en per rad |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | exempel | Fullständig information per adress: poängen, en orsak på vanlig svenska och varje kategori vi satt på den |
 | [`metadata.json`](../metadata.json) | &mdash; | Aktuella antal och byggtiden i UTC, så att ett skript vet hur färsk dess kopia är |

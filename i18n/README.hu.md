@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789209002" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789210801" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Weboldal-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Weboldal"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Rosszindulatú_IP--k-1 267 243-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Rosszindulatú IP-k"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Visszaélő_hálózatok-545-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Visszaélő hálózatok"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Rosszindulatú_IP--k-1 267 917-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Rosszindulatú IP-k"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Visszaélő_hálózatok-537-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Visszaélő hálózatok"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Eldobható_domainek-219 610-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Eldobható domainek"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Újraépítés-30_percenként-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Újraépítés"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Ingyenes_API-kulcs_nélkül-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ingyenes API"></a>
@@ -16,16 +16,16 @@
 
 # IP-csalás adatbázis, 30 percenként újraépítve
 
-<p align="center"><b>1 267 243 megerősített rosszindulatú IP-cím és 545 magas visszaélési arányú hálózat. Minden cím pontozva, kategorizálva, és legalább kétszer függetlenül megerősítve.</b></p>
+<p align="center"><b>1 267 917 megerősített rosszindulatú IP-cím és 537 magas visszaélési arányú hálózat. Minden cím pontozva, kategorizálva, és legalább kétszer függetlenül megerősítve.</b></p>
 <p align="center"><sub>MIT licenc &middot; regisztráció nélkül, API-kulcs nélkül, kéréskorlát nélkül &middot; frissítve 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hu.svg?v=1789209002" alt="Nézd meg az élő adatbázist a ffraud.com oldalon" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hu.svg?v=1789210801" alt="Nézd meg az élő adatbázist a ffraud.com oldalon" width="540"></a></p>
 
 Ez a [ffraud.com](https://ffraud.com) mögött álló nyílt IP-csalás adatbázis. Minden benne szereplő címet támadás közben figyeltünk meg, legalább kétszer függetlenül megerősítettünk, 0-tól 100-ig pontoztunk, és felcímkéztünk azzal, hogy min kaptuk rajta, és milyen infrastruktúrán fut. A támadók szüntelenül cserélik az infrastruktúrájukat, így egy tiltólista pontosan annyit ér, mint az utolsó frissítése: ez **30 percenként** épül újra közvetlenül a futó motorból. Amit letöltesz, az támadja az internetet éppen most. Regisztráció nélkül, kulcs nélkül, korlátok nélkül. Öntsd egyenesen tűzfalba, WAF-ba, regisztrációs űrlapba vagy csalásszűrő folyamatba.
 
 ## Röviden
 
-- **1 267 243** megerősített rosszindulatú IP-cím, mindegyiket **legalább kétszer, egymástól függetlenül** figyeltük meg visszaélés közben
-- **545** hálózat, ahol az általunk megfigyelt címek túlnyomórészt rosszindulatúak és proxykkal telítettek voltak
+- **1 267 917** megerősített rosszindulatú IP-cím, mindegyiket **legalább kétszer, egymástól függetlenül** figyeltük meg visszaélés közben
+- **537** hálózat, ahol az általunk megfigyelt címek túlnyomórészt rosszindulatúak és proxykkal telítettek voltak
 - **219 610** eldobható e-mail domain is érkezik ebben a tárolóban, így egyetlen klónozás lefedi a regisztrációs ellenőrzés mindkét felét
 - Minden cím visz magával **0-tól 100-ig terjedő pontszámot**, egy **fenyegetéskategóriát** és az **infrastruktúra típusát**, ha látszik
 - **30 percenként** épül újra és kerül publikálásra. A commit-előzmény maga a változásnapló, a [`metadata.json`](metadata.json) pedig a pontos build-időt hordozza
@@ -36,8 +36,8 @@ Ez a [ffraud.com](https://ffraud.com) mögött álló nyílt IP-csalás adatbáz
 
 | Fájl | Sorok | Mi ez |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 267 243 | Rosszindulatú címek, mindegyik legalább kétszer megerősítve, a 0-tól 100-ig terjedő pontszámunkkal, a fenyegetéskategóriával (c2, kártevő, botnet, jelszótörés, webes támadás, szkenner, adathalászat, spam) és az infrastruktúra típusával (proxy, vpn, tor, datacenter, mobile), ahol ismert |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 545 | Hálózatok, amelyek megfigyelt címei túlnyomórészt rosszindulatúak és proxykkal telítettek voltak: a panaszálló tárhely kézjegye |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 267 917 | Rosszindulatú címek, mindegyik legalább kétszer megerősítve, a 0-tól 100-ig terjedő pontszámunkkal, a fenyegetéskategóriával (c2, kártevő, botnet, jelszótörés, webes támadás, szkenner, adathalászat, spam) és az infrastruktúra típusával (proxy, vpn, tor, datacenter, mobile), ahol ismert |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 537 | Hálózatok, amelyek megfigyelt címei túlnyomórészt rosszindulatúak és proxykkal telítettek voltak: a panaszálló tárhely kézjegye |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 610 | Eldobható és ideiglenes e-mail domainek, soronként egy |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | minta | Teljes információ címenként: a pontszám, közérthető indoklás és minden hozzárendelt kategória |
 | [`metadata.json`](../metadata.json) | &mdash; | Aktuális darabszámok és a build ideje UTC-ben, hogy egy szkript tudja, mennyire friss a példánya |

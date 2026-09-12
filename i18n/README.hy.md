@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789209002" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789210801" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Կայք-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Կայք"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Վնասաբեր_IP-1,267,243-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Վնասաբեր IP"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Չարաշահման_ցանցեր-545-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Չարաշահման ցանցեր"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Վնասաբեր_IP-1,267,917-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Վնասաբեր IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Չարաշահման_ցանցեր-537-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Չարաշահման ցանցեր"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Մեկանգամյա_տիրույթներ-219,610-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Մեկանգամյա տիրույթներ"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Վերակառուցվում_է-ամեն_30_րոպեն_մեկ-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Վերակառուցվում է"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Անվճար_API-առանց_բանալու-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Անվճար API"></a>
@@ -16,16 +16,16 @@
 
 # IP խարդախության շտեմարան, վերակառուցվում է ամեն 30 րոպեն մեկ
 
-<p align="center"><b>1,267,243 հաստատված վնասաբեր IP հասցե և 545 բարձր չարաշահման ցանց։ Յուրաքանչյուր հասցե ունի միավոր, կարգ և առնվազն երկու անկախ հաստատում։</b></p>
+<p align="center"><b>1,267,917 հաստատված վնասաբեր IP հասցե և 537 բարձր չարաշահման ցանց։ Յուրաքանչյուր հասցե ունի միավոր, կարգ և առնվազն երկու անկախ հաստատում։</b></p>
 <p align="center"><sub>MIT արտոնագիր &middot; առանց գրանցման, առանց API բանալու, առանց հարցումների սահմանի &middot; թարմացվել է 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hy.svg?v=1789209002" alt="Տեսեք կենդանի շտեմարանը ffraud.com-ում" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hy.svg?v=1789210801" alt="Տեսեք կենդանի շտեմարանը ffraud.com-ում" width="540"></a></p>
 
 Սա [ffraud.com](https://ffraud.com)-ի հետևում կանգնած բաց IP խարդախության շտեմարանն է։ Դրա մեջ յուրաքանչյուր հասցե նկատվել է ինչ-որ բանի վրա հարձակվելիս, հաստատվել է առնվազն երկու անգամ անկախ կերպով, ստացել է միավոր 0-ից 100, և նշվել է, թե ինչի վրա է բռնվել ու ինչպիսի ենթակառուցվածքի վրա է աշխատում։ Հարձակվողներն անդադար փոխում են ենթակառուցվածքը, ուստի արգելափակման ցանկն արժե ճիշտ այնքան, որքան իր վերջին թարմացումը. այս մեկը **ամեն 30 րոպեն մեկ** վերակառուցվում է ուղղակիորեն աշխատող շարժիչից։ Այն, ինչ ներբեռնում եք, հենց այս պահին հարձակվում է համացանցի վրա։ Առանց գրանցման, առանց բանալու, առանց սահմանների։ Լցրեք ուղիղ պատնեշի, WAF-ի, գրանցման ձևի կամ խարդախության ստուգման հոսքի մեջ։
 
 ## Համառոտ
 
-- **1,267,243** հաստատված վնասաբեր IP հասցե, յուրաքանչյուրը **առնվազն երկու անգամ անկախ կերպով** նկատվել է չարաշահման պահին
-- **545** ցանց, որտեղ մեր դիտարկած հասցեները հիմնականում վնասաբեր էին և պրոքսիով լի
+- **1,267,917** հաստատված վնասաբեր IP հասցե, յուրաքանչյուրը **առնվազն երկու անգամ անկախ կերպով** նկատվել է չարաշահման պահին
+- **537** ցանց, որտեղ մեր դիտարկած հասցեները հիմնականում վնասաբեր էին և պրոքսիով լի
 - **219,610** մեկանգամյա էլփոստի տիրույթ նույնպես գալիս է այս պահոցում, այսինքն՝ մեկ կլոնավորումը ծածկում է գրանցման ստուգման երկու կեսն էլ
 - Յուրաքանչյուր հասցե կրում է **միավոր 0-ից 100**, **սպառնալիքի կարգ** և, երբ տեսանելի է, **ենթակառուցվածքի տեսակը**
 - **Ամեն 30 րոպեն մեկ** վերակառուցվում և հրապարակվում է։ Commit-ների պատմությունը փոփոխությունների գրանցամատյանն է, իսկ [`metadata.json`](metadata.json)-ը կրում է կառուցման ճշգրիտ ժամանակը
@@ -36,8 +36,8 @@
 
 | Ֆայլ | Տողեր | Ինչ է սա |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,267,243 | Վնասաբեր հասցեներ, յուրաքանչյուրը առնվազն երկու անգամ հաստատված, մեր 0-ից 100 միավորով, սպառնալիքի կարգով (c2, վնասաբեր ծրագիր, բոտնետ, գաղտնաբառի ընտրություն, վեբ հարձակում, սկաներ, ֆիշինգ, սպամ) և, երբ հայտնի է, ենթակառուցվածքի տեսակով (proxy, vpn, tor, datacenter, mobile) |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 545 | Ցանցեր, որոնց դիտարկված հասցեները հիմնականում վնասաբեր էին և պրոքսիով լի՝ բողոքներին չտրվող հոսթինգի ստորագրությունը |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,267,917 | Վնասաբեր հասցեներ, յուրաքանչյուրը առնվազն երկու անգամ հաստատված, մեր 0-ից 100 միավորով, սպառնալիքի կարգով (c2, վնասաբեր ծրագիր, բոտնետ, գաղտնաբառի ընտրություն, վեբ հարձակում, սկաներ, ֆիշինգ, սպամ) և, երբ հայտնի է, ենթակառուցվածքի տեսակով (proxy, vpn, tor, datacenter, mobile) |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 537 | Ցանցեր, որոնց դիտարկված հասցեները հիմնականում վնասաբեր էին և պրոքսիով լի՝ բողոքներին չտրվող հոսթինգի ստորագրությունը |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,610 | Մեկանգամյա և ժամանակավոր էլփոստի տիրույթներ, տողում մեկական |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | նմուշ | Ամբողջական տեղեկություն յուրաքանչյուր հասցեի մասին՝ միավոր, պատճառը պարզ լեզվով և կցված յուրաքանչյուր կարգ |
 | [`metadata.json`](../metadata.json) | &mdash; | Ընթացիկ քանակները և կառուցման ժամանակը UTC-ով, որպեսզի սկրիպտն իմանա՝ որքան թարմ է իր օրինակը |

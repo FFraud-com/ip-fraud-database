@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789209002" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789210801" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Website-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Website"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Kwaadaardige_IPs-1.267.243-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kwaadaardige IPs"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Misbruiknetwerken-545-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Misbruiknetwerken"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Kwaadaardige_IPs-1.267.917-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kwaadaardige IPs"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Misbruiknetwerken-537-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Misbruiknetwerken"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Wegwerpdomeinen-219.610-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Wegwerpdomeinen"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Herbouwd-elke_30_minuten-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Herbouwd"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Gratis_API-zonder_sleutel-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Gratis API"></a>
@@ -16,16 +16,16 @@
 
 # IP-fraudedatabase, elke 30 minuten herbouwd
 
-<p align="center"><b>1.267.243 bevestigde kwaadaardige IP-adressen en 545 netwerken met veel misbruik. Elk adres met score, categorie en minstens twee onafhankelijke bevestigingen.</b></p>
+<p align="center"><b>1.267.917 bevestigde kwaadaardige IP-adressen en 537 netwerken met veel misbruik. Elk adres met score, categorie en minstens twee onafhankelijke bevestigingen.</b></p>
 <p align="center"><sub>MIT-licentie &middot; geen registratie, geen API-sleutel, geen limieten &middot; bijgewerkt op 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/nl.svg?v=1789209002" alt="Bekijk de live database op ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/nl.svg?v=1789210801" alt="Bekijk de live database op ffraud.com" width="540"></a></p>
 
 Dit is de open IP-fraudedatabase achter [ffraud.com](https://ffraud.com). Elk adres erin is waargenomen terwijl het iets aanviel, minstens twee keer onafhankelijk bevestigd, gescoord van 0 tot 100 en gelabeld met waarop het betrapt is en op wat voor infrastructuur het draait. Aanvallers wisselen voortdurend van infrastructuur, dus een blokkeerlijst is niet meer waard dan zijn laatste actualisering: deze wordt **elke 30 minuten** rechtstreeks vanuit de draaiende engine herbouwd. Wat je downloadt is wat op dit moment het internet aanvalt. Geen registratie, geen sleutel, geen limieten. Zo in een firewall, een WAF, een registratieformulier of een fraudepijplijn te gooien.
 
 ## In het kort
 
-- **1.267.243** bevestigde kwaadaardige IP-adressen, elk **twee keer of vaker onafhankelijk** waargenomen bij misbruik
-- **545** netwerken waar de adressen die wij zagen overwegend kwaadaardig waren en vol proxy's zaten
+- **1.267.917** bevestigde kwaadaardige IP-adressen, elk **twee keer of vaker onafhankelijk** waargenomen bij misbruik
+- **537** netwerken waar de adressen die wij zagen overwegend kwaadaardig waren en vol proxy's zaten
 - **219.610** wegwerpmaildomeinen zitten ook in deze repository, dus één clone dekt beide helften van een registratiecontrole
 - Elk adres draagt een **score van 0 tot 100**, een **dreigingscategorie** en het **infrastructuurtype** wanneer dat zichtbaar is
 - **Elke 30 minuten** herbouwd en gepubliceerd. De commitgeschiedenis is het wijzigingslogboek, en [`metadata.json`](metadata.json) bevat het exacte bouwtijdstip
@@ -36,8 +36,8 @@ Dit is de open IP-fraudedatabase achter [ffraud.com](https://ffraud.com). Elk ad
 
 | Bestand | Regels | Wat het is |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.267.243 | Kwaadaardige adressen, elk minstens twee keer bevestigd, met onze score van 0 tot 100, de dreigingscategorie (c2, malware, botnet, brute force, webaanval, scanner, phishing, spam) en het infrastructuurtype (proxy, vpn, tor, datacenter, mobile) waar bekend |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 545 | Netwerken waarvan de waargenomen adressen overwegend kwaadaardig waren en vol proxy's zaten: de handtekening van kogelvrije hosting |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.267.917 | Kwaadaardige adressen, elk minstens twee keer bevestigd, met onze score van 0 tot 100, de dreigingscategorie (c2, malware, botnet, brute force, webaanval, scanner, phishing, spam) en het infrastructuurtype (proxy, vpn, tor, datacenter, mobile) waar bekend |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 537 | Netwerken waarvan de waargenomen adressen overwegend kwaadaardig waren en vol proxy's zaten: de handtekening van kogelvrije hosting |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.610 | Wegwerp- en tijdelijke e-maildomeinen, één per regel |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | voorbeeld | Volledige informatie per adres: de score, een reden in gewone taal en elke toegekende categorie |
 | [`metadata.json`](../metadata.json) | &mdash; | Actuele tellingen en het bouwtijdstip in UTC, zodat een script weet hoe vers zijn kopie is |
