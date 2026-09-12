@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789236010" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789237801" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1,268,739 დადასტურებულად მავნე IP მისამართი და 537 მაღალი ბოროტად გამოყენების ქსელი. თითოეულ მისამართს აქვს ქულა, კატეგორია და სულ მცირე ორი დამოუკიდებელი დადასტურება.</b></p>
 <p align="center"><sub>MIT ლიცენზია &middot; რეგისტრაციის გარეშე, API გასაღების გარეშე, მოთხოვნების ლიმიტის გარეშე &middot; განახლდა 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ka.svg?v=1789236010" alt="იხილეთ ცოცხალი ბაზა ffraud.com-ზე" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ka.svg?v=1789237801" alt="იხილეთ ცოცხალი ბაზა ffraud.com-ზე" width="540"></a></p>
 
 ეს არის ღია IP თაღლითობის ბაზა, რომელიც [ffraud.com](https://ffraud.com)-ს უდგას უკან. მასში თითოეული მისამართი დაფიქსირდა, როცა რაღაცას თავს ესხმოდა, დადასტურდა სულ მცირე ორჯერ დამოუკიდებლად, მიიღო ქულა 0-დან 100-მდე და მოინიშნა იმით, რაზეც წაასწრეს და რა ტიპის ინფრასტრუქტურაზე მუშაობს. თავდამსხმელები ინფრასტრუქტურას განუწყვეტლივ ცვლიან, ამიტომ ბლოკირების სია ზუსტად იმდენად ღირს, რამდენადაც მისი ბოლო განახლება: ეს სია **ყოველ 30 წუთში** პირდაპირ მომუშავე ძრავიდან შენდება ხელახლა. ის, რასაც ჩამოტვირთავთ, სწორედ ახლა ესხმის თავს ინტერნეტს. რეგისტრაციის გარეშე, გასაღების გარეშე, ლიმიტების გარეშე. ჩაასხით პირდაპირ ბრანდმაუერში, WAF-ში, რეგისტრაციის ფორმაში ან თაღლითობის შემოწმების ხაზში.
 
