@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789169408" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789171201" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/เว็บไซต์-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="เว็บไซต์"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_ที่เป็นอันตราย-1,265,498-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP ที่เป็นอันตราย"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_ที่เป็นอันตราย-1,265,548-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP ที่เป็นอันตราย"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/เครือข่ายที่ถูกใช้ในทางมิชอบ-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="เครือข่ายที่ถูกใช้ในทางมิชอบ"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/โดเมนใช้แล้วทิ้ง-219,608-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="โดเมนใช้แล้วทิ้ง"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/สร้างใหม่-ทุก_30_นาที-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="สร้างใหม่"></a>
@@ -16,15 +16,15 @@
 
 # ฐานข้อมูลการฉ้อโกงทาง IP สร้างใหม่ทุก 30 นาที
 
-<p align="center"><b>ที่อยู่ IP อันตรายที่ยืนยันแล้ว 1,265,498 รายการ และเครือข่ายที่ถูกใช้ในทางมิชอบสูง 553 เครือข่าย ทุกที่อยู่มีคะแนน มีหมวดหมู่ และผ่านการยืนยันอย่างเป็นอิสระอย่างน้อยสองครั้ง</b></p>
-<p align="center"><sub>สัญญาอนุญาต MIT &middot; ไม่ต้องสมัคร ไม่ต้องใช้คีย์ API ไม่จำกัดจำนวนคำขอ &middot; อัปเดตเมื่อ 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/th.svg?v=1789169408" alt="ดูฐานข้อมูลสดบน ffraud.com" width="540"></a></p>
+<p align="center"><b>ที่อยู่ IP อันตรายที่ยืนยันแล้ว 1,265,548 รายการ และเครือข่ายที่ถูกใช้ในทางมิชอบสูง 553 เครือข่าย ทุกที่อยู่มีคะแนน มีหมวดหมู่ และผ่านการยืนยันอย่างเป็นอิสระอย่างน้อยสองครั้ง</b></p>
+<p align="center"><sub>สัญญาอนุญาต MIT &middot; ไม่ต้องสมัคร ไม่ต้องใช้คีย์ API ไม่จำกัดจำนวนคำขอ &middot; อัปเดตเมื่อ 12.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/th.svg?v=1789171201" alt="ดูฐานข้อมูลสดบน ffraud.com" width="540"></a></p>
 
 นี่คือฐานข้อมูลการฉ้อโกงทาง IP แบบเปิดที่อยู่เบื้องหลัง [ffraud.com](https://ffraud.com) ทุกที่อยู่ในนี้ถูกสังเกตพบขณะกำลังโจมตีบางอย่าง ผ่านการยืนยันอย่างเป็นอิสระอย่างน้อยสองครั้ง ได้คะแนนจาก 0 ถึง 100 และติดป้ายว่าถูกจับได้ว่าทำอะไรและทำงานอยู่บนโครงสร้างพื้นฐานแบบไหน ผู้โจมตีเปลี่ยนโครงสร้างพื้นฐานอยู่ตลอด รายการบล็อกจึงมีค่าเท่ากับการอัปเดตครั้งล่าสุดของมันเท่านั้น รายการนี้ถูกสร้างใหม่**ทุก 30 นาที**ตรงจากเอนจินที่ทำงานอยู่จริง สิ่งที่คุณดาวน์โหลดคือสิ่งที่กำลังโจมตีอินเทอร์เน็ตอยู่ในขณะนี้ ไม่ต้องสมัคร ไม่ต้องใช้คีย์ ไม่มีขีดจำกัด ใส่ลงไฟร์วอลล์ WAF ฟอร์มสมัครสมาชิก หรือสายงานตรวจจับการฉ้อโกงได้ทันที
 
 ## สรุปตัวเลข
 
-- ที่อยู่ IP อันตรายที่ยืนยันแล้ว **1,265,498** รายการ แต่ละรายการถูกสังเกตพบว่าใช้ในทางมิชอบ **อย่างน้อยสองครั้งโดยอิสระ**
+- ที่อยู่ IP อันตรายที่ยืนยันแล้ว **1,265,548** รายการ แต่ละรายการถูกสังเกตพบว่าใช้ในทางมิชอบ **อย่างน้อยสองครั้งโดยอิสระ**
 - เครือข่าย **553** แห่ง ที่ที่อยู่ซึ่งเราสังเกตพบส่วนใหญ่เป็นอันตรายและหนาแน่นไปด้วยพร็อกซี
 - โดเมนอีเมลใช้แล้วทิ้ง **219,608** รายการก็มาพร้อมกับ repository นี้ด้วย โคลนครั้งเดียวจึงครอบคลุมทั้งสองด้านของการตรวจสอบตอนสมัครสมาชิก
 - ทุกที่อยู่มี **คะแนน 0 ถึง 100** มี **หมวดหมู่ภัยคุกคาม** และมี **ประเภทโครงสร้างพื้นฐาน** เมื่อมองเห็นได้
@@ -36,7 +36,7 @@
 
 | ไฟล์ | แถว | คืออะไร |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,265,498 | ที่อยู่อันตราย แต่ละรายการยืนยันแล้วอย่างน้อยสองครั้ง พร้อมคะแนน 0 ถึง 100 ของเรา หมวดหมู่ภัยคุกคาม (c2, มัลแวร์, บอตเน็ต, เดารหัสผ่าน, โจมตีเว็บ, สแกนเนอร์, ฟิชชิง, สแปม) และประเภทโครงสร้างพื้นฐาน (proxy, vpn, tor, datacenter, mobile) เมื่อทราบ |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,265,548 | ที่อยู่อันตราย แต่ละรายการยืนยันแล้วอย่างน้อยสองครั้ง พร้อมคะแนน 0 ถึง 100 ของเรา หมวดหมู่ภัยคุกคาม (c2, มัลแวร์, บอตเน็ต, เดารหัสผ่าน, โจมตีเว็บ, สแกนเนอร์, ฟิชชิง, สแปม) และประเภทโครงสร้างพื้นฐาน (proxy, vpn, tor, datacenter, mobile) เมื่อทราบ |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | เครือข่ายที่ที่อยู่ซึ่งสังเกตพบส่วนใหญ่เป็นอันตรายและหนาแน่นไปด้วยพร็อกซี: ลายเซ็นของโฮสติงที่ไม่รับเรื่องร้องเรียน |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,608 | โดเมนอีเมลใช้แล้วทิ้งและชั่วคราว บรรทัดละหนึ่งรายการ |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | ตัวอย่าง | ข้อมูลครบถ้วนรายที่อยู่: คะแนน เหตุผลด้วยภาษาที่เข้าใจง่าย และทุกหมวดหมู่ที่ติดไว้ |
