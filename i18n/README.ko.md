@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789187401" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789189215" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/웹사이트-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="웹사이트"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/악성_IP-1,269,393-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="악성 IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/악성_IP-1,269,572-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="악성 IP"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/악용_네트워크-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="악용 네트워크"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/일회용_도메인-219,608-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="일회용 도메인"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/일회용_도메인-219,610-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="일회용 도메인"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/재생성-30분마다-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="재생성"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/무료_API-키_불필요-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="무료 API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,17 +16,17 @@
 
 # IP 사기 데이터베이스, 30분마다 재생성
 
-<p align="center"><b>확인된 악성 IP 주소 1,269,393개와 악용이 심한 네트워크 553개. 모든 주소에 점수와 분류가 있고, 최소 두 번 독립적으로 확인되었습니다.</b></p>
+<p align="center"><b>확인된 악성 IP 주소 1,269,572개와 악용이 심한 네트워크 553개. 모든 주소에 점수와 분류가 있고, 최소 두 번 독립적으로 확인되었습니다.</b></p>
 <p align="center"><sub>MIT 라이선스 &middot; 가입 불필요, API 키 불필요, 요청 제한 없음 &middot; 업데이트 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ko.svg?v=1789187401" alt="ffraud.com에서 실시간 데이터베이스 보기" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ko.svg?v=1789189215" alt="ffraud.com에서 실시간 데이터베이스 보기" width="540"></a></p>
 
 [ffraud.com](https://ffraud.com)을 떠받치는 공개 IP 사기 데이터베이스입니다. 여기 있는 주소는 모두 무언가를 공격하는 중에 관측되었고, 최소 두 번 독립적으로 확인되었으며, 0에서 100까지 점수가 매겨지고, 무엇을 하다 잡혔는지와 어떤 인프라에서 도는지까지 표시되어 있습니다. 공격자는 인프라를 끊임없이 바꾸기 때문에 차단 목록의 가치는 마지막 갱신 시점이 정합니다. 이 목록은 **30분마다** 살아 있는 엔진에서 바로 다시 만들어집니다. 내려받는 것이 지금 이 순간 인터넷을 공격하고 있는 것입니다. 가입도, API 키도, 요청 제한도 없습니다. 방화벽이나 WAF, 가입 폼, 사기 탐지 파이프라인에 그대로 넣으면 됩니다.
 
 ## 핵심 수치
 
-- 확인된 악성 IP 주소 **1,269,393개**. 각각 **두 번 이상 독립적으로** 악용이 관측되었습니다
+- 확인된 악성 IP 주소 **1,269,572개**. 각각 **두 번 이상 독립적으로** 악용이 관측되었습니다
 - **553개** 네트워크. 저희가 관측한 주소 대부분이 악성이었고 프록시 비중이 높았던 곳입니다
-- 일회용 이메일 도메인 **219,608개**도 이 저장소에 함께 들어 있어, 한 번 클론하면 가입 검사의 양쪽을 모두 덮습니다
+- 일회용 이메일 도메인 **219,610개**도 이 저장소에 함께 들어 있어, 한 번 클론하면 가입 검사의 양쪽을 모두 덮습니다
 - 모든 주소에 **0에서 100까지의 점수**, **위협 분류**, 그리고 파악되는 경우 **인프라 유형**이 붙습니다
 - **30분마다** 다시 만들어 푸시합니다. 커밋 기록이 곧 변경 기록이고, [`metadata.json`](metadata.json)에 정확한 빌드 시각이 있습니다
 - **MIT 라이선스**, 상업적 이용 포함, 출처 표기 불필요
@@ -36,9 +36,9 @@
 
 | 파일 | 행 수 | 설명 |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,269,393 | 악성 주소. 각각 두 번 이상 확인되었고, 0에서 100까지의 점수, 위협 분류(c2, 멀웨어, 봇넷, 무차별 대입, 웹 공격, 스캐너, 피싱, 스팸), 그리고 알려진 경우 인프라 유형(proxy, vpn, tor, datacenter, mobile)이 함께 들어 있습니다 |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,269,572 | 악성 주소. 각각 두 번 이상 확인되었고, 0에서 100까지의 점수, 위협 분류(c2, 멀웨어, 봇넷, 무차별 대입, 웹 공격, 스캐너, 피싱, 스팸), 그리고 알려진 경우 인프라 유형(proxy, vpn, tor, datacenter, mobile)이 함께 들어 있습니다 |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | 관측된 주소 대부분이 악성이고 프록시 비중이 높았던 네트워크. 방탄 호스팅의 특징입니다 |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,608 | 일회용·임시 이메일 도메인, 한 줄에 하나 |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,610 | 일회용·임시 이메일 도메인, 한 줄에 하나 |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | 샘플 | 주소별 전체 정보: 점수, 쉬운 말로 쓴 근거, 그리고 붙은 모든 분류 |
 | [`metadata.json`](../metadata.json) | &mdash; | 실시간 건수와 UTC 빌드 시각. 스크립트가 자기 사본이 얼마나 최신인지 알 수 있습니다 |
 

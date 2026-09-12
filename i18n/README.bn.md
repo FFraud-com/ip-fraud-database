@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789187401" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789189215" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/ওয়েবসাইট-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ওয়েবসাইট"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ক্ষতিকর_আইপি-1,269,393-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ক্ষতিকর আইপি"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ক্ষতিকর_আইপি-1,269,572-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ক্ষতিকর আইপি"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/অপব্যবহারের_নেটওয়ার্ক-553-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="অপব্যবহারের নেটওয়ার্ক"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/ব্যবহারযোগ্য--একবার_ডোমেইন-219,608-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ব্যবহারযোগ্য-একবার ডোমেইন"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/ব্যবহারযোগ্য--একবার_ডোমেইন-219,610-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ব্যবহারযোগ্য-একবার ডোমেইন"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/পুনর্নির্মাণ-প্রতি_৩০_মিনিটে-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="পুনর্নির্মাণ"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/বিনামূল্যের_API-কি_লাগে_না-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="বিনামূল্যের API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,17 +16,17 @@
 
 # আইপি প্রতারণা ডেটাবেস, প্রতি ৩০ মিনিটে পুনর্নির্মিত
 
-<p align="center"><b>1,269,393টি নিশ্চিত ক্ষতিকর আইপি ঠিকানা এবং 553টি উচ্চ অপব্যবহারের নেটওয়ার্ক। প্রতিটি ঠিকানার স্কোর ও শ্রেণি আছে এবং অন্তত দুবার স্বতন্ত্রভাবে নিশ্চিত করা হয়েছে।</b></p>
+<p align="center"><b>1,269,572টি নিশ্চিত ক্ষতিকর আইপি ঠিকানা এবং 553টি উচ্চ অপব্যবহারের নেটওয়ার্ক। প্রতিটি ঠিকানার স্কোর ও শ্রেণি আছে এবং অন্তত দুবার স্বতন্ত্রভাবে নিশ্চিত করা হয়েছে।</b></p>
 <p align="center"><sub>MIT লাইসেন্স &middot; নিবন্ধন নেই, API কি নেই, অনুরোধের সীমা নেই &middot; হালনাগাদ 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/bn.svg?v=1789187401" alt="ffraud.com-এ সরাসরি ডেটাবেস দেখুন" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/bn.svg?v=1789189215" alt="ffraud.com-এ সরাসরি ডেটাবেস দেখুন" width="540"></a></p>
 
 এটি [ffraud.com](https://ffraud.com)-এর পেছনে থাকা উন্মুক্ত আইপি প্রতারণা ডেটাবেস। এর প্রতিটি ঠিকানাকে কিছু-একটাতে আক্রমণ করতে দেখা গেছে, অন্তত দুবার স্বতন্ত্রভাবে নিশ্চিত করা হয়েছে, ০ থেকে ১০০-র মধ্যে স্কোর দেওয়া হয়েছে, এবং কী করতে গিয়ে ধরা পড়ল ও কী ধরনের অবকাঠামোয় চলে তা দিয়ে চিহ্নিত করা হয়েছে। আক্রমণকারীরা অবিরাম অবকাঠামো বদলায়, তাই কোনো ব্লকলিস্টের দাম তার শেষ হালনাগাদের সমান: এটি **প্রতি ৩০ মিনিটে** সরাসরি চালু ইঞ্জিন থেকে নতুন করে তৈরি হয়। আপনি যা নামাচ্ছেন, সেটিই এই মুহূর্তে ইন্টারনেটে আক্রমণ করছে। নিবন্ধন নেই, কি নেই, সীমা নেই। সরাসরি ফায়ারওয়াল, WAF, সাইনআপ ফর্ম বা প্রতারণা যাচাইয়ের পাইপলাইনে ঢেলে দিন।
 
 ## সংক্ষেপে
 
-- **1,269,393**টি নিশ্চিত ক্ষতিকর আইপি ঠিকানা, প্রতিটিকে **অন্তত দুবার স্বতন্ত্রভাবে** অপব্যবহার করতে দেখা গেছে
+- **1,269,572**টি নিশ্চিত ক্ষতিকর আইপি ঠিকানা, প্রতিটিকে **অন্তত দুবার স্বতন্ত্রভাবে** অপব্যবহার করতে দেখা গেছে
 - **553**টি নেটওয়ার্ক যেখানে আমাদের দেখা ঠিকানাগুলো বেশিরভাগই ক্ষতিকর এবং প্রক্সিভারী ছিল
-- **219,608**টি একবার-ব্যবহারের ইমেইল ডোমেইনও এই রিপোজিটরিতে আসে, তাই একবার ক্লোন করলেই সাইনআপ যাচাইয়ের দুটো দিকই ঢেকে যায়
+- **219,610**টি একবার-ব্যবহারের ইমেইল ডোমেইনও এই রিপোজিটরিতে আসে, তাই একবার ক্লোন করলেই সাইনআপ যাচাইয়ের দুটো দিকই ঢেকে যায়
 - প্রতিটি ঠিকানা বহন করে **০ থেকে ১০০ স্কোর**, একটি **হুমকির শ্রেণি**, এবং দেখা গেলে **অবকাঠামোর ধরন**
 - **প্রতি ৩০ মিনিটে** নতুন করে তৈরি ও প্রকাশ হয়। কমিটের ইতিহাসই পরিবর্তনের নথি, আর [`metadata.json`](metadata.json)-এ নির্মাণের সঠিক সময় থাকে
 - **MIT লাইসেন্স**, বাণিজ্যিক ব্যবহারসহ, কৃতিত্ব দেওয়া বাধ্যতামূলক নয়
@@ -36,9 +36,9 @@
 
 | ফাইল | সারি | এটি কী |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,269,393 | ক্ষতিকর ঠিকানা, প্রতিটি অন্তত দুবার নিশ্চিত, আমাদের ০ থেকে ১০০ স্কোর, হুমকির শ্রেণি (c2, ম্যালওয়্যার, বটনেট, পাসওয়ার্ড ভাঙা, ওয়েব আক্রমণ, স্ক্যানার, ফিশিং, স্প্যাম) এবং জানা থাকলে অবকাঠামোর ধরন (proxy, vpn, tor, datacenter, mobile) সহ |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,269,572 | ক্ষতিকর ঠিকানা, প্রতিটি অন্তত দুবার নিশ্চিত, আমাদের ০ থেকে ১০০ স্কোর, হুমকির শ্রেণি (c2, ম্যালওয়্যার, বটনেট, পাসওয়ার্ড ভাঙা, ওয়েব আক্রমণ, স্ক্যানার, ফিশিং, স্প্যাম) এবং জানা থাকলে অবকাঠামোর ধরন (proxy, vpn, tor, datacenter, mobile) সহ |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 553 | যেসব নেটওয়ার্কের দেখা ঠিকানাগুলো বেশিরভাগই ক্ষতিকর ও প্রক্সিভারী ছিল: অভিযোগ-প্রতিরোধী হোস্টিংয়ের ছাপ |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,608 | একবার-ব্যবহারের ও অস্থায়ী ইমেইল ডোমেইন, প্রতি সারিতে একটি |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,610 | একবার-ব্যবহারের ও অস্থায়ী ইমেইল ডোমেইন, প্রতি সারিতে একটি |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | নমুনা | প্রতি ঠিকানার পূর্ণ তথ্য: স্কোর, সহজ ভাষায় কারণ, এবং যুক্ত করা প্রতিটি শ্রেণি |
 | [`metadata.json`](../metadata.json) | &mdash; | সাম্প্রতিক গণনা ও UTC-তে নির্মাণের সময়, যাতে কোনো স্ক্রিপ্ট বুঝতে পারে তার কপি কতটা তাজা |
 
