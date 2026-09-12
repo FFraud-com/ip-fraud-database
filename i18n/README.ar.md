@@ -1,14 +1,14 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789218001" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789219801" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/الموقع-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="الموقع"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/عناوين_خبيثة-1,268,477-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="عناوين خبيثة"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/عناوين_خبيثة-1,268,631-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="عناوين خبيثة"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/شبكات_مسيئة-537-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="شبكات مسيئة"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/نطاقات_مؤقتة-219,610-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="نطاقات مؤقتة"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/نطاقات_مؤقتة-219,617-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="نطاقات مؤقتة"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/يُعاد_بناؤها-كل_30_دقيقة-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="يُعاد بناؤها"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/واجهة_مجانية-بدون_مفتاح-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="واجهة مجانية"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -18,17 +18,17 @@
 
 # قاعدة بيانات احتيال العناوين، يُعاد بناؤها كل 30 دقيقة
 
-<p align="center"><b>1,268,477 عنوان IP خبيث مؤكد و537 شبكة عالية الإساءة. كل عنوان له درجة وتصنيف، وتأكيد مستقل مرتين على الأقل.</b></p>
+<p align="center"><b>1,268,631 عنوان IP خبيث مؤكد و537 شبكة عالية الإساءة. كل عنوان له درجة وتصنيف، وتأكيد مستقل مرتين على الأقل.</b></p>
 <p align="center"><sub>رخصة MIT &middot; بلا تسجيل، بلا مفتاح، بلا حدود &middot; آخر تحديث 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ar.svg?v=1789218001" alt="تصفّح القاعدة الحية على ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ar.svg?v=1789219801" alt="تصفّح القاعدة الحية على ffraud.com" width="540"></a></p>
 
 هذه هي قاعدة بيانات احتيال العناوين المفتوحة التي يقوم عليها [ffraud.com](https://ffraud.com). كل عنوان فيها رُصد وهو يهاجم شيئًا ما، وتأكد مرتين على الأقل بشكل مستقل، ومُنح درجة من 0 إلى 100، ووُسم بما ضُبط يفعله وبنوع البنية التي يعمل عليها. المهاجمون يبدّلون بنيتهم باستمرار، لذا لا تساوي قائمة الحظر أكثر من آخر تحديث لها: هذه القائمة يُعاد بناؤها **كل 30 دقيقة** مباشرة من المحرك الحي. ما تنزّله هو ما يهاجم الإنترنت في هذه اللحظة. بلا تسجيل، بلا مفتاح، بلا حدود. ضعها في جدار حماية أو WAF أو نموذج تسجيل أو مسار فحص احتيال.
 
 ## أرقام سريعة
 
-- **1,268,477** عنوان خبيث مؤكد، كل منها رُصد يسيء **مرتين مستقلتين أو أكثر**
+- **1,268,631** عنوان خبيث مؤكد، كل منها رُصد يسيء **مرتين مستقلتين أو أكثر**
 - **537** شبكة كانت العناوين التي رصدناها فيها خبيثة في معظمها وكثيفة الوكلاء
-- **219,610** نطاق بريد مؤقت يأتي مع هذا المستودع أيضًا، فنسخة واحدة تغطي شقّي فحص التسجيل
+- **219,617** نطاق بريد مؤقت يأتي مع هذا المستودع أيضًا، فنسخة واحدة تغطي شقّي فحص التسجيل
 - كل عنوان يحمل **درجة من 0 إلى 100** و**تصنيف تهديد** و**نوع البنية** متى أمكن رؤيته
 - يُعاد بناؤه ويُرفع **كل 30 دقيقة**. سجل الإيداعات هو سجل التغييرات، و[`metadata.json`](metadata.json) يحمل وقت البناء بدقة
 - **رخصة MIT**، الاستخدام التجاري مشمول، ولا يلزم ذكر المصدر
@@ -38,9 +38,9 @@
 
 | الملف | الصفوف | ما هو |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,268,477 | عناوين خبيثة، كل منها مؤكد مرتين فأكثر، مع درجتنا من 0 إلى 100 وتصنيف التهديد (c2، برمجيات خبيثة، شبكة روبوتات، تخمين كلمات المرور، هجوم ويب، ماسح، تصيّد، بريد مزعج) ونوع البنية (proxy، vpn، tor، datacenter، mobile) متى عُرف |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,268,631 | عناوين خبيثة، كل منها مؤكد مرتين فأكثر، مع درجتنا من 0 إلى 100 وتصنيف التهديد (c2، برمجيات خبيثة، شبكة روبوتات، تخمين كلمات المرور، هجوم ويب، ماسح، تصيّد، بريد مزعج) ونوع البنية (proxy، vpn، tor، datacenter، mobile) متى عُرف |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 537 | شبكات كانت عناوينها المرصودة خبيثة في معظمها وكثيفة الوكلاء: بصمة الاستضافة المحصّنة |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,610 | نطاقات بريد مؤقتة وعابرة، نطاق في كل سطر |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,617 | نطاقات بريد مؤقتة وعابرة، نطاق في كل سطر |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | عيّنة | معلومات كاملة لكل عنوان: الدرجة وسبب بلغة واضحة وكل تصنيف أُلحق به |
 | [`metadata.json`](../metadata.json) | &mdash; | الأعداد الحية ووقت البناء بتوقيت UTC، ليعرف أي سكربت مدى حداثة نسخته |
 
