@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789286409" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789288208" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>1,271,588 nakumpirmang mapaminsalang IP address at 537 network na mataas ang pang-aabuso. Bawat address ay may iskor, kategorya, at hindi bababa sa dalawang malayang kumpirmasyon.</b></p>
 <p align="center"><sub>Lisensyang MIT &middot; walang rehistro, walang API key, walang limitasyon sa kahilingan &middot; na-update 13.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/tl.svg?v=1789286409" alt="Tingnan ang buhay na database sa ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/tl.svg?v=1789288208" alt="Tingnan ang buhay na database sa ffraud.com" width="540"></a></p>
 
 Ito ang bukas na database ng pandarayang IP na nasa likod ng [ffraud.com](https://ffraud.com). Bawat address dito ay nakitang umaatake sa isang bagay, nakumpirma nang hindi bababa sa dalawang beses nang malaya, binigyan ng iskor mula 0 hanggang 100, at tinatakan ng kung ano ang ginagawa nito nang mahuli at kung anong uri ng imprastraktura ang tinatakbuhan nito. Palit nang palit ng imprastraktura ang mga umaatake, kaya kasinghalaga lang ng huling update nito ang isang blocklist: ang isang ito ay muling binubuo **kada 30 minuto** mismo mula sa umaandar na makina. Ang dina-download mo ay ang umaatake sa internet ngayon mismo. Walang rehistro, walang key, walang limitasyon. Ibuhos ito nang diretso sa firewall, WAF, form ng pagpaparehistro, o sa daloy ng pagsusuri sa pandaraya.
 
