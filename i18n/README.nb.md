@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789282809" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789284609" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Nettsted-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Nettsted"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Ondsinnede_IP--er-1 271 596-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ondsinnede IP-er"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Ondsinnede_IP--er-1 271 597-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ondsinnede IP-er"></a>
   <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Misbruksnettverk-537-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Misbruksnettverk"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Engangsdomener-219 617-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Engangsdomener"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Bygges_om-hvert_30._minutt-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Bygges om"></a>
@@ -16,15 +16,15 @@
 
 # IP-svindeldatabase, bygget om hvert 30. minutt
 
-<p align="center"><b>1 271 596 bekreftet ondsinnede IP-adresser og 537 nettverk med høyt misbruk. Hver adresse er scoret, kategorisert og uavhengig bekreftet minst to ganger.</b></p>
+<p align="center"><b>1 271 597 bekreftet ondsinnede IP-adresser og 537 nettverk med høyt misbruk. Hver adresse er scoret, kategorisert og uavhengig bekreftet minst to ganger.</b></p>
 <p align="center"><sub>MIT-lisens &middot; ingen registrering, ingen API-nøkkel, ingen kallgrenser &middot; oppdatert 13.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/nb.svg?v=1789282809" alt="Se den levende databasen på ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/nb.svg?v=1789284609" alt="Se den levende databasen på ffraud.com" width="540"></a></p>
 
 Dette er den åpne IP-svindeldatabasen bak [ffraud.com](https://ffraud.com). Hver adresse i den er observert mens den angrep noe, bekreftet minst to ganger uavhengig, gitt poeng fra 0 til 100 og merket med hva den ble tatt i og hva slags infrastruktur den kjører på. Angripere bytter infrastruktur uavbrutt, så en blokkeringsliste er verdt nøyaktig så mye som sin siste oppdatering: denne bygges om **hvert 30. minutt** rett fra motoren som kjører. Det du laster ned, er det som angriper internett akkurat nå. Ingen registrering, ingen nøkkel, ingen grenser. Hell det rett inn i en brannmur, en WAF, et registreringsskjema eller en svindelkontroll.
 
 ## Kort fortalt
 
-- **1 271 596** bekreftet ondsinnede IP-adresser, hver observert i misbruk **to eller flere uavhengige ganger**
+- **1 271 597** bekreftet ondsinnede IP-adresser, hver observert i misbruk **to eller flere uavhengige ganger**
 - **537** nettverk der adressene vi observerte i hovedsak var ondsinnede og proxytunge
 - **219 617** engangsdomener for e-post følger også med i dette arkivet, så én kloning dekker begge halvdelene av en registreringssjekk
 - Hver adresse bærer en **poengsum fra 0 til 100**, en **trusselkategori** og **infrastrukturtypen** når den er synlig
@@ -36,7 +36,7 @@ Dette er den åpne IP-svindeldatabasen bak [ffraud.com](https://ffraud.com). Hve
 
 | Fil | Rader | Hva det er |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 271 596 | Ondsinnede adresser, hver bekreftet minst to ganger, med vår poengsum fra 0 til 100, trusselkategorien (c2, skadevare, botnett, passordgjetting, nettangrep, skanner, phishing, søppelpost) og infrastrukturtypen (proxy, vpn, tor, datacenter, mobile) der den er kjent |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 271 597 | Ondsinnede adresser, hver bekreftet minst to ganger, med vår poengsum fra 0 til 100, trusselkategorien (c2, skadevare, botnett, passordgjetting, nettangrep, skanner, phishing, søppelpost) og infrastrukturtypen (proxy, vpn, tor, datacenter, mobile) der den er kjent |
 | [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 537 | Nettverk hvis observerte adresser i hovedsak var ondsinnede og proxytunge: signaturen på skuddsikker hosting |
 | [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 617 | Engangs- og midlertidige e-postdomener, ett per linje |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | eksempel | Full informasjon per adresse: poengsummen, en årsak i vanlig språk og hver kategori vi har satt på |
