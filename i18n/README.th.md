@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789264801" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789266607" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center"><b>ที่อยู่ IP อันตรายที่ยืนยันแล้ว 1,270,110 รายการ และเครือข่ายที่ถูกใช้ในทางมิชอบสูง 537 เครือข่าย ทุกที่อยู่มีคะแนน มีหมวดหมู่ และผ่านการยืนยันอย่างเป็นอิสระอย่างน้อยสองครั้ง</b></p>
 <p align="center"><sub>สัญญาอนุญาต MIT &middot; ไม่ต้องสมัคร ไม่ต้องใช้คีย์ API ไม่จำกัดจำนวนคำขอ &middot; อัปเดตเมื่อ 13.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/th.svg?v=1789264801" alt="ดูฐานข้อมูลสดบน ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/th.svg?v=1789266607" alt="ดูฐานข้อมูลสดบน ffraud.com" width="540"></a></p>
 
 นี่คือฐานข้อมูลการฉ้อโกงทาง IP แบบเปิดที่อยู่เบื้องหลัง [ffraud.com](https://ffraud.com) ทุกที่อยู่ในนี้ถูกสังเกตพบขณะกำลังโจมตีบางอย่าง ผ่านการยืนยันอย่างเป็นอิสระอย่างน้อยสองครั้ง ได้คะแนนจาก 0 ถึง 100 และติดป้ายว่าถูกจับได้ว่าทำอะไรและทำงานอยู่บนโครงสร้างพื้นฐานแบบไหน ผู้โจมตีเปลี่ยนโครงสร้างพื้นฐานอยู่ตลอด รายการบล็อกจึงมีค่าเท่ากับการอัปเดตครั้งล่าสุดของมันเท่านั้น รายการนี้ถูกสร้างใหม่**ทุก 30 นาที**ตรงจากเอนจินที่ทำงานอยู่จริง สิ่งที่คุณดาวน์โหลดคือสิ่งที่กำลังโจมตีอินเทอร์เน็ตอยู่ในขณะนี้ ไม่ต้องสมัคร ไม่ต้องใช้คีย์ ไม่มีขีดจำกัด ใส่ลงไฟร์วอลล์ WAF ฟอร์มสมัครสมาชิก หรือสายงานตรวจจับการฉ้อโกงได้ทันที
 
