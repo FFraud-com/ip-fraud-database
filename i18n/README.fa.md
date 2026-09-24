@@ -1,14 +1,14 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/وب‌سایت-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="وب‌سایت"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/آی‌پی‌های_مخرب-1,323,562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="آی‌پی‌های مخرب"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/شبکه‌های_پرسوءاستفاده-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="شبکه‌های پرسوءاستفاده"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/دامنه‌های_یک‌بارمصرف-220,249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="دامنه‌های یک‌بارمصرف"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/آی‌پی‌های_مخرب-1,347,943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="آی‌پی‌های مخرب"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/شبکه‌های_پرسوءاستفاده-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="شبکه‌های پرسوءاستفاده"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/دامنه‌های_یک‌بارمصرف-220,635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="دامنه‌های یک‌بارمصرف"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/بازسازی-هر_۳۰_دقیقه-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="بازسازی"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_رایگان-بدون_کلید-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API رایگان"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -18,29 +18,50 @@
 
 # پایگاه دادهٔ کلاهبرداری آی‌پی، هر ۳۰ دقیقه بازسازی می‌شود
 
-<p align="center"><b>1,323,562 نشانی آی‌پی مخرب تأییدشده و 543 شبکهٔ با سوءاستفادهٔ بالا. هر نشانی امتیاز و دسته دارد و دست‌کم دو بار به‌طور مستقل تأیید شده است.</b></p>
-<p align="center"><sub>پروانهٔ MIT &middot; بدون ثبت‌نام، بدون کلید API، بدون محدودیت درخواست &middot; به‌روزرسانی 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fa.svg?v=1789905601" alt="پایگاه دادهٔ زنده را در ffraud.com ببینید" width="540"></a></p>
+<p align="center"><b>1,347,943 نشانی آی‌پی مخرب تأییدشده و 546 شبکهٔ با سوءاستفادهٔ بالا. هر نشانی امتیاز و دسته دارد و دست‌کم دو بار به‌طور مستقل تأیید شده است.</b></p>
+<p align="center"><sub>پروانهٔ MIT &middot; بدون ثبت‌نام، بدون کلید API، بدون محدودیت درخواست &middot; به‌روزرسانی 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fa.svg?v=1790250759" alt="پایگاه دادهٔ زنده را در ffraud.com ببینید" width="540"></a></p>
 
 این پایگاه دادهٔ باز کلاهبرداری آی‌پی است که پشت [ffraud.com](https://ffraud.com) ایستاده. هر نشانی در آن هنگام حمله به چیزی دیده شده، دست‌کم دو بار به‌طور مستقل تأیید شده، از ۰ تا ۱۰۰ امتیاز گرفته و با آنچه در حالش گرفته شده و نوع زیرساختی که رویش کار می‌کند برچسب خورده است. مهاجمان زیرساخت خود را بی‌وقفه عوض می‌کنند، پس یک فهرست مسدودسازی دقیقاً به اندازهٔ آخرین به‌روزرسانی‌اش می‌ارزد: این فهرست **هر ۳۰ دقیقه** مستقیماً از موتور در حال کار بازسازی می‌شود. آنچه دانلود می‌کنید همان چیزی است که همین حالا به اینترنت حمله می‌کند. بدون ثبت‌نام، بدون کلید، بدون محدودیت. مستقیم بریزیدش در یک فایروال، یک WAF، یک فرم ثبت‌نام یا یک خط بررسی کلاهبرداری.
 
 ## در یک نگاه
 
-- **1,323,562** نشانی آی‌پی مخرب تأییدشده، هر کدام **دو بار یا بیشتر به‌طور مستقل** در حال سوءاستفاده دیده شده
-- **543** شبکه که نشانی‌های مشاهده‌شدهٔ ما در آن‌ها عمدتاً مخرب و پر از پراکسی بودند
-- **220,249** دامنهٔ ایمیل یک‌بارمصرف هم در همین مخزن می‌آید، پس یک بار کلون کردن هر دو نیمهٔ بررسی هنگام ثبت‌نام را پوشش می‌دهد
+- **1,347,943** نشانی آی‌پی مخرب تأییدشده، هر کدام **دو بار یا بیشتر به‌طور مستقل** در حال سوءاستفاده دیده شده
+- **546** شبکه که نشانی‌های مشاهده‌شدهٔ ما در آن‌ها عمدتاً مخرب و پر از پراکسی بودند
+- **220,635** دامنهٔ ایمیل یک‌بارمصرف هم در همین مخزن می‌آید، پس یک بار کلون کردن هر دو نیمهٔ بررسی هنگام ثبت‌نام را پوشش می‌دهد
 - هر نشانی یک **امتیاز ۰ تا ۱۰۰**، یک **دستهٔ تهدید** و در صورت دیده شدن، **نوع زیرساخت** را با خود دارد
 - **هر ۳۰ دقیقه** بازسازی و منتشر می‌شود. تاریخچهٔ کامیت‌ها همان گزارش تغییرات است و [`metadata.json`](metadata.json) زمان دقیق ساخت را دارد
 - **پروانهٔ MIT**، شامل استفادهٔ تجاری، بدون نیاز به ذکر نام
 - CSV و TXT ساده. نه آرشیوی برای باز کردن، نه طرحواره‌ای برای یاد گرفتن، نه کتابخانه‌ای برای نصب
 
+## فایل‌ها یا API؟
+
+این مخزن هستهٔ تأییدشدهٔ FFraud است: نشانی‌هایی که دست‌کم دو بار در حال حمله گرفته‌ایم، هر کدام با یک امتیاز، یک دسته و نوع زیرساخت. این مخزن برای مسدود کردن انبوه مهاجمان شناخته‌شده ساخته شده است. [API رایگان](https://ffraud.com/docs) برای **هر** نشانی پاسخ می‌دهد و بسیار بیشتر می‌داند:
+
+|  | این مخزن | API |
+|------|------|------|
+| **نشانی‌ها** | فقط مهاجمان تأییدشده | هر نشانی، از جمله نشانی‌هایی که فقط یک بار تأیید شده‌اند |
+| **VPN، پراکسی، Tor، مرکز داده** | فقط برای مهاجمان فهرست | برای هر نشانی |
+| **چه زمانی فعال بوده** | بدون تاریخ | اولین مشاهده، آخرین مشاهده، سوءاستفادهٔ اخیر |
+| **چرا علامت خورده** | بدترین دسته | همهٔ برچسب‌های تهدید و یک دلیل نوشته‌شده |
+| **بافت شبکه** | شامل نیست | همسایگی /24، ASN، مالک، تماس abuse در WHOIS، موقعیت |
+
+**عمداً هرگز منتشر نمی‌شود**
+
+- **چه کسی یک نشانی را گزارش کرده و چه شواهدی فرستاده**: گزارش‌ها به‌صورت محرمانه به ما می‌رسند.
+- **نشانی‌هایی که فقط یک بار تأیید شده‌اند**: یک گزارش ادعاست، نه مدرک. API همین حالا آن را در نظر می‌گیرد؛ این فهرست منتظر تأیید دوم و مستقل می‌ماند.
+- **حسگرهای ما کجا هستند**: یک honeypot فقط تا وقتی کار می‌کند که مهاجمان ندانند honeypot است.
+- **کدام ارائه‌دهندگان اینترنت مشتریان آلوده دارند**: چنین رتبه‌بندی‌ای فهرست اهداف برای مجرمان می‌شد. فایل شبکه‌ها فقط شبکه‌های کوچکی را نام می‌برد که تقریباً هر نشانی دیده‌شده در آن‌ها سوءاستفاده‌گر بوده است.
+
+از این مخزن برای مسدود کردن مهاجمان شناخته‌شده استفاده کنید. از API برای تصمیم‌گیری دربارهٔ یک بازدیدکنندهٔ مشخص استفاده کنید. هر دو رایگان‌اند.
+
 ## درون مخزن
 
 | فایل | سطر | چیست |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,323,562 | نشانی‌های مخرب، هر کدام دست‌کم دو بار تأییدشده، همراه با امتیاز ۰ تا ۱۰۰ ما، دستهٔ تهدید (c2، بدافزار، بات‌نت، حملهٔ جستجوی فراگیر، حملهٔ وب، پویشگر، فیشینگ، هرزنامه) و نوع زیرساخت (proxy، vpn، tor، datacenter، mobile) در صورت شناخته بودن |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | شبکه‌هایی که نشانی‌های مشاهده‌شده‌شان عمدتاً مخرب و پر از پراکسی بودند: امضای میزبانی ضدشکایت |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,249 | دامنه‌های ایمیل یک‌بارمصرف و موقت، هر سطر یکی |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,347,943 | نشانی‌های مخرب، هر کدام دست‌کم دو بار تأییدشده، همراه با امتیاز ۰ تا ۱۰۰ ما، دستهٔ تهدید (c2، بدافزار، بات‌نت، حملهٔ جستجوی فراگیر، حملهٔ وب، پویشگر، فیشینگ، هرزنامه) و نوع زیرساخت (proxy، vpn، tor، datacenter، mobile) در صورت شناخته بودن |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | شبکه‌هایی که نشانی‌های مشاهده‌شده‌شان عمدتاً مخرب و پر از پراکسی بودند: امضای میزبانی ضدشکایت |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,635 | دامنه‌های ایمیل یک‌بارمصرف و موقت، هر سطر یکی |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | نمونه | اطلاعات کامل هر نشانی: امتیاز، دلیل به زبان ساده و هر دسته‌ای که به آن چسبانده‌ایم |
 | [`metadata.json`](../metadata.json) | &mdash; | شمارش‌های به‌روز و زمان ساخت به وقت UTC، تا یک اسکریپت بداند نسخه‌اش چقدر تازه است |
 
@@ -127,7 +148,7 @@ curl -s https://api.ffraud.com/public/domain/mailinator.com
 <details>
 <summary><b>با ارائه‌دهندگان بزرگ پولی چه فرقی دارد؟</b></summary>
 
-رایگان است، با پروانهٔ MIT، بدون کلید و بدون سقف، و می‌توانید دقیقاً بخوانید چرا هر نشانی فهرست شده است. همچنین می‌توانید کل پایگاه داده را دانلود کنید، کاری که بیشتر محصولات پولی به هیچ قیمتی اجازه نمی‌دهند.
+رایگان است، با مجوز MIT، بدون کلید و بدون سقف، و می‌توانید دقیقاً بخوانید که هر نشانی چرا در فهرست است. همچنین می‌توانید همهٔ نشانی‌های تأییدشده را در یک فایل دانلود کنید؛ کاری که بیشتر محصولات پولی با هیچ قیمتی اجازه نمی‌دهند.
 
 </details>
 

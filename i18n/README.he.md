@@ -1,14 +1,14 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/אתר-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="אתר"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/כתובות_זדוניות-1,323,562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="כתובות זדוניות"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/רשתות_מנוצלות-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="רשתות מנוצלות"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/דומיינים_חד־פעמיים-220,249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="דומיינים חד־פעמיים"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/כתובות_זדוניות-1,347,943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="כתובות זדוניות"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/רשתות_מנוצלות-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="רשתות מנוצלות"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/דומיינים_חד־פעמיים-220,635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="דומיינים חד־פעמיים"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/נבנה_מחדש-כל_30_דקות-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="נבנה מחדש"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_חינמי-בלי_מפתח-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API חינמי"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -18,29 +18,50 @@
 
 # מסד הונאות IP, נבנה מחדש כל 30 דקות
 
-<p align="center"><b>1,323,562 כתובות IP זדוניות מאומתות ו‑543 רשתות עם ניצול לרעה גבוה. לכל כתובת ניקוד, קטגוריה ולפחות שני אימותים עצמאיים.</b></p>
-<p align="center"><sub>רישיון MIT &middot; בלי הרשמה, בלי מפתח API, בלי הגבלת בקשות &middot; עודכן 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/he.svg?v=1789905601" alt="לצפייה במסד החי ב‑ffraud.com" width="540"></a></p>
+<p align="center"><b>1,347,943 כתובות IP זדוניות מאומתות ו‑546 רשתות עם ניצול לרעה גבוה. לכל כתובת ניקוד, קטגוריה ולפחות שני אימותים עצמאיים.</b></p>
+<p align="center"><sub>רישיון MIT &middot; בלי הרשמה, בלי מפתח API, בלי הגבלת בקשות &middot; עודכן 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/he.svg?v=1790250759" alt="לצפייה במסד החי ב‑ffraud.com" width="540"></a></p>
 
 זהו מסד הונאות ה‑IP הפתוח שמאחורי [ffraud.com](https://ffraud.com). כל כתובת בו נצפתה תוקפת משהו, אומתה לפחות פעמיים באופן עצמאי, קיבלה ניקוד בין 0 ל‑100 ותויגה במה שנתפסה עושה ובאיזה סוג תשתית היא פועלת. תוקפים מחליפים תשתית ללא הרף, ולכן רשימת חסימה שווה בדיוק כמו העדכון האחרון שלה: הרשימה הזאת נבנית מחדש **כל 30 דקות** ישירות מהמנוע הפעיל. מה שאתם מורידים הוא מה שתוקף את האינטרנט ברגע זה. בלי הרשמה, בלי מפתח, בלי הגבלות. הכניסו את זה ישר לחומת אש, ל‑WAF, לטופס הרשמה או לצינור בדיקת הונאות.
 
 ## בקצרה
 
-- **1,323,562** כתובות IP זדוניות מאומתות, כל אחת נצפתה בניצול לרעה **פעמיים או יותר, באופן עצמאי**
-- **543** רשתות שבהן הכתובות שראינו היו ברובן זדוניות ועתירות פרוקסי
-- **220,249** דומייני דוא"ל חד־פעמיים מגיעים גם הם במאגר הזה, כך שהעתקה אחת מכסה את שני חצאי הבדיקה בהרשמה
+- **1,347,943** כתובות IP זדוניות מאומתות, כל אחת נצפתה בניצול לרעה **פעמיים או יותר, באופן עצמאי**
+- **546** רשתות שבהן הכתובות שראינו היו ברובן זדוניות ועתירות פרוקסי
+- **220,635** דומייני דוא"ל חד־פעמיים מגיעים גם הם במאגר הזה, כך שהעתקה אחת מכסה את שני חצאי הבדיקה בהרשמה
 - כל כתובת נושאת **ניקוד בין 0 ל‑100**, **קטגוריית איום** ו**סוג תשתית** כשאפשר לראות אותו
 - נבנה מחדש ומתפרסם **כל 30 דקות**. היסטוריית הקומיטים היא יומן השינויים, ו‑[`metadata.json`](metadata.json) נושא את זמן הבנייה המדויק
 - **רישיון MIT**, כולל שימוש מסחרי, בלי חובת ייחוס
 - CSV ו‑TXT פשוטים. אין ארכיון לפרוס, אין סכימה ללמוד, אין ספרייה להתקין
 
+## הקבצים או ה-API?
+
+המאגר הזה הוא הליבה המאומתת של FFraud: הכתובות שתפסנו תוקפות לפחות פעמיים, כל אחת עם ציון, קטגוריה אחת וסוג התשתית. הוא נועד לחסימה גורפת של תוקפים ידועים. [ה-API החינמי](https://ffraud.com/docs) עונה על **כל** כתובת ויודע הרבה יותר:
+
+|  | המאגר הזה | ה-API |
+|------|------|------|
+| **כתובות** | רק תוקפים מאומתים | כל כתובת, כולל כאלה שאומתו פעם אחת בלבד |
+| **VPN, פרוקסי, Tor, מרכז נתונים** | רק לתוקפים שברשימה | לכל כתובת |
+| **מתי הייתה פעילה** | ללא תאריכים | נצפתה לראשונה, נצפתה לאחרונה, שימוש לרעה לאחרונה |
+| **למה סומנה** | הקטגוריה החמורה ביותר | כל תגית איום והסבר כתוב |
+| **הקשר הרשת** | לא כלול | שכונת /24, ASN, בעלים, איש קשר abuse מ-WHOIS, מיקום |
+
+**לעולם לא מתפרסם, במכוון**
+
+- **מי דיווח על כתובת ואילו ראיות שלח**: הדיווחים מגיעים אלינו בסודיות.
+- **כתובות שאומתו פעם אחת בלבד**: דיווח אחד הוא טענה, לא הוכחה. ה-API כבר מתחשב בו; הרשימה הזו ממתינה לאימות שני ובלתי תלוי.
+- **איפה החיישנים שלנו**: honeypot עובד רק כל עוד התוקפים לא יודעים שזה honeypot.
+- **לאילו ספקי אינטרנט יש לקוחות נגועים**: דירוג כזה היה רשימת מטרות לפושעים. קובץ הרשתות מציין רק רשתות קטנות שבהן כמעט כל כתובת שראינו פעלה לרעה.
+
+השתמשו במאגר הזה כדי לחסום תוקפים ידועים. השתמשו ב-API כדי להחליט לגבי מבקר מסוים. שניהם בחינם.
+
 ## מה יש כאן
 
 | קובץ | שורות | מה זה |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,323,562 | כתובות זדוניות, כל אחת מאומתת לפחות פעמיים, עם הניקוד שלנו בין 0 ל‑100, קטגוריית האיום (c2, נוזקה, בוטנט, ניחוש סיסמאות, תקיפת אתרים, סורק, פישינג, ספאם) וסוג התשתית (proxy, vpn, tor, datacenter, mobile) כשהוא ידוע |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | רשתות שהכתובות שנצפו בהן היו ברובן זדוניות ועתירות פרוקסי: החתימה של אחסון חסין תלונות |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,249 | דומייני דואר חד־פעמיים וזמניים, אחד בכל שורה |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,347,943 | כתובות זדוניות, כל אחת מאומתת לפחות פעמיים, עם הניקוד שלנו בין 0 ל‑100, קטגוריית האיום (c2, נוזקה, בוטנט, ניחוש סיסמאות, תקיפת אתרים, סורק, פישינג, ספאם) וסוג התשתית (proxy, vpn, tor, datacenter, mobile) כשהוא ידוע |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | רשתות שהכתובות שנצפו בהן היו ברובן זדוניות ועתירות פרוקסי: החתימה של אחסון חסין תלונות |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,635 | דומייני דואר חד־פעמיים וזמניים, אחד בכל שורה |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | דוגמה | מידע מלא לכל כתובת: הניקוד, סיבה בשפה פשוטה וכל קטגוריה שצירפנו |
 | [`metadata.json`](../metadata.json) | &mdash; | ספירות עדכניות וזמן הבנייה ב‑UTC, כדי שסקריפט יידע כמה טרי העותק שלו |
 
@@ -127,7 +148,7 @@ curl -s https://api.ffraud.com/public/domain/mailinator.com
 <details>
 <summary><b>במה זה שונה מהספקים המסחריים הגדולים?</b></summary>
 
-זה חינמי, ברישיון MIT, בלי מפתח ובלי תקרה, ואפשר לקרוא בדיוק למה כל כתובת רשומה. אפשר גם להוריד את כל המסד, דבר שרוב המוצרים בתשלום אינם מאפשרים בשום מחיר.
+זה בחינם, ברישיון MIT, בלי מפתח ובלי מכסה, ואפשר לקרוא בדיוק למה כל כתובת נמצאת ברשימה. אפשר גם להוריד כל כתובת מאומתת בקובץ אחד, דבר שרוב המוצרים בתשלום לא מאפשרים בשום מחיר.
 
 </details>
 

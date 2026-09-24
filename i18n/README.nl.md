@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Website-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Website"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Kwaadaardige_IPs-1.323.562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kwaadaardige IPs"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Misbruiknetwerken-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Misbruiknetwerken"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Wegwerpdomeinen-220.249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Wegwerpdomeinen"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Kwaadaardige_IPs-1.347.943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kwaadaardige IPs"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Misbruiknetwerken-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Misbruiknetwerken"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Wegwerpdomeinen-220.635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Wegwerpdomeinen"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Herbouwd-elke_30_minuten-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Herbouwd"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Gratis_API-zonder_sleutel-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Gratis API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,29 +16,50 @@
 
 # IP-fraudedatabase, elke 30 minuten herbouwd
 
-<p align="center"><b>1.323.562 bevestigde kwaadaardige IP-adressen en 543 netwerken met veel misbruik. Elk adres met score, categorie en minstens twee onafhankelijke bevestigingen.</b></p>
-<p align="center"><sub>MIT-licentie &middot; geen registratie, geen API-sleutel, geen limieten &middot; bijgewerkt op 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/nl.svg?v=1789905601" alt="Bekijk de live database op ffraud.com" width="540"></a></p>
+<p align="center"><b>1.347.943 bevestigde kwaadaardige IP-adressen en 546 netwerken met veel misbruik. Elk adres met score, categorie en minstens twee onafhankelijke bevestigingen.</b></p>
+<p align="center"><sub>MIT-licentie &middot; geen registratie, geen API-sleutel, geen limieten &middot; bijgewerkt op 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/nl.svg?v=1790250759" alt="Bekijk de live database op ffraud.com" width="540"></a></p>
 
 Dit is de open IP-fraudedatabase achter [ffraud.com](https://ffraud.com). Elk adres erin is waargenomen terwijl het iets aanviel, minstens twee keer onafhankelijk bevestigd, gescoord van 0 tot 100 en gelabeld met waarop het betrapt is en op wat voor infrastructuur het draait. Aanvallers wisselen voortdurend van infrastructuur, dus een blokkeerlijst is niet meer waard dan zijn laatste actualisering: deze wordt **elke 30 minuten** rechtstreeks vanuit de draaiende engine herbouwd. Wat je downloadt is wat op dit moment het internet aanvalt. Geen registratie, geen sleutel, geen limieten. Zo in een firewall, een WAF, een registratieformulier of een fraudepijplijn te gooien.
 
 ## In het kort
 
-- **1.323.562** bevestigde kwaadaardige IP-adressen, elk **twee keer of vaker onafhankelijk** waargenomen bij misbruik
-- **543** netwerken waar de adressen die wij zagen overwegend kwaadaardig waren en vol proxy's zaten
-- **220.249** wegwerpmaildomeinen zitten ook in deze repository, dus één clone dekt beide helften van een registratiecontrole
+- **1.347.943** bevestigde kwaadaardige IP-adressen, elk **twee keer of vaker onafhankelijk** waargenomen bij misbruik
+- **546** netwerken waar de adressen die wij zagen overwegend kwaadaardig waren en vol proxy's zaten
+- **220.635** wegwerpmaildomeinen zitten ook in deze repository, dus één clone dekt beide helften van een registratiecontrole
 - Elk adres draagt een **score van 0 tot 100**, een **dreigingscategorie** en het **infrastructuurtype** wanneer dat zichtbaar is
 - **Elke 30 minuten** herbouwd en gepubliceerd. De commitgeschiedenis is het wijzigingslogboek, en [`metadata.json`](metadata.json) bevat het exacte bouwtijdstip
 - **MIT-licentie**, commercieel gebruik inbegrepen, geen naamsvermelding vereist
 - Kale CSV en TXT. Niets uit te pakken, geen schema te leren, geen bibliotheek te installeren
 
+## De bestanden of de API?
+
+Deze repository is de bevestigde kern van FFraud: de adressen die we minstens twee keer op een aanval hebben betrapt, elk met een score, één categorie en het type infrastructuur. Hij is bedoeld om bekende aanvallers in bulk te blokkeren. De [gratis API](https://ffraud.com/docs) antwoordt voor **elk** adres en weet veel meer:
+
+|  | Deze repository | De API |
+|------|------|------|
+| **Adressen** | Alleen bevestigde aanvallers | Elk adres, ook adressen die pas één keer bevestigd zijn |
+| **VPN, proxy, Tor, datacenter** | Alleen voor vermelde aanvallers | Voor elk adres |
+| **Wanneer het actief was** | Geen datums | Eerst gezien, laatst gezien, recent misbruik |
+| **Waarom het gemarkeerd is** | De ergste categorie | Elke dreigingstag en een uitgeschreven reden |
+| **Netwerkcontext** | Niet opgenomen | De /24-buurt, ASN, eigenaar, WHOIS-abusecontact, locatie |
+
+**Bewust nooit gepubliceerd**
+
+- **Wie een adres meldde, en het bewijs dat werd meegestuurd**: meldingen komen vertrouwelijk bij ons binnen.
+- **Adressen die pas één keer bevestigd zijn**: één melding is een bewering, geen bewijs. De API weegt haar al mee; deze lijst wacht op een tweede, onafhankelijke bevestiging.
+- **Waar onze sensoren staan**: een honeypot werkt alleen zolang aanvallers niet weten dat het er een is.
+- **Welke internetproviders besmette klanten hebben**: zo'n ranglijst zou een doelwittenlijst voor criminelen zijn. Het netwerkbestand noemt alleen kleine netwerken waar bijna elk waargenomen adres misbruik pleegde.
+
+Gebruik deze repository om bekende aanvallers te blokkeren. Gebruik de API om over een specifieke bezoeker te beslissen. Beide zijn gratis.
+
 ## Wat erin zit
 
 | Bestand | Regels | Wat het is |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.323.562 | Kwaadaardige adressen, elk minstens twee keer bevestigd, met onze score van 0 tot 100, de dreigingscategorie (c2, malware, botnet, brute force, webaanval, scanner, phishing, spam) en het infrastructuurtype (proxy, vpn, tor, datacenter, mobile) waar bekend |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | Netwerken waarvan de waargenomen adressen overwegend kwaadaardig waren en vol proxy's zaten: de handtekening van kogelvrije hosting |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.249 | Wegwerp- en tijdelijke e-maildomeinen, één per regel |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.347.943 | Kwaadaardige adressen, elk minstens twee keer bevestigd, met onze score van 0 tot 100, de dreigingscategorie (c2, malware, botnet, brute force, webaanval, scanner, phishing, spam) en het infrastructuurtype (proxy, vpn, tor, datacenter, mobile) waar bekend |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | Netwerken waarvan de waargenomen adressen overwegend kwaadaardig waren en vol proxy's zaten: de handtekening van kogelvrije hosting |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.635 | Wegwerp- en tijdelijke e-maildomeinen, één per regel |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | voorbeeld | Volledige informatie per adres: de score, een reden in gewone taal en elke toegekende categorie |
 | [`metadata.json`](../metadata.json) | &mdash; | Actuele tellingen en het bouwtijdstip in UTC, zodat een script weet hoe vers zijn kopie is |
 
@@ -125,7 +146,7 @@ Omdat het minstens twee keer is waargenomen terwijl het iets aanviel. Zoek het o
 <details>
 <summary><b>Wat is het verschil met de grote betaalde aanbieders?</b></summary>
 
-Het is gratis, MIT-gelicentieerd, zonder sleutel en zonder limiet, en je kunt precies lezen waarom elk adres op de lijst staat. Je kunt bovendien de hele database downloaden, wat de meeste betaalde producten voor geen prijs toestaan.
+Het is gratis, valt onder de MIT-licentie, heeft geen sleutel en geen limiet, en je kunt precies lezen waarom elk adres op de lijst staat. Je kunt ook elk bevestigd adres in één bestand downloaden, iets wat de meeste betaalde producten voor geen enkele prijs toestaan.
 
 </details>
 

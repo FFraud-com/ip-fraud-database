@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Sajt-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sajt"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Zlonamerni_IP--ovi-1.323.562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zlonamerni IP-ovi"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Mreže_zloupotrebe-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Mreže zloupotrebe"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Jednokratni_domeni-220.249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jednokratni domeni"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Zlonamerni_IP--ovi-1.347.943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zlonamerni IP-ovi"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Mreže_zloupotrebe-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Mreže zloupotrebe"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Jednokratni_domeni-220.635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jednokratni domeni"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Ponovna_izgradnja-na_svakih_30_minuta-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ponovna izgradnja"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Besplatni_API-bez_ključa-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Besplatni API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,29 +16,50 @@
 
 # Baza IP prevara, ponovo izgrađena na svakih 30 minuta
 
-<p align="center"><b>1.323.562 potvrđeno zlonamernih IP adresa i 543 mreža sa visokom zloupotrebom. Svaka adresa ocenjena, kategorizovana i nezavisno potvrđena najmanje dvaput.</b></p>
-<p align="center"><sub>MIT licenca &middot; bez registracije, bez API ključa, bez ograničenja zahteva &middot; ažurirano 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sr.svg?v=1789905601" alt="Pogledajte živu bazu na ffraud.com" width="540"></a></p>
+<p align="center"><b>1.347.943 potvrđeno zlonamernih IP adresa i 546 mreža sa visokom zloupotrebom. Svaka adresa ocenjena, kategorizovana i nezavisno potvrđena najmanje dvaput.</b></p>
+<p align="center"><sub>MIT licenca &middot; bez registracije, bez API ključa, bez ograničenja zahteva &middot; ažurirano 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sr.svg?v=1790250759" alt="Pogledajte živu bazu na ffraud.com" width="540"></a></p>
 
 Ovo je otvorena baza IP prevara iza [ffraud.com](https://ffraud.com). Svaka adresa u njoj uočena je kako nešto napada, potvrđena je najmanje dvaput nezavisno, ocenjena od 0 do 100 i označena onim na čemu je uhvaćena i vrstom infrastrukture na kojoj radi. Napadači neprekidno menjaju infrastrukturu, pa spisak za blokiranje vredi tačno koliko i njegovo poslednje ažuriranje: ovaj se **na svakih 30 minuta** iznova gradi direktno iz pokrenutog motora. Ono što preuzmete napada internet upravo sada. Bez registracije, bez ključa, bez ograničenja. Ubacite to pravo u zaštitni zid, WAF, formular za registraciju ili liniju provere prevara.
 
 ## Ukratko
 
-- **1.323.562** potvrđeno zlonamernih IP adresa, svaka uočena u zloupotrebi **dvaput ili više puta nezavisno**
-- **543** mreža u kojima su adrese koje smo posmatrali bile pretežno zlonamerne i pune proksija
-- **220.249** jednokratnih imejl domena dolazi takođe u ovom repozitorijumu, pa jedno kloniranje pokriva obe polovine provere pri registraciji
+- **1.347.943** potvrđeno zlonamernih IP adresa, svaka uočena u zloupotrebi **dvaput ili više puta nezavisno**
+- **546** mreža u kojima su adrese koje smo posmatrali bile pretežno zlonamerne i pune proksija
+- **220.635** jednokratnih imejl domena dolazi takođe u ovom repozitorijumu, pa jedno kloniranje pokriva obe polovine provere pri registraciji
 - Svaka adresa nosi **ocenu od 0 do 100**, **kategoriju pretnje** i **vrstu infrastrukture** kada se vidi
 - Ponovo se gradi i objavljuje **na svakih 30 minuta**. Istorija komitova je zapisnik izmena, a [`metadata.json`](metadata.json) nosi tačno vreme izgradnje
 - **MIT licenca**, uključujući komercijalnu upotrebu, bez obaveznog navođenja autora
 - Obični CSV i TXT. Ništa za raspakivanje, nikakva šema za učenje, nikakva biblioteka za instaliranje
 
+## Fajlovi ili API?
+
+Ovaj repozitorijum je potvrđeno jezgro FFraud-a: adrese koje smo uhvatili u napadu najmanje dva puta, svaka sa ocenom, jednom kategorijom i tipom infrastrukture. Napravljen je za masovno blokiranje poznatih napadača. [Besplatni API](https://ffraud.com/docs) odgovara za **svaku** adresu i zna mnogo više:
+
+|  | Ovaj repozitorijum | API |
+|------|------|------|
+| **Adrese** | Samo potvrđeni napadači | Bilo koja adresa, uključujući one potvrđene samo jednom |
+| **VPN, proksi, Tor, data centar** | Samo za napadače sa liste | Za svaku adresu |
+| **Kada je bila aktivna** | Bez datuma | Prvi put viđena, poslednji put viđena, skorašnja zloupotreba |
+| **Zašto je označena** | Najteža kategorija | Svaka oznaka pretnje i pisano obrazloženje |
+| **Mrežni kontekst** | Nije uključen | Okruženje /24, ASN, vlasnik, abuse kontakt iz WHOIS-a, lokacija |
+
+**Namerno se nikada ne objavljuje**
+
+- **Ko je prijavio adresu i koje dokaze je poslao**: prijave nam stižu poverljivo.
+- **Adrese potvrđene samo jednom**: jedna prijava je tvrdnja, ne dokaz. API je već uzima u obzir; ova lista čeka drugu, nezavisnu potvrdu.
+- **Gde su naši senzori**: honeypot radi samo dok napadači ne znaju da je to on.
+- **Koji internet provajderi imaju zaražene korisnike**: takva rang lista bila bi spisak meta za kriminalce. Fajl mreža navodi samo male mreže u kojima je gotovo svaka uočena adresa bila zlonamerna.
+
+Koristite ovaj repozitorijum da blokirate poznate napadače. Koristite API da odlučite o konkretnom posetiocu. Oba su besplatna.
+
 ## Šta se nalazi unutra
 
 | Fajl | Redova | Šta je to |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.323.562 | Zlonamerne adrese, svaka potvrđena najmanje dvaput, sa našom ocenom od 0 do 100, kategorijom pretnje (c2, zlonamerni softver, botnet, gruba sila, veb napad, skener, phishing, nepoželjna pošta) i vrstom infrastrukture (proxy, vpn, tor, datacenter, mobile) kada je poznata |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | Mreže čije su posmatrane adrese bile pretežno zlonamerne i pune proksija: potpis neprobojnog hostinga |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.249 | Jednokratni i privremeni imejl domeni, jedan po redu |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.347.943 | Zlonamerne adrese, svaka potvrđena najmanje dvaput, sa našom ocenom od 0 do 100, kategorijom pretnje (c2, zlonamerni softver, botnet, gruba sila, veb napad, skener, phishing, nepoželjna pošta) i vrstom infrastrukture (proxy, vpn, tor, datacenter, mobile) kada je poznata |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | Mreže čije su posmatrane adrese bile pretežno zlonamerne i pune proksija: potpis neprobojnog hostinga |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.635 | Jednokratni i privremeni imejl domeni, jedan po redu |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | uzorak | Potpuni podaci po adresi: ocena, razlog običnim jezikom i svaka pridružena kategorija |
 | [`metadata.json`](../metadata.json) | &mdash; | Trenutni brojevi i vreme izgradnje u UTC, da bi skripta znala koliko joj je kopija sveža |
 
@@ -125,7 +146,7 @@ Zato što je najmanje dvaput uočena kako nešto napada. Potražite je na [ffrau
 <details>
 <summary><b>Po čemu se ovo razlikuje od velikih plaćenih provajdera?</b></summary>
 
-Besplatno je, sa MIT licencom, bez ključa i bez granice, i možete pročitati tačno zašto je svaka adresa uvrštena. Uz to možete preuzeti celu bazu, što većina plaćenih proizvoda ne dozvoljava ni po koju cenu.
+Besplatno je, pod MIT licencom, bez ključa i bez ograničenja, i možete tačno da pročitate zašto je svaka adresa na listi. Takođe možete preuzeti svaku potvrđenu adresu u jednom fajlu, što većina plaćenih proizvoda ne dozvoljava ni po koju cenu.
 
 </details>
 

@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Tovuti-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Tovuti"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_hatari-1,323,562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP hatari"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Mitandao_ya_matumizi_mabaya-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Mitandao ya matumizi mabaya"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Vikoa_vya_matumizi_ya_mara_moja-220,249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Vikoa vya matumizi ya mara moja"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_hatari-1,347,943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP hatari"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Mitandao_ya_matumizi_mabaya-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Mitandao ya matumizi mabaya"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Vikoa_vya_matumizi_ya_mara_moja-220,635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Vikoa vya matumizi ya mara moja"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Hujengwa_upya-kila_dakika_30-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Hujengwa upya"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_ya_bure-bila_ufunguo-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API ya bure"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,29 +16,50 @@
 
 # Hifadhidata ya udanganyifu wa IP, hujengwa upya kila dakika 30
 
-<p align="center"><b>Anwani 1,323,562 za IP hatari zilizothibitishwa na mitandao 543 yenye matumizi mabaya makubwa. Kila anwani ina alama, kundi, na uthibitisho huru angalau mara mbili.</b></p>
-<p align="center"><sub>Leseni ya MIT &middot; bila kujisajili, bila ufunguo wa API, bila mipaka ya maombi &middot; imesasishwa 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sw.svg?v=1789905601" alt="Tazama hifadhidata hai kwenye ffraud.com" width="540"></a></p>
+<p align="center"><b>Anwani 1,347,943 za IP hatari zilizothibitishwa na mitandao 546 yenye matumizi mabaya makubwa. Kila anwani ina alama, kundi, na uthibitisho huru angalau mara mbili.</b></p>
+<p align="center"><sub>Leseni ya MIT &middot; bila kujisajili, bila ufunguo wa API, bila mipaka ya maombi &middot; imesasishwa 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/sw.svg?v=1790250759" alt="Tazama hifadhidata hai kwenye ffraud.com" width="540"></a></p>
 
 Hii ndiyo hifadhidata huria ya udanganyifu wa IP iliyo nyuma ya [ffraud.com](https://ffraud.com). Kila anwani ndani yake ilionekana ikishambulia kitu, ilithibitishwa angalau mara mbili kwa kujitegemea, ikapewa alama kutoka 0 hadi 100, na ikawekewa lebo ya kile ilichokamatwa ikifanya na aina ya miundombinu inayoendeshea. Washambuliaji hubadilisha miundombinu bila kukoma, kwa hivyo orodha ya kuzuia ina thamani sawa na sasisho lake la mwisho: hii hujengwa upya **kila dakika 30** moja kwa moja kutoka kwa injini inayofanya kazi. Unachopakua ndicho kinachoshambulia mtandao sasa hivi. Bila kujisajili, bila ufunguo, bila mipaka. Mimina moja kwa moja kwenye ngome, WAF, fomu ya kujisajili au mkondo wa ukaguzi wa udanganyifu.
 
 ## Kwa kifupi
 
-- Anwani **1,323,562** za IP hatari zilizothibitishwa, kila moja ikionekana ikitumiwa vibaya **mara mbili au zaidi kwa kujitegemea**
-- Mitandao **543** ambapo anwani tulizoziona zilikuwa kwa kiasi kikubwa hatari na zilizojaa proksi
-- Vikoa **220,249** vya barua pepe za mara moja pia huja katika hazina hii, hivyo kunakili mara moja hufunika pande zote mbili za ukaguzi wa kujisajili
+- Anwani **1,347,943** za IP hatari zilizothibitishwa, kila moja ikionekana ikitumiwa vibaya **mara mbili au zaidi kwa kujitegemea**
+- Mitandao **546** ambapo anwani tulizoziona zilikuwa kwa kiasi kikubwa hatari na zilizojaa proksi
+- Vikoa **220,635** vya barua pepe za mara moja pia huja katika hazina hii, hivyo kunakili mara moja hufunika pande zote mbili za ukaguzi wa kujisajili
 - Kila anwani hubeba **alama kutoka 0 hadi 100**, **kundi la tishio**, na **aina ya miundombinu** inapoonekana
 - Hujengwa upya na kuchapishwa **kila dakika 30**. Historia ya commit ndiyo kumbukumbu ya mabadiliko, na [`metadata.json`](metadata.json) hubeba muda kamili wa ujenzi
 - **Leseni ya MIT**, matumizi ya kibiashara yakiwemo, bila kulazimika kutaja chanzo
 - CSV na TXT za kawaida tu. Hakuna kumbukumbu ya kufungua, hakuna muundo wa kujifunza, hakuna maktaba ya kusakinisha
 
+## Mafaili, au API?
+
+Hazina hii ni kiini kilichothibitishwa cha FFraud: anwani tulizozikamata zikishambulia angalau mara mbili, kila moja ikiwa na alama, kategoria moja na aina ya miundombinu. Imetengenezwa kwa ajili ya kuzuia washambulizi wanaojulikana kwa wingi. [API ya bure](https://ffraud.com/docs) inajibu kwa **kila** anwani na inajua mengi zaidi:
+
+|  | Hazina hii | API |
+|------|------|------|
+| **Anwani** | Washambulizi waliothibitishwa pekee | Anwani yoyote, pamoja na zilizothibitishwa mara moja tu |
+| **VPN, proksi, Tor, kituo cha data** | Kwa washambulizi walio kwenye orodha pekee | Kwa kila anwani |
+| **Ilikuwa hai lini** | Hakuna tarehe | Ilionekana mara ya kwanza, mara ya mwisho, matumizi mabaya ya karibuni |
+| **Kwa nini imewekwa alama** | Kategoria mbaya zaidi | Kila lebo ya tishio na sababu iliyoandikwa |
+| **Muktadha wa mtandao** | Haijajumuishwa | Ujirani wa /24, ASN, mmiliki, mawasiliano ya abuse ya WHOIS, mahali |
+
+**Haichapishwi kamwe, kwa makusudi**
+
+- **Nani aliripoti anwani na ushahidi alioutuma**: ripoti hutufikia kwa usiri.
+- **Anwani zilizothibitishwa mara moja tu**: ripoti moja ni dai, si uthibitisho. API tayari inaizingatia; orodha hii inasubiri uthibitisho wa pili, huru.
+- **Vihisio vyetu viko wapi**: honeypot hufanya kazi tu maadamu washambulizi hawajui kwamba ni honeypot.
+- **Watoa huduma wa intaneti gani wana wateja walioambukizwa**: orodha ya aina hiyo ingekuwa orodha ya walengwa kwa wahalifu. Faili la mitandao linataja tu mitandao midogo ambapo karibu kila anwani tuliyoiona ilifanya matumizi mabaya.
+
+Tumia hazina hii kuzuia washambulizi wanaojulikana. Tumia API kuamua kuhusu mgeni mahususi. Zote mbili ni bure.
+
 ## Kilicho ndani
 
 | Faili | Safu | Ni nini |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,323,562 | Anwani hatari, kila moja ikiwa imethibitishwa angalau mara mbili, pamoja na alama yetu kutoka 0 hadi 100, kundi la tishio (c2, programu hasidi, botnet, kubahatisha nywila, shambulio la wavuti, kichanganuzi, uvuvi, taka) na aina ya miundombinu (proxy, vpn, tor, datacenter, mobile) inapojulikana |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | Mitandao ambayo anwani zake tulizoziona zilikuwa kwa kiasi kikubwa hatari na zilizojaa proksi: alama ya utambulisho ya upangishaji usioguswa na malalamiko |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,249 | Vikoa vya barua pepe vya mara moja na vya muda, kimoja kwa kila mstari |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,347,943 | Anwani hatari, kila moja ikiwa imethibitishwa angalau mara mbili, pamoja na alama yetu kutoka 0 hadi 100, kundi la tishio (c2, programu hasidi, botnet, kubahatisha nywila, shambulio la wavuti, kichanganuzi, uvuvi, taka) na aina ya miundombinu (proxy, vpn, tor, datacenter, mobile) inapojulikana |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | Mitandao ambayo anwani zake tulizoziona zilikuwa kwa kiasi kikubwa hatari na zilizojaa proksi: alama ya utambulisho ya upangishaji usioguswa na malalamiko |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,635 | Vikoa vya barua pepe vya mara moja na vya muda, kimoja kwa kila mstari |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | sampuli | Taarifa kamili kwa kila anwani: alama, sababu kwa lugha rahisi, na kila kundi tulilobandika |
 | [`metadata.json`](../metadata.json) | &mdash; | Hesabu za sasa na muda wa ujenzi kwa UTC, ili hati ijue nakala yake ni mpya kiasi gani |
 
@@ -125,7 +146,7 @@ Kwa sababu ilionekana ikishambulia kitu angalau mara mbili. Itafute kwenye [ffra
 <details>
 <summary><b>Inatofautianaje na watoa huduma wakubwa wanaolipiwa?</b></summary>
 
-Ni ya bure, ina leseni ya MIT, haina ufunguo wala kikomo, na unaweza kusoma hasa kwa nini kila anwani imeorodheshwa. Pia unaweza kupakua hifadhidata nzima, jambo ambalo bidhaa nyingi zinazolipiwa haziruhusu kwa bei yoyote.
+Ni bure, chini ya leseni ya MIT, bila ufunguo wala kikomo, na unaweza kusoma hasa kwa nini kila anwani imeorodheshwa. Unaweza pia kupakua kila anwani iliyothibitishwa katika faili moja, jambo ambalo bidhaa nyingi za kulipia haziruhusu kwa bei yoyote.
 
 </details>
 

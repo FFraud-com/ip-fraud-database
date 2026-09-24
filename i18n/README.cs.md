@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Web-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Web"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Škodlivé_IP-1 323 562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Škodlivé IP"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Zneužívané_sítě-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zneužívané sítě"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Jednorázové_domény-220 249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jednorázové domény"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Škodlivé_IP-1 347 943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Škodlivé IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Zneužívané_sítě-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zneužívané sítě"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Jednorázové_domény-220 635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jednorázové domény"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Přestavba-každých_30_minut-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Přestavba"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Bezplatné_API-bez_klíče-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Bezplatné API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,29 +16,50 @@
 
 # Databáze IP podvodů, přestavovaná každých 30 minut
 
-<p align="center"><b>1 323 562 potvrzených škodlivých IP adres a 543 sítí s vysokou mírou zneužívání. Každá adresa má skóre, kategorii a nejméně dvě nezávislá potvrzení.</b></p>
-<p align="center"><sub>Licence MIT &middot; bez registrace, bez API klíče, bez limitů na dotazy &middot; aktualizováno 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/cs.svg?v=1789905601" alt="Prohlédnout živou databázi na ffraud.com" width="540"></a></p>
+<p align="center"><b>1 347 943 potvrzených škodlivých IP adres a 546 sítí s vysokou mírou zneužívání. Každá adresa má skóre, kategorii a nejméně dvě nezávislá potvrzení.</b></p>
+<p align="center"><sub>Licence MIT &middot; bez registrace, bez API klíče, bez limitů na dotazy &middot; aktualizováno 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/cs.svg?v=1790250759" alt="Prohlédnout živou databázi na ffraud.com" width="540"></a></p>
 
 Tohle je otevřená databáze IP podvodů, na které stojí [ffraud.com](https://ffraud.com). Každou adresu v ní jsme zachytili při útoku, byla nejméně dvakrát nezávisle potvrzena, dostala skóre od 0 do 100 a označení, na čem se nechala chytit a na jaké infrastruktuře běží. Útočníci mění infrastrukturu bez ustání, takže blokovací seznam má cenu přesně své poslední aktualizace: tenhle se **každých 30 minut** přestavuje přímo z běžícího jádra. To, co si stáhnete, právě teď útočí na internet. Bez registrace, bez klíče, bez limitů. Nasypte to rovnou do firewallu, WAF, registračního formuláře nebo protipodvodné linky.
 
 ## Ve zkratce
 
-- **1 323 562** potvrzených škodlivých IP adres, každá zachycena při zneužívání **nejméně dvakrát nezávisle**
-- **543** sítí, kde byly adresy, které jsme pozorovali, převážně škodlivé a plné proxy
-- **220 249** jednorázových e-mailových domén je také v tomhle repozitáři, takže jeden klon pokryje obě poloviny kontroly při registraci
+- **1 347 943** potvrzených škodlivých IP adres, každá zachycena při zneužívání **nejméně dvakrát nezávisle**
+- **546** sítí, kde byly adresy, které jsme pozorovali, převážně škodlivé a plné proxy
+- **220 635** jednorázových e-mailových domén je také v tomhle repozitáři, takže jeden klon pokryje obě poloviny kontroly při registraci
 - Každá adresa nese **skóre 0 až 100**, **kategorii hrozby** a **typ infrastruktury**, pokud je vidět
 - Přestavuje se a publikuje **každých 30 minut**. Historie commitů je záznam změn a [`metadata.json`](metadata.json) nese přesný čas sestavení
 - **Licence MIT**, komerční použití včetně, bez povinnosti uvádět autora
 - Prosté CSV a TXT. Nic k rozbalování, žádné schéma k naučení, žádná knihovna k instalaci
 
+## Soubory, nebo API?
+
+Tento repozitář je potvrzené jádro FFraud: adresy, které jsme přistihli při útoku nejméně dvakrát, každá se skóre, jednou kategorií a typem infrastruktury. Je určený k hromadnému blokování známých útočníků. [Bezplatné API](https://ffraud.com/docs) odpovídá pro **každou** adresu a ví mnohem víc:
+
+|  | Tento repozitář | API |
+|------|------|------|
+| **Adresy** | Jen potvrzení útočníci | Jakákoli adresa, včetně těch potvrzených jen jednou |
+| **VPN, proxy, Tor, datacentrum** | Jen u útočníků na seznamu | U každé adresy |
+| **Kdy byla aktivní** | Žádná data | Poprvé viděna, naposledy viděna, nedávné zneužití |
+| **Proč je označená** | Nejhorší kategorie | Každý štítek hrozby a slovní zdůvodnění |
+| **Kontext sítě** | Není součástí | Okolí /24, ASN, vlastník, kontakt abuse z WHOIS, poloha |
+
+**Záměrně nikdy nezveřejňujeme**
+
+- **Kdo adresu nahlásil a jaké důkazy poslal**: hlášení k nám přicházejí důvěrně.
+- **Adresy potvrzené jen jednou**: jedno hlášení je tvrzení, ne důkaz. API ho už zohledňuje; tento seznam čeká na druhé, nezávislé potvrzení.
+- **Kde jsou naše senzory**: honeypot funguje jen do chvíle, kdy útočníci nevědí, že to honeypot je.
+- **Kteří poskytovatelé internetu mají infikované zákazníky**: takový žebříček by byl seznamem cílů pro zločince. Soubor sítí jmenuje jen malé sítě, kde téměř každá pozorovaná adresa byla škodlivá.
+
+Tento repozitář používejte k blokování známých útočníků. API používejte k rozhodnutí o konkrétním návštěvníkovi. Obojí je zdarma.
+
 ## Co je uvnitř
 
 | Soubor | Řádků | Co to je |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 323 562 | Škodlivé adresy, každá potvrzená nejméně dvakrát, s naším skóre 0 až 100, kategorií hrozby (c2, malware, botnet, hrubá síla, webový útok, skener, phishing, spam) a typem infrastruktury (proxy, vpn, tor, datacenter, mobile), pokud je znám |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | Sítě, jejichž pozorované adresy byly převážně škodlivé a plné proxy: rukopis neprůstřelného hostingu |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220 249 | Jednorázové a dočasné e-mailové domény, jedna na řádek |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 347 943 | Škodlivé adresy, každá potvrzená nejméně dvakrát, s naším skóre 0 až 100, kategorií hrozby (c2, malware, botnet, hrubá síla, webový útok, skener, phishing, spam) a typem infrastruktury (proxy, vpn, tor, datacenter, mobile), pokud je znám |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | Sítě, jejichž pozorované adresy byly převážně škodlivé a plné proxy: rukopis neprůstřelného hostingu |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220 635 | Jednorázové a dočasné e-mailové domény, jedna na řádek |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | ukázka | Úplné informace k adrese: skóre, důvod běžnou řečí a každá přiřazená kategorie |
 | [`metadata.json`](../metadata.json) | &mdash; | Aktuální počty a čas sestavení v UTC, aby skript poznal, jak čerstvou kopii má |
 
@@ -125,7 +146,7 @@ Protože ji nejméně dvakrát zachytili při útoku. Vyhledejte ji na [ffraud.c
 <details>
 <summary><b>Čím se to liší od velkých placených poskytovatelů?</b></summary>
 
-Je to zdarma, pod MIT, bez klíče a bez stropu, a u každé adresy si můžete přečíst, proč na seznamu je. Navíc si můžete stáhnout celou databázi, což většina placených produktů nedovolí za žádnou cenu.
+Je to zdarma, pod licencí MIT, bez klíče a bez limitu, a u každé adresy si můžete přesně přečíst, proč je na seznamu. Navíc si můžete stáhnout každou potvrzenou adresu v jediném souboru, což většina placených produktů nedovolí za žádnou cenu.
 
 </details>
 

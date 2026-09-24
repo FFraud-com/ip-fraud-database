@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Situs-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Situs"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_berbahaya-1.323.562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP berbahaya"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Jaringan_penyalahgunaan-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jaringan penyalahgunaan"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Domain_sekali_pakai-220.249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domain sekali pakai"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_berbahaya-1.347.943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP berbahaya"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Jaringan_penyalahgunaan-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jaringan penyalahgunaan"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Domain_sekali_pakai-220.635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domain sekali pakai"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Dibangun_ulang-tiap_30_menit-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Dibangun ulang"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_gratis-tanpa_kunci-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API gratis"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,29 +16,50 @@
 
 # Basis data penipuan IP, dibangun ulang tiap 30 menit
 
-<p align="center"><b>1.323.562 alamat IP berbahaya yang terkonfirmasi dan 543 jaringan dengan penyalahgunaan tinggi. Setiap alamat diberi skor, dikategorikan, dan dikonfirmasi secara independen sedikitnya dua kali.</b></p>
-<p align="center"><sub>Lisensi MIT &middot; tanpa pendaftaran, tanpa kunci API, tanpa batas permintaan &middot; diperbarui 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/id.svg?v=1789905601" alt="Lihat basis data langsung di ffraud.com" width="540"></a></p>
+<p align="center"><b>1.347.943 alamat IP berbahaya yang terkonfirmasi dan 546 jaringan dengan penyalahgunaan tinggi. Setiap alamat diberi skor, dikategorikan, dan dikonfirmasi secara independen sedikitnya dua kali.</b></p>
+<p align="center"><sub>Lisensi MIT &middot; tanpa pendaftaran, tanpa kunci API, tanpa batas permintaan &middot; diperbarui 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/id.svg?v=1790250759" alt="Lihat basis data langsung di ffraud.com" width="540"></a></p>
 
 Ini basis data penipuan IP terbuka yang menopang [ffraud.com](https://ffraud.com). Setiap alamat di dalamnya teramati sedang menyerang sesuatu, dikonfirmasi sedikitnya dua kali secara independen, diberi skor 0 sampai 100, dan diberi label apa yang membuatnya tertangkap serta infrastruktur apa yang dipakainya. Penyerang berganti infrastruktur terus-menerus, jadi sebuah daftar blokir hanya sebernilai pembaruan terakhirnya: yang ini dibangun ulang **tiap 30 menit** langsung dari mesin yang berjalan. Yang Anda unduh adalah yang sedang menyerang internet saat ini juga. Tanpa pendaftaran, tanpa kunci, tanpa batas. Masukkan langsung ke firewall, WAF, formulir pendaftaran, atau alur antipenipuan.
 
 ## Ringkasnya
 
-- **1.323.562** alamat IP berbahaya terkonfirmasi, masing-masing teramati menyalahgunakan **dua kali atau lebih secara independen**
-- **543** jaringan yang alamat-alamatnya kami amati sebagian besar berbahaya dan padat proxy
-- **220.249** domain email sekali pakai juga ikut di repositori ini, jadi satu klon menutup kedua sisi pemeriksaan pendaftaran
+- **1.347.943** alamat IP berbahaya terkonfirmasi, masing-masing teramati menyalahgunakan **dua kali atau lebih secara independen**
+- **546** jaringan yang alamat-alamatnya kami amati sebagian besar berbahaya dan padat proxy
+- **220.635** domain email sekali pakai juga ikut di repositori ini, jadi satu klon menutup kedua sisi pemeriksaan pendaftaran
 - Setiap alamat membawa **skor 0 sampai 100**, sebuah **kategori ancaman**, dan **jenis infrastruktur** saat terlihat
 - Dibangun ulang dan diterbitkan **tiap 30 menit**. Riwayat commit adalah catatan perubahannya, dan [`metadata.json`](metadata.json) memuat waktu build yang persis
 - **Lisensi MIT**, penggunaan komersial termasuk, tanpa kewajiban atribusi
 - CSV dan TXT polos. Tidak ada arsip untuk dibuka, tidak ada skema untuk dipelajari, tidak ada pustaka untuk dipasang
 
+## Berkas atau API?
+
+Repositori ini adalah inti FFraud yang sudah terkonfirmasi: alamat yang kami tangkap sedang menyerang setidaknya dua kali, masing-masing dengan skor, satu kategori, dan jenis infrastruktur. Repositori ini dibuat untuk memblokir penyerang yang sudah dikenal secara massal. [API gratis](https://ffraud.com/docs) menjawab untuk **setiap** alamat dan tahu jauh lebih banyak:
+
+|  | Repositori ini | API |
+|------|------|------|
+| **Alamat** | Hanya penyerang terkonfirmasi | Alamat apa pun, termasuk yang baru dikonfirmasi sekali |
+| **VPN, proxy, Tor, pusat data** | Hanya untuk penyerang yang terdaftar | Untuk setiap alamat |
+| **Kapan aktif** | Tanpa tanggal | Pertama terlihat, terakhir terlihat, penyalahgunaan terbaru |
+| **Mengapa ditandai** | Kategori terburuk | Setiap tag ancaman dan alasan tertulis |
+| **Konteks jaringan** | Tidak termasuk | Lingkungan /24, ASN, pemilik, kontak abuse WHOIS, lokasi |
+
+**Sengaja tidak pernah dipublikasikan**
+
+- **Siapa yang melaporkan sebuah alamat dan bukti yang dikirim**: laporan sampai ke kami secara rahasia.
+- **Alamat yang baru dikonfirmasi sekali**: satu laporan adalah klaim, bukan bukti. API sudah memperhitungkannya; daftar ini menunggu konfirmasi kedua yang independen.
+- **Di mana sensor kami berada**: honeypot hanya berfungsi selama penyerang tidak tahu bahwa itu honeypot.
+- **Penyedia internet mana yang pelanggannya terinfeksi**: peringkat seperti itu akan menjadi daftar sasaran bagi penjahat. Berkas jaringan hanya menyebut jaringan kecil tempat hampir setiap alamat yang kami lihat melakukan penyalahgunaan.
+
+Gunakan repositori ini untuk memblokir penyerang yang dikenal. Gunakan API untuk memutuskan tentang pengunjung tertentu. Keduanya gratis.
+
 ## Isi repositori
 
 | Berkas | Baris | Apa ini |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.323.562 | Alamat berbahaya, masing-masing terkonfirmasi dua kali atau lebih, dengan skor 0 sampai 100 dari kami, kategori ancaman (c2, malware, botnet, brute force, serangan web, pemindai, phishing, spam) dan jenis infrastruktur (proxy, vpn, tor, datacenter, mobile) bila diketahui |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | Jaringan yang alamat teramatinya sebagian besar berbahaya dan padat proxy: tanda khas hosting antikeluhan |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.249 | Domain email sekali pakai dan sementara, satu per baris |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.347.943 | Alamat berbahaya, masing-masing terkonfirmasi dua kali atau lebih, dengan skor 0 sampai 100 dari kami, kategori ancaman (c2, malware, botnet, brute force, serangan web, pemindai, phishing, spam) dan jenis infrastruktur (proxy, vpn, tor, datacenter, mobile) bila diketahui |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | Jaringan yang alamat teramatinya sebagian besar berbahaya dan padat proxy: tanda khas hosting antikeluhan |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.635 | Domain email sekali pakai dan sementara, satu per baris |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | contoh | Informasi lengkap per alamat: skor, alasan dalam bahasa sehari-hari, dan setiap kategori yang dilekatkan |
 | [`metadata.json`](../metadata.json) | &mdash; | Hitungan terkini dan waktu build dalam UTC, supaya skrip tahu seberapa segar salinannya |
 
@@ -125,7 +146,7 @@ Karena ia teramati menyerang sesuatu sedikitnya dua kali. Cari di [ffraud.com](h
 <details>
 <summary><b>Apa bedanya dengan penyedia berbayar besar?</b></summary>
 
-Ini gratis, berlisensi MIT, tanpa kunci dan tanpa batas, dan Anda bisa membaca persis kenapa tiap alamat terdaftar. Anda juga bisa mengunduh seluruh basis datanya, sesuatu yang tidak diizinkan sebagian besar produk berbayar dengan harga berapa pun.
+Gratis, berlisensi MIT, tanpa kunci dan tanpa batas, dan Anda bisa membaca persis mengapa setiap alamat ada di daftar. Anda juga bisa mengunduh setiap alamat terkonfirmasi dalam satu berkas, sesuatu yang tidak diizinkan kebanyakan produk berbayar berapa pun harganya.
 
 </details>
 

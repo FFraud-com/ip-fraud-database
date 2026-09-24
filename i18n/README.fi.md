@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Sivusto-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sivusto"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Haitalliset_IP:t-1 323 562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Haitalliset IP:t"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Väärinkäyttöverkot-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Väärinkäyttöverkot"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Kertakäyttöverkkotunnukset-220 249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kertakäyttöverkkotunnukset"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Haitalliset_IP:t-1 347 943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Haitalliset IP:t"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Väärinkäyttöverkot-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Väärinkäyttöverkot"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Kertakäyttöverkkotunnukset-220 635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kertakäyttöverkkotunnukset"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Rakennetaan-30_minuutin_välein-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Rakennetaan"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Ilmainen_API-ilman_avainta-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ilmainen API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,29 +16,50 @@
 
 # IP-petostietokanta, rakennetaan uudelleen 30 minuutin välein
 
-<p align="center"><b>1 323 562 vahvistetusti haitallista IP-osoitetta ja 543 korkean väärinkäytön verkkoa. Jokainen osoite pisteytetty, luokiteltu ja riippumattomasti vahvistettu vähintään kahdesti.</b></p>
-<p align="center"><sub>MIT-lisenssi &middot; ei rekisteröitymistä, ei API-avainta, ei kutsurajoja &middot; päivitetty 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fi.svg?v=1789905601" alt="Katso elävä tietokanta osoitteessa ffraud.com" width="540"></a></p>
+<p align="center"><b>1 347 943 vahvistetusti haitallista IP-osoitetta ja 546 korkean väärinkäytön verkkoa. Jokainen osoite pisteytetty, luokiteltu ja riippumattomasti vahvistettu vähintään kahdesti.</b></p>
+<p align="center"><sub>MIT-lisenssi &middot; ei rekisteröitymistä, ei API-avainta, ei kutsurajoja &middot; päivitetty 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/fi.svg?v=1790250759" alt="Katso elävä tietokanta osoitteessa ffraud.com" width="540"></a></p>
 
 Tämä on [ffraud.com](https://ffraud.com):n takana oleva avoin IP-petostietokanta. Jokainen siinä oleva osoite on havaittu hyökkäämässä johonkin, vahvistettu vähintään kahdesti riippumattomasti, pisteytetty välillä 0–100 ja merkitty sillä, mistä se jäi kiinni ja millaisella infrastruktuurilla se toimii. Hyökkääjät vaihtavat infrastruktuuria lakkaamatta, joten estolista on tasan viimeisen päivityksensä arvoinen: tämä rakennetaan uudelleen **30 minuutin välein** suoraan käynnissä olevasta moottorista. Se, minkä lataat, hyökkää internetiin juuri nyt. Ei rekisteröitymistä, ei avainta, ei rajoja. Kaada se suoraan palomuuriin, WAF:iin, rekisteröitymislomakkeeseen tai petostenvalvontaputkeen.
 
 ## Lyhyesti
 
-- **1 323 562** vahvistetusti haitallista IP-osoitetta, kukin havaittu väärinkäytössä **vähintään kahdesti riippumattomasti**
-- **543** verkkoa, joissa havaitsemamme osoitteet olivat pääosin haitallisia ja välityspalvelinvoittoisia
-- **220 249** kertakäyttöistä sähköpostiverkkotunnusta tulee myös tässä repositoriossa, joten yksi kloonaus kattaa rekisteröitymistarkistuksen molemmat puoliskot
+- **1 347 943** vahvistetusti haitallista IP-osoitetta, kukin havaittu väärinkäytössä **vähintään kahdesti riippumattomasti**
+- **546** verkkoa, joissa havaitsemamme osoitteet olivat pääosin haitallisia ja välityspalvelinvoittoisia
+- **220 635** kertakäyttöistä sähköpostiverkkotunnusta tulee myös tässä repositoriossa, joten yksi kloonaus kattaa rekisteröitymistarkistuksen molemmat puoliskot
 - Jokainen osoite kantaa **pisteet 0–100**, **uhkaluokan** ja **infrastruktuurin tyypin**, kun se on nähtävissä
 - Rakennetaan uudelleen ja julkaistaan **30 minuutin välein**. Committien historia on muutosloki, ja [`metadata.json`](metadata.json) kantaa tarkan koontiajan
 - **MIT-lisenssi**, kaupallinen käyttö mukaan lukien, mainintaa ei vaadita
 - Pelkkää CSV:tä ja TXT:tä. Ei arkistoa purettavaksi, ei skeemaa opeteltavaksi, ei kirjastoa asennettavaksi
 
+## Tiedostot vai API?
+
+Tämä repositorio on FFraudin vahvistettu ydin: osoitteet, jotka olemme saaneet kiinni hyökkäämästä vähintään kahdesti, kukin pisteineen, yhden luokan ja infrastruktuurityypin kanssa. Se on tehty tunnettujen hyökkääjien massaestämiseen. [Ilmainen API](https://ffraud.com/docs) vastaa **mistä tahansa** osoitteesta ja tietää paljon enemmän:
+
+|  | Tämä repositorio | API |
+|------|------|------|
+| **Osoitteet** | Vain vahvistetut hyökkääjät | Mikä tahansa osoite, myös vain kerran vahvistetut |
+| **VPN, välityspalvelin, Tor, konesali** | Vain listatuille hyökkääjille | Jokaiselle osoitteelle |
+| **Milloin se oli aktiivinen** | Ei päivämääriä | Ensimmäinen havainto, viimeisin havainto, tuore väärinkäyttö |
+| **Miksi se on merkitty** | Pahin luokka | Jokainen uhkatunniste ja kirjoitettu perustelu |
+| **Verkon konteksti** | Ei mukana | /24-naapurusto, ASN, omistaja, WHOIS-abuse-yhteystieto, sijainti |
+
+**Ei koskaan julkaista, tarkoituksella**
+
+- **Kuka ilmoitti osoitteesta ja millaisia todisteita lähetti**: ilmoitukset tulevat meille luottamuksellisesti.
+- **Vain kerran vahvistetut osoitteet**: yksi ilmoitus on väite, ei todiste. API ottaa sen jo huomioon; tämä lista odottaa toista, riippumatonta vahvistusta.
+- **Missä anturimme ovat**: honeypot toimii vain niin kauan kuin hyökkääjät eivät tiedä sen olevan honeypot.
+- **Minkä internetoperaattoreiden asiakkailla on tartuntoja**: sellainen ranking olisi rikollisille kohdelista. Verkkotiedosto nimeää vain pieniä verkkoja, joissa lähes jokainen näkemämme osoite oli haitallinen.
+
+Käytä tätä repositoriota tunnettujen hyökkääjien estämiseen. Käytä APIa, kun päätät tietystä vierailijasta. Molemmat ovat ilmaisia.
+
 ## Mitä täällä on
 
 | Tiedosto | Rivejä | Mikä se on |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 323 562 | Haitalliset osoitteet, kukin vahvistettu vähintään kahdesti, pisteillämme 0–100, uhkaluokalla (c2, haittaohjelma, bottiverkko, salasanojen arvailu, verkkohyökkäys, skanneri, tietojenkalastelu, roskaposti) ja infrastruktuurin tyypillä (proxy, vpn, tor, datacenter, mobile), kun se on tiedossa |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | Verkot, joiden havaitut osoitteet olivat pääosin haitallisia ja välityspalvelinvoittoisia: luodinkestävän hostingin tuntomerkki |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220 249 | Kertakäyttöiset ja väliaikaiset sähköpostiverkkotunnukset, yksi riviä kohti |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1 347 943 | Haitalliset osoitteet, kukin vahvistettu vähintään kahdesti, pisteillämme 0–100, uhkaluokalla (c2, haittaohjelma, bottiverkko, salasanojen arvailu, verkkohyökkäys, skanneri, tietojenkalastelu, roskaposti) ja infrastruktuurin tyypillä (proxy, vpn, tor, datacenter, mobile), kun se on tiedossa |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | Verkot, joiden havaitut osoitteet olivat pääosin haitallisia ja välityspalvelinvoittoisia: luodinkestävän hostingin tuntomerkki |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220 635 | Kertakäyttöiset ja väliaikaiset sähköpostiverkkotunnukset, yksi riviä kohti |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | näyte | Täydet tiedot osoitetta kohti: pisteet, syy selkokielellä ja jokainen liittämämme luokka |
 | [`metadata.json`](../metadata.json) | &mdash; | Ajantasaiset lukumäärät ja koontiaika UTC-ajassa, jotta skripti tietää, kuinka tuore sen kopio on |
 
@@ -125,7 +146,7 @@ Koska se havaittiin hyökkäämässä johonkin vähintään kahdesti. Hae se oso
 <details>
 <summary><b>Miten tämä eroaa isoista maksullisista toimittajista?</b></summary>
 
-Se on ilmainen, MIT-lisensoitu, ilman avainta ja ilman kattoa, ja voit lukea täsmälleen miksi kukin osoite on listalla. Voit myös ladata koko tietokannan, mitä useimmat maksulliset tuotteet eivät salli millään hinnalla.
+Se on ilmainen, MIT-lisensoitu, ilman avainta ja ilman rajaa, ja voit lukea tarkalleen, miksi jokainen osoite on listalla. Voit myös ladata jokaisen vahvistetun osoitteen yhtenä tiedostona, mitä useimmat maksulliset tuotteet eivät salli mihinkään hintaan.
 
 </details>
 

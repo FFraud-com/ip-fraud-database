@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Websted-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Websted"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Ondsindede_IP'er-1.323.562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ondsindede IP'er"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Misbrugsnetværk-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Misbrugsnetværk"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Engangsdomæner-220.249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Engangsdomæner"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Ondsindede_IP'er-1.347.943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ondsindede IP'er"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Misbrugsnetværk-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Misbrugsnetværk"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Engangsdomæner-220.635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Engangsdomæner"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Genopbygges-hvert_30._minut-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Genopbygges"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Gratis_API-uden_nøgle-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Gratis API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,29 +16,50 @@
 
 # IP-svindeldatabase, genopbygget hvert 30. minut
 
-<p align="center"><b>1.323.562 bekræftet ondsindede IP-adresser og 543 netværk med højt misbrug. Hver adresse scoret, kategoriseret og uafhængigt bekræftet mindst to gange.</b></p>
-<p align="center"><sub>MIT-licens &middot; ingen oprettelse, ingen API-nøgle, ingen kaldsgrænser &middot; opdateret 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/da.svg?v=1789905601" alt="Se den levende database på ffraud.com" width="540"></a></p>
+<p align="center"><b>1.347.943 bekræftet ondsindede IP-adresser og 546 netværk med højt misbrug. Hver adresse scoret, kategoriseret og uafhængigt bekræftet mindst to gange.</b></p>
+<p align="center"><sub>MIT-licens &middot; ingen oprettelse, ingen API-nøgle, ingen kaldsgrænser &middot; opdateret 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/da.svg?v=1790250759" alt="Se den levende database på ffraud.com" width="540"></a></p>
 
 Dette er den åbne IP-svindeldatabase bag [ffraud.com](https://ffraud.com). Hver adresse i den er observeret angribe noget, bekræftet mindst to gange uafhængigt, scoret fra 0 til 100 og mærket med, hvad den blev taget i, og hvilken slags infrastruktur den kører på. Angribere skifter infrastruktur uafbrudt, så en blokeringsliste er præcis så meget værd som sin seneste opdatering: denne genopbygges **hvert 30. minut** direkte fra den kørende motor. Det, du henter, er det, der angriber internettet lige nu. Ingen oprettelse, ingen nøgle, ingen grænser. Hæld det direkte i en firewall, en WAF, en tilmeldingsformular eller en svindelkontrol.
 
 ## Kort fortalt
 
-- **1.323.562** bekræftet ondsindede IP-adresser, hver observeret misbruge noget **to eller flere uafhængige gange**
-- **543** netværk, hvor de adresser, vi observerede, overvejende var ondsindede og proxytunge
-- **220.249** engangsdomæner til e-mail følger også med i dette arkiv, så én enkelt klon dækker begge halvdele af et tilmeldingstjek
+- **1.347.943** bekræftet ondsindede IP-adresser, hver observeret misbruge noget **to eller flere uafhængige gange**
+- **546** netværk, hvor de adresser, vi observerede, overvejende var ondsindede og proxytunge
+- **220.635** engangsdomæner til e-mail følger også med i dette arkiv, så én enkelt klon dækker begge halvdele af et tilmeldingstjek
 - Hver adresse bærer en **score fra 0 til 100**, en **trusselskategori** og **infrastrukturtypen**, når den kan ses
 - Genopbygges og udgives **hvert 30. minut**. Commit-historikken er ændringsloggen, og [`metadata.json`](metadata.json) bærer det præcise byggetidspunkt
 - **MIT-licens**, kommerciel brug inkluderet, ingen kreditering krævet
 - Almindelig CSV og TXT. Intet arkiv at pakke ud, intet skema at lære, intet bibliotek at installere
 
+## Filerne eller API'et?
+
+Dette repository er FFrauds bekræftede kerne: de adresser, vi har taget i at angribe mindst to gange, hver med en score, én kategori og typen af infrastruktur. Det er lavet til at blokere kendte angribere i stor stil. Det [gratis API](https://ffraud.com/docs) svarer for **enhver** adresse og ved langt mere:
+
+|  | Dette repository | API'et |
+|------|------|------|
+| **Adresser** | Kun bekræftede angribere | Enhver adresse, også dem der kun er bekræftet én gang |
+| **VPN, proxy, Tor, datacenter** | Kun for listede angribere | For hver adresse |
+| **Hvornår den var aktiv** | Ingen datoer | Først set, sidst set, nyligt misbrug |
+| **Hvorfor den er markeret** | Den værste kategori | Hvert trusselsmærke og en skrevet begrundelse |
+| **Netværkskontekst** | Ikke med | /24-naboskabet, ASN, ejer, abuse-kontakt fra WHOIS, placering |
+
+**Offentliggøres aldrig, med vilje**
+
+- **Hvem der anmeldte en adresse, og hvilke beviser de sendte**: anmeldelser når os i fortrolighed.
+- **Adresser, der kun er bekræftet én gang**: én anmeldelse er en påstand, ikke et bevis. API'et vægter den allerede; denne liste venter på en anden, uafhængig bekræftelse.
+- **Hvor vores sensorer står**: en honeypot virker kun, så længe angriberne ikke ved, at det er en.
+- **Hvilke internetudbydere der har inficerede kunder**: sådan en rangliste ville være en målliste for kriminelle. Netværksfilen nævner kun små netværk, hvor næsten hver adresse, vi så, var ondsindet.
+
+Brug dette repository til at blokere kendte angribere. Brug API'et til at træffe beslutning om en bestemt besøgende. Begge dele er gratis.
+
 ## Hvad der er her
 
 | Fil | Rækker | Hvad det er |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.323.562 | Ondsindede adresser, hver bekræftet mindst to gange, med vores score fra 0 til 100, trusselskategorien (c2, malware, botnet, adgangskodegætteri, webangreb, scanner, phishing, spam) og infrastrukturtypen (proxy, vpn, tor, datacenter, mobile), hvor den er kendt |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | Netværk, hvis observerede adresser overvejende var ondsindede og proxytunge: signaturen på skudsikker hosting |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.249 | Engangs- og midlertidige e-maildomæner, ét per linje |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.347.943 | Ondsindede adresser, hver bekræftet mindst to gange, med vores score fra 0 til 100, trusselskategorien (c2, malware, botnet, adgangskodegætteri, webangreb, scanner, phishing, spam) og infrastrukturtypen (proxy, vpn, tor, datacenter, mobile), hvor den er kendt |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | Netværk, hvis observerede adresser overvejende var ondsindede og proxytunge: signaturen på skudsikker hosting |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.635 | Engangs- og midlertidige e-maildomæner, ét per linje |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | eksempel | Fuld information per adresse: scoren, en årsag i almindeligt sprog og hver kategori vi har sat på |
 | [`metadata.json`](../metadata.json) | &mdash; | Aktuelle tal og byggetidspunktet i UTC, så et script ved, hvor frisk dets kopi er |
 
@@ -125,7 +146,7 @@ Fordi den blev observeret angribe noget mindst to gange. Slå den op på [ffraud
 <details>
 <summary><b>Hvordan adskiller det sig fra de store betalingsudbydere?</b></summary>
 
-Det er gratis, MIT-licenseret, uden nøgle og uden loft, og du kan læse præcis hvorfor hver adresse er listet. Du kan desuden hente hele databasen, hvilket de fleste betalingsprodukter ikke tillader til nogen pris.
+Det er gratis, MIT-licenseret, uden nøgle og uden loft, og du kan læse præcis, hvorfor hver adresse er på listen. Du kan også hente hver bekræftet adresse i én fil, hvilket de fleste betalte produkter ikke tillader for nogen pris.
 
 </details>
 

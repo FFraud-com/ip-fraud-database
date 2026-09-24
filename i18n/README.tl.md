@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Website-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Website"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Mapaminsalang_IP-1,323,562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Mapaminsalang IP"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Mga_network_ng_pang--aabuso-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Mga network ng pang-aabuso"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Disposable_na_domain-220,249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Disposable na domain"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Mapaminsalang_IP-1,347,943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Mapaminsalang IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Mga_network_ng_pang--aabuso-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Mga network ng pang-aabuso"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Disposable_na_domain-220,635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Disposable na domain"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Muling_binubuo-kada_30_minuto-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Muling binubuo"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Libreng_API-walang_key-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Libreng API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,29 +16,50 @@
 
 # Database ng pandarayang IP, muling binubuo kada 30 minuto
 
-<p align="center"><b>1,323,562 nakumpirmang mapaminsalang IP address at 543 network na mataas ang pang-aabuso. Bawat address ay may iskor, kategorya, at hindi bababa sa dalawang malayang kumpirmasyon.</b></p>
-<p align="center"><sub>Lisensyang MIT &middot; walang rehistro, walang API key, walang limitasyon sa kahilingan &middot; na-update 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/tl.svg?v=1789905601" alt="Tingnan ang buhay na database sa ffraud.com" width="540"></a></p>
+<p align="center"><b>1,347,943 nakumpirmang mapaminsalang IP address at 546 network na mataas ang pang-aabuso. Bawat address ay may iskor, kategorya, at hindi bababa sa dalawang malayang kumpirmasyon.</b></p>
+<p align="center"><sub>Lisensyang MIT &middot; walang rehistro, walang API key, walang limitasyon sa kahilingan &middot; na-update 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/tl.svg?v=1790250759" alt="Tingnan ang buhay na database sa ffraud.com" width="540"></a></p>
 
 Ito ang bukas na database ng pandarayang IP na nasa likod ng [ffraud.com](https://ffraud.com). Bawat address dito ay nakitang umaatake sa isang bagay, nakumpirma nang hindi bababa sa dalawang beses nang malaya, binigyan ng iskor mula 0 hanggang 100, at tinatakan ng kung ano ang ginagawa nito nang mahuli at kung anong uri ng imprastraktura ang tinatakbuhan nito. Palit nang palit ng imprastraktura ang mga umaatake, kaya kasinghalaga lang ng huling update nito ang isang blocklist: ang isang ito ay muling binubuo **kada 30 minuto** mismo mula sa umaandar na makina. Ang dina-download mo ay ang umaatake sa internet ngayon mismo. Walang rehistro, walang key, walang limitasyon. Ibuhos ito nang diretso sa firewall, WAF, form ng pagpaparehistro, o sa daloy ng pagsusuri sa pandaraya.
 
 ## Sa maikling salita
 
-- **1,323,562** nakumpirmang mapaminsalang IP address, bawat isa ay nakitang nang-aabuso nang **dalawa o higit pang malayang beses**
-- **543** network kung saan ang mga address na aming naobserbahan ay halos puro mapaminsala at punô ng proxy
-- **220,249** disposable na email domain ang kasama rin sa repositoryong ito, kaya isang clone lang ay sakop na ang dalawang panig ng pagsusuri sa pagpaparehistro
+- **1,347,943** nakumpirmang mapaminsalang IP address, bawat isa ay nakitang nang-aabuso nang **dalawa o higit pang malayang beses**
+- **546** network kung saan ang mga address na aming naobserbahan ay halos puro mapaminsala at punô ng proxy
+- **220,635** disposable na email domain ang kasama rin sa repositoryong ito, kaya isang clone lang ay sakop na ang dalawang panig ng pagsusuri sa pagpaparehistro
 - Bawat address ay may **iskor mula 0 hanggang 100**, isang **kategorya ng banta**, at ang **uri ng imprastraktura** kapag nakikita
 - Muling binubuo at inilalathala **kada 30 minuto**. Ang kasaysayan ng commit ang talaan ng pagbabago, at nasa [`metadata.json`](metadata.json) ang eksaktong oras ng build
 - **Lisensyang MIT**, kasama ang komersyal na paggamit, walang kailangang pagkilala
 - Payak na CSV at TXT. Walang archive na bubuksan, walang schema na aaralin, walang library na ii-install
 
+## Ang mga file, o ang API?
+
+Ang repository na ito ang kumpirmadong ubod ng FFraud: ang mga address na nahuli naming umaatake nang hindi bababa sa dalawang beses, bawat isa ay may score, isang kategorya at uri ng imprastraktura. Ginawa ito para maramihang harangin ang mga kilalang umaatake. Sumasagot ang [libreng API](https://ffraud.com/docs) para sa **kahit anong** address at mas marami itong alam:
+
+|  | Ang repository na ito | Ang API |
+|------|------|------|
+| **Mga address** | Mga kumpirmadong umaatake lang | Kahit anong address, kasama ang mga isang beses pa lang nakumpirma |
+| **VPN, proxy, Tor, data center** | Para lang sa mga umaatakeng nakalista | Para sa bawat address |
+| **Kailan ito aktibo** | Walang petsa | Unang nakita, huling nakita, kamakailang pang-aabuso |
+| **Bakit ito minarkahan** | Ang pinakamalalang kategorya | Bawat tag ng banta at nakasulat na dahilan |
+| **Konteksto ng network** | Hindi kasama | Ang /24 na kapitbahayan, ASN, may-ari, abuse contact sa WHOIS, lokasyon |
+
+**Hindi kailanman inilalathala, sadya**
+
+- **Kung sino ang nag-ulat ng isang address at ang ebidensyang ipinadala**: kumpidensyal na dumarating sa amin ang mga ulat.
+- **Mga address na isang beses pa lang nakumpirma**: ang isang ulat ay pahayag, hindi patunay. Isinasaalang-alang na ito ng API; hinihintay ng listahang ito ang ikalawa at hiwalay na kumpirmasyon.
+- **Kung nasaan ang aming mga sensor**: gumagana lang ang honeypot habang hindi alam ng mga umaatake na honeypot ito.
+- **Aling mga internet provider ang may mga customer na infected**: ang ganitong ranggo ay magiging listahan ng target para sa mga kriminal. Ang file ng mga network ay nagbabanggit lang ng maliliit na network kung saan halos bawat address na nakita namin ay mapang-abuso.
+
+Gamitin ang repository na ito para harangin ang mga kilalang umaatake. Gamitin ang API para magpasya tungkol sa isang partikular na bisita. Parehong libre.
+
 ## Ano ang nasa loob
 
 | File | Mga hilera | Ano ito |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,323,562 | Mapaminsalang address, bawat isa ay nakumpirma nang hindi bababa sa dalawang beses, kasama ang aming iskor mula 0 hanggang 100, ang kategorya ng banta (c2, malware, botnet, panghuhula ng password, pag-atake sa web, scanner, phishing, spam) at ang uri ng imprastraktura (proxy, vpn, tor, datacenter, mobile) kapag alam |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | Mga network na ang naobserbahang address ay halos puro mapaminsala at punô ng proxy: ang pirma ng hosting na hindi tinatablan ng reklamo |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,249 | Disposable at pansamantalang email domain, isa bawat linya |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,347,943 | Mapaminsalang address, bawat isa ay nakumpirma nang hindi bababa sa dalawang beses, kasama ang aming iskor mula 0 hanggang 100, ang kategorya ng banta (c2, malware, botnet, panghuhula ng password, pag-atake sa web, scanner, phishing, spam) at ang uri ng imprastraktura (proxy, vpn, tor, datacenter, mobile) kapag alam |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | Mga network na ang naobserbahang address ay halos puro mapaminsala at punô ng proxy: ang pirma ng hosting na hindi tinatablan ng reklamo |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,635 | Disposable at pansamantalang email domain, isa bawat linya |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | halimbawa | Buong impormasyon bawat address: ang iskor, dahilan sa simpleng salita, at bawat kategoryang ikinabit |
 | [`metadata.json`](../metadata.json) | &mdash; | Kasalukuyang bilang at oras ng build sa UTC, para malaman ng isang script kung gaano kasariwa ang kopya nito |
 
@@ -125,7 +146,7 @@ Dahil nakita itong umaatake sa isang bagay nang hindi bababa sa dalawang beses. 
 <details>
 <summary><b>Ano ang pinagkaiba nito sa malalaking bayad na tagapagbigay?</b></summary>
 
-Libre ito, MIT ang lisensya, walang key at walang takda, at mababasa mo mismo kung bakit nakalista ang bawat address. Puwede mo ring i-download ang buong database, na hindi pinapayagan ng karamihan sa bayad na produkto sa anumang halaga.
+Libre ito, MIT ang lisensya, walang key at walang limitasyon, at mababasa mo nang eksakto kung bakit nakalista ang bawat address. Maaari mo ring i-download ang bawat kumpirmadong address sa iisang file, bagay na hindi pinapayagan ng karamihan ng bayad na produkto sa kahit anong halaga.
 
 </details>
 

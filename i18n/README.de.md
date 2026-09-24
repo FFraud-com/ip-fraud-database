@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Website-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Website"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Bösartige_IPs-1.323.562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Bösartige IPs"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Auffällige_Netze-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Auffällige Netze"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Wegwerf--Domains-220.249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Wegwerf-Domains"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Bösartige_IPs-1.347.943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Bösartige IPs"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Auffällige_Netze-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Auffällige Netze"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Wegwerf--Domains-220.635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Wegwerf-Domains"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Neu_gebaut-alle_30_Minuten-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Neu gebaut"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Kostenlose_API-ohne_Schlüssel-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kostenlose API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,29 +16,50 @@
 
 # IP-Betrugsdatenbank, alle 30 Minuten neu gebaut
 
-<p align="center"><b>1.323.562 bestätigt bösartige IP-Adressen und 543 stark auffällige Netze. Jede Adresse bewertet, kategorisiert und mindestens zweimal unabhängig bestätigt.</b></p>
-<p align="center"><sub>MIT-Lizenz &middot; keine Anmeldung, kein API-Schlüssel, kein Limit &middot; aktualisiert am 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/de.svg?v=1789905601" alt="Die Live-Datenbank auf ffraud.com ansehen" width="540"></a></p>
+<p align="center"><b>1.347.943 bestätigt bösartige IP-Adressen und 546 stark auffällige Netze. Jede Adresse bewertet, kategorisiert und mindestens zweimal unabhängig bestätigt.</b></p>
+<p align="center"><sub>MIT-Lizenz &middot; keine Anmeldung, kein API-Schlüssel, kein Limit &middot; aktualisiert am 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/de.svg?v=1790250759" alt="Die Live-Datenbank auf ffraud.com ansehen" width="540"></a></p>
 
 Das ist die offene IP-Betrugsdatenbank hinter [ffraud.com](https://ffraud.com). Jede Adresse darin wurde beim Angriff beobachtet, mindestens zweimal unabhängig bestätigt, von 0 bis 100 bewertet und damit beschriftet, wobei sie erwischt wurde und auf welcher Infrastruktur sie läuft. Angreifer wechseln ihre Infrastruktur ständig, deshalb ist eine Sperrliste nur so viel wert wie ihre letzte Aktualisierung: diese hier wird **alle 30 Minuten** direkt aus der laufenden Engine neu gebaut. Was Sie herunterladen, greift das Internet gerade jetzt an. Keine Anmeldung, kein API-Schlüssel, kein Limit. Rein damit in eine Firewall, eine WAF, ein Anmeldeformular oder eine Betrugsprüfung.
 
 ## Die wichtigsten Zahlen
 
-- **1.323.562** bestätigt bösartige IP-Adressen, jede **mindestens zweimal unabhängig** beim Missbrauch beobachtet
-- **543** Netze, in denen die von uns beobachteten Adressen überwiegend bösartig und proxylastig waren
-- **220.249** Wegwerf-E-Mail-Domains liegen ebenfalls in diesem Repository, ein Klon deckt also beide Hälften einer Anmeldeprüfung ab
+- **1.347.943** bestätigt bösartige IP-Adressen, jede **mindestens zweimal unabhängig** beim Missbrauch beobachtet
+- **546** Netze, in denen die von uns beobachteten Adressen überwiegend bösartig und proxylastig waren
+- **220.635** Wegwerf-E-Mail-Domains liegen ebenfalls in diesem Repository, ein Klon deckt also beide Hälften einer Anmeldeprüfung ab
 - Jede Adresse trägt einen **Score von 0 bis 100**, eine **Bedrohungskategorie** und den **Infrastrukturtyp**, soweit erkennbar
 - Wird **alle 30 Minuten** neu gebaut und hochgeladen. Die Commit-Historie ist das Änderungsprotokoll, und [`metadata.json`](metadata.json) trägt die genaue Bauzeit
 - **MIT-Lizenz**, kommerzielle Nutzung eingeschlossen, keine Namensnennung nötig
 - Schlichtes CSV und TXT. Kein Archiv zum Entpacken, kein Schema zum Lernen, keine Bibliothek zum Installieren
 
+## Die Dateien oder die API?
+
+Dieses Repository ist der bestätigte Kern von FFraud: die Adressen, die wir mindestens zweimal beim Angreifen erwischt haben, jeweils mit Score, einer Kategorie und dem Infrastrukturtyp. Es ist dafür gemacht, bekannte Angreifer in großen Mengen zu blocken. Die [kostenlose API](https://ffraud.com/docs) antwortet für **jede** Adresse und weiß deutlich mehr:
+
+|  | Dieses Repository | Die API |
+|------|------|------|
+| **Adressen** | Nur bestätigte Angreifer | Jede Adresse, auch solche, die erst einmal bestätigt wurden |
+| **VPN, Proxy, Tor, Rechenzentrum** | Nur für gelistete Angreifer | Für jede Adresse |
+| **Wann sie aktiv war** | Keine Daten | Zuerst gesehen, zuletzt gesehen, aktueller Missbrauch |
+| **Warum sie markiert ist** | Die schlimmste Kategorie | Jedes Bedrohungs-Tag und eine ausformulierte Begründung |
+| **Netzwerk-Kontext** | Nicht enthalten | Die /24-Nachbarschaft, ASN, Betreiber, WHOIS-Abuse-Kontakt, Standort |
+
+**Bewusst nie veröffentlicht**
+
+- **Wer eine Adresse gemeldet hat und welche Belege mitkamen**: Meldungen erreichen uns vertraulich.
+- **Adressen, die erst einmal bestätigt wurden**: Eine Meldung ist eine Behauptung, kein Beweis. Die API berücksichtigt sie bereits; diese Liste wartet auf eine zweite, unabhängige Bestätigung.
+- **Wo unsere Sensoren stehen**: Ein Honeypot funktioniert nur, solange Angreifer nicht wissen, dass er einer ist.
+- **Welche Internetanbieter infizierte Kunden haben**: Eine solche Rangliste wäre eine Zielliste für Kriminelle. Die Netzwerk-Datei nennt nur kleine Netze, in denen fast jede beobachtete Adresse missbräuchlich war.
+
+Nutze dieses Repository, um bekannte Angreifer zu blocken. Nutze die API, um über einen bestimmten Besucher zu entscheiden. Beides ist kostenlos.
+
 ## Was drin ist
 
 | Datei | Zeilen | Was es ist |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.323.562 | Bösartige Adressen, jede mindestens zweimal bestätigt, mit unserem Score von 0 bis 100, der Bedrohungskategorie (c2, Malware, Botnet, Brute Force, Web-Angriff, Scanner, Phishing, Spam) und dem Infrastrukturtyp (proxy, vpn, tor, datacenter, mobile), soweit bekannt |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | Netze, deren beobachtete Adressen überwiegend bösartig und proxylastig waren: die Signatur von kugelsicherem Hosting |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.249 | Wegwerf- und Temporär-E-Mail-Domains, eine pro Zeile |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.347.943 | Bösartige Adressen, jede mindestens zweimal bestätigt, mit unserem Score von 0 bis 100, der Bedrohungskategorie (c2, Malware, Botnet, Brute Force, Web-Angriff, Scanner, Phishing, Spam) und dem Infrastrukturtyp (proxy, vpn, tor, datacenter, mobile), soweit bekannt |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | Netze, deren beobachtete Adressen überwiegend bösartig und proxylastig waren: die Signatur von kugelsicherem Hosting |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.635 | Wegwerf- und Temporär-E-Mail-Domains, eine pro Zeile |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | Beispiel | Vollständige Auskunft pro Adresse: der Score, eine Begründung in Klartext und jede angehängte Kategorie |
 | [`metadata.json`](../metadata.json) | &mdash; | Aktuelle Zählerstände und die UTC-Bauzeit, damit ein Skript erkennt, wie frisch seine Kopie ist |
 
@@ -125,7 +146,7 @@ Weil sie mindestens zweimal beim Angriff beobachtet wurde. Schlagen Sie sie auf 
 <details>
 <summary><b>Worin unterscheidet sich das von den großen kostenpflichtigen Anbietern?</b></summary>
 
-Es ist kostenlos, MIT-lizenziert, ohne Schlüssel und ohne Limit, und Sie können genau nachlesen, warum jede Adresse gelistet ist. Sie können außerdem die gesamte Datenbank herunterladen, was die meisten kostenpflichtigen Produkte zu keinem Preis erlauben.
+Es ist kostenlos, MIT-lizenziert, braucht keinen Schlüssel, hat kein Limit, und du kannst genau nachlesen, warum jede Adresse gelistet ist. Außerdem kannst du jede bestätigte Adresse in einer einzigen Datei herunterladen, was die meisten kostenpflichtigen Produkte zu keinem Preis erlauben.
 
 </details>
 

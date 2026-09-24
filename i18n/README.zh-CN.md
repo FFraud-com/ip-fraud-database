@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/官网-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="官网"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/恶意_IP-1,323,562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="恶意 IP"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/高滥用网络-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="高滥用网络"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/一次性域名-220,249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="一次性域名"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/恶意_IP-1,347,943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="恶意 IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/高滥用网络-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="高滥用网络"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/一次性域名-220,635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="一次性域名"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/重建频率-每_30_分钟-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="重建频率"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/免费_API-无需密钥-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="免费 API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,29 +16,50 @@
 
 # IP 欺诈数据库，每 30 分钟重建一次
 
-<p align="center"><b>1,323,562 个已确认的恶意 IP 地址，543 个高滥用网络。每个地址都有评分、分类，并至少经过两次独立确认。</b></p>
-<p align="center"><sub>MIT 许可 &middot; 无需注册、无需密钥、没有速率限制 &middot; 更新于 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/zh-CN.svg?v=1789905601" alt="在 ffraud.com 上浏览实时数据库" width="540"></a></p>
+<p align="center"><b>1,347,943 个已确认的恶意 IP 地址，546 个高滥用网络。每个地址都有评分、分类，并至少经过两次独立确认。</b></p>
+<p align="center"><sub>MIT 许可 &middot; 无需注册、无需密钥、没有速率限制 &middot; 更新于 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/zh-CN.svg?v=1790250759" alt="在 ffraud.com 上浏览实时数据库" width="540"></a></p>
 
 这是 [ffraud.com](https://ffraud.com) 背后的开放 IP 欺诈数据库。里面的每一个地址都是被观测到正在攻击某个目标的，至少经过两次独立确认，按 0 到 100 打分，并标注了它被抓到在做什么、跑在什么样的基础设施上。攻击者会不停更换基础设施，所以一份封禁名单的价值只等于它最后一次更新：这份名单**每 30 分钟**直接从在线引擎重建一次。你下载到的，就是此刻正在攻击互联网的东西。无需注册、无需密钥、没有速率限制。直接丢进防火墙、WAF、注册表单或风控流程即可。
 
 ## 关键数字
 
-- **1,323,562** 个已确认的恶意 IP 地址，每一个都被**两次或以上独立观测**到在实施滥用
-- **543** 个网络，我们观测到其中的地址绝大多数是恶意的、且代理占比极高
-- **220,249** 个一次性邮箱域名也随本仓库一起发布，克隆一次就覆盖了注册风控的两半
+- **1,347,943** 个已确认的恶意 IP 地址，每一个都被**两次或以上独立观测**到在实施滥用
+- **546** 个网络，我们观测到其中的地址绝大多数是恶意的、且代理占比极高
+- **220,635** 个一次性邮箱域名也随本仓库一起发布，克隆一次就覆盖了注册风控的两半
 - 每个地址都带有 **0 到 100 的评分**、**威胁分类**，以及能看出来时的**基础设施类型**
 - **每 30 分钟**重建并推送一次。提交历史就是变更日志，[`metadata.json`](metadata.json) 记录了精确的构建时间
 - **MIT 许可**，包含商业用途，无需署名
 - 纯粹的 CSV 和 TXT。没有压缩包要解、没有 schema 要学、没有客户端库要装
 
+## 用文件，还是用 API？
+
+这个仓库是 FFraud 已确认的核心数据：我们至少两次抓到正在攻击的地址，每个都带有评分、一个类别和基础设施类型。它的用途是批量封禁已知的攻击者。[免费 API](https://ffraud.com/docs) 能回答**任何**地址，而且知道的多得多：
+
+|  | 这个仓库 | API |
+|------|------|------|
+| **地址** | 仅限已确认的攻击者 | 任何地址，包括只确认过一次的 |
+| **VPN、代理、Tor、数据中心** | 仅针对列表中的攻击者 | 针对每一个地址 |
+| **何时活跃** | 没有日期 | 首次发现、最近发现、近期滥用 |
+| **为何被标记** | 最严重的类别 | 所有威胁标签和一段文字说明 |
+| **网络背景** | 不包含 | /24 邻近网段、ASN、所有者、WHOIS 滥用联系人、位置 |
+
+**刻意从不公开**
+
+- **谁举报了某个地址，以及提交的证据**: 举报是在保密的前提下交给我们的。
+- **只确认过一次的地址**: 一次举报只是一种说法，不是证据。API 已经把它计入评分；这个列表要等到第二次独立确认。
+- **我们的传感器在哪里**: 蜜罐只有在攻击者不知道它是蜜罐时才有用。
+- **哪些网络运营商的用户被感染**: 这样的排名会成为犯罪分子的目标清单。网络文件只列出我们看到的几乎每个地址都在滥用的小型网络。
+
+用这个仓库封禁已知的攻击者。用 API 判断某一个具体的访客。两者都免费。
+
 ## 仓库内容
 
 | 文件 | 行数 | 说明 |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,323,562 | 恶意地址，每个至少经过两次确认，附我们 0 到 100 的评分、威胁分类（c2、恶意软件、僵尸网络、暴力破解、Web 攻击、扫描器、钓鱼、垃圾邮件）以及已知时的基础设施类型（proxy、vpn、tor、datacenter、mobile） |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | 我们观测到其地址绝大多数为恶意且代理占比极高的网络：防弹主机的典型特征 |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,249 | 一次性与临时邮箱域名，每行一个 |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,347,943 | 恶意地址，每个至少经过两次确认，附我们 0 到 100 的评分、威胁分类（c2、恶意软件、僵尸网络、暴力破解、Web 攻击、扫描器、钓鱼、垃圾邮件）以及已知时的基础设施类型（proxy、vpn、tor、datacenter、mobile） |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | 我们观测到其地址绝大多数为恶意且代理占比极高的网络：防弹主机的典型特征 |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,635 | 一次性与临时邮箱域名，每行一个 |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | 示例 | 单个地址的完整情报：评分、白话原因，以及我们附加的每一个分类 |
 | [`metadata.json`](../metadata.json) | &mdash; | 实时计数与 UTC 构建时间，脚本据此判断自己这份副本有多新 |
 
@@ -125,7 +146,7 @@ curl -s https://api.ffraud.com/public/domain/mailinator.com
 <details>
 <summary><b>这和那些大牌收费产品有什么不同？</b></summary>
 
-它免费、MIT 许可、无需密钥、没有上限，而且每个地址为什么被收录你都能读到。你还可以把整个数据库下载走，而大多数收费产品出多少钱都不让你这么做。
+它免费、采用 MIT 许可、不需要密钥也没有上限，而且你可以清楚地看到每个地址为什么会被列入。你还可以把每一个已确认的地址打包成一个文件下载，大多数收费产品出多少钱都不给你这样做。
 
 </details>
 

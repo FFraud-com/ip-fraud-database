@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/वेबसाइट-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="वेबसाइट"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/दुर्भावनापूर्ण_IP-1,323,562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="दुर्भावनापूर्ण IP"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/दुरुपयोग_नेटवर्क-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="दुरुपयोग नेटवर्क"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/डिस्पोजेबल_डोमेन-220,249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="डिस्पोजेबल डोमेन"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/दुर्भावनापूर्ण_IP-1,347,943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="दुर्भावनापूर्ण IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/दुरुपयोग_नेटवर्क-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="दुरुपयोग नेटवर्क"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/डिस्पोजेबल_डोमेन-220,635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="डिस्पोजेबल डोमेन"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/पुनर्निर्माण-हर_30_मिनट-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="पुनर्निर्माण"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/मुफ़्त_API-बिना_कुंजी-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="मुफ़्त API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,29 +16,50 @@
 
 # IP धोखाधड़ी डेटाबेस, हर 30 मिनट में पुनर्निर्मित
 
-<p align="center"><b>1,323,562 पुष्ट दुर्भावनापूर्ण IP पते और 543 भारी दुरुपयोग वाले नेटवर्क। हर पता स्कोर किया गया, वर्गीकृत किया गया और कम से कम दो बार स्वतंत्र रूप से पुष्ट।</b></p>
-<p align="center"><sub>MIT लाइसेंस &middot; पंजीकरण नहीं, API कुंजी नहीं, अनुरोध सीमा नहीं &middot; अद्यतन 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hi.svg?v=1789905601" alt="ffraud.com पर लाइव डेटाबेस देखें" width="540"></a></p>
+<p align="center"><b>1,347,943 पुष्ट दुर्भावनापूर्ण IP पते और 546 भारी दुरुपयोग वाले नेटवर्क। हर पता स्कोर किया गया, वर्गीकृत किया गया और कम से कम दो बार स्वतंत्र रूप से पुष्ट।</b></p>
+<p align="center"><sub>MIT लाइसेंस &middot; पंजीकरण नहीं, API कुंजी नहीं, अनुरोध सीमा नहीं &middot; अद्यतन 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/hi.svg?v=1790250759" alt="ffraud.com पर लाइव डेटाबेस देखें" width="540"></a></p>
 
 यह [ffraud.com](https://ffraud.com) के पीछे खड़ा खुला IP धोखाधड़ी डेटाबेस है। इसमें मौजूद हर पता किसी न किसी पर हमला करते हुए देखा गया, कम से कम दो बार स्वतंत्र रूप से पुष्ट हुआ, 0 से 100 के बीच स्कोर पाया, और उस पर यह लेबल लगा कि वह किस काम में पकड़ा गया और किस तरह के बुनियादी ढाँचे पर चलता है। हमलावर अपना ढाँचा लगातार बदलते रहते हैं, इसलिए किसी ब्लॉकलिस्ट की कीमत उसके आख़िरी अपडेट जितनी ही होती है: यह सूची **हर 30 मिनट** में सीधे चालू इंजन से दोबारा बनाई जाती है। आप जो डाउनलोड करते हैं, वही इस वक़्त इंटरनेट पर हमला कर रहा है। न पंजीकरण, न कुंजी, न कोई सीमा। इसे सीधे फ़ायरवॉल, WAF, साइनअप फ़ॉर्म या धोखाधड़ी पाइपलाइन में डाल दीजिए।
 
 ## संक्षेप में
 
-- **1,323,562** पुष्ट दुर्भावनापूर्ण IP पते, हर एक **दो या उससे अधिक बार स्वतंत्र रूप से** दुरुपयोग करते देखा गया
-- **543** नेटवर्क जहाँ हमने जो पते देखे वे अधिकांशतः दुर्भावनापूर्ण और प्रॉक्सी से भरे थे
-- **220,249** डिस्पोजेबल ईमेल डोमेन भी इसी रिपॉज़िटरी में आते हैं, यानी एक ही क्लोन साइनअप जाँच के दोनों हिस्से ढक लेता है
+- **1,347,943** पुष्ट दुर्भावनापूर्ण IP पते, हर एक **दो या उससे अधिक बार स्वतंत्र रूप से** दुरुपयोग करते देखा गया
+- **546** नेटवर्क जहाँ हमने जो पते देखे वे अधिकांशतः दुर्भावनापूर्ण और प्रॉक्सी से भरे थे
+- **220,635** डिस्पोजेबल ईमेल डोमेन भी इसी रिपॉज़िटरी में आते हैं, यानी एक ही क्लोन साइनअप जाँच के दोनों हिस्से ढक लेता है
 - हर पते के साथ **0 से 100 का स्कोर**, एक **ख़तरा श्रेणी**, और जहाँ दिख सके वहाँ **बुनियादी ढाँचे का प्रकार** जुड़ा होता है
 - **हर 30 मिनट** में दोबारा बनाकर प्रकाशित किया जाता है। कमिट इतिहास ही बदलावों का रिकॉर्ड है, और [`metadata.json`](metadata.json) में बिल्ड का सटीक समय रहता है
 - **MIT लाइसेंस**, व्यावसायिक उपयोग सहित, श्रेय देना अनिवार्य नहीं
 - सादा CSV और TXT। न कोई संग्रह खोलना है, न कोई स्कीमा सीखनी है, न कोई लाइब्रेरी लगानी है
 
+## फ़ाइलें या API?
+
+यह रिपॉज़िटरी FFraud का पुष्ट मूल हिस्सा है: वे पते जिन्हें हमने कम से कम दो बार हमला करते पकड़ा है, हर एक के साथ एक स्कोर, एक श्रेणी और इन्फ्रास्ट्रक्चर का प्रकार। यह ज्ञात हमलावरों को थोक में ब्लॉक करने के लिए बनी है। [मुफ़्त API](https://ffraud.com/docs) **हर** पते के लिए जवाब देता है और कहीं ज़्यादा जानता है:
+
+|  | यह रिपॉज़िटरी | API |
+|------|------|------|
+| **पते** | सिर्फ़ पुष्ट हमलावर | कोई भी पता, उनके समेत जो सिर्फ़ एक बार पुष्ट हुए |
+| **VPN, प्रॉक्सी, Tor, डेटा सेंटर** | सिर्फ़ सूची के हमलावरों के लिए | हर पते के लिए |
+| **कब सक्रिय था** | कोई तारीख़ नहीं | पहली बार देखा गया, आख़िरी बार देखा गया, हाल का दुरुपयोग |
+| **क्यों चिह्नित है** | सबसे गंभीर श्रेणी | हर ख़तरा टैग और लिखा हुआ कारण |
+| **नेटवर्क संदर्भ** | शामिल नहीं | /24 पड़ोस, ASN, मालिक, WHOIS abuse संपर्क, स्थान |
+
+**जानबूझकर कभी प्रकाशित नहीं किया जाता**
+
+- **किसने किसी पते की रिपोर्ट की और कौन से सबूत भेजे**: रिपोर्टें हम तक गोपनीय रूप से पहुँचती हैं।
+- **सिर्फ़ एक बार पुष्ट हुए पते**: एक रिपोर्ट एक दावा है, सबूत नहीं। API उसे पहले से ही गिनता है; यह सूची दूसरी, स्वतंत्र पुष्टि का इंतज़ार करती है।
+- **हमारे सेंसर कहाँ हैं**: honeypot तभी तक काम करता है जब तक हमलावरों को पता न हो कि वह honeypot है।
+- **किन इंटरनेट प्रदाताओं के ग्राहक संक्रमित हैं**: ऐसी रैंकिंग अपराधियों के लिए निशानों की सूची बन जाती। नेटवर्क फ़ाइल सिर्फ़ उन छोटे नेटवर्क के नाम देती है जहाँ हमने देखा लगभग हर पता दुरुपयोग कर रहा था।
+
+ज्ञात हमलावरों को ब्लॉक करने के लिए इस रिपॉज़िटरी का इस्तेमाल करें। किसी खास विज़िटर के बारे में फ़ैसला करने के लिए API का इस्तेमाल करें। दोनों मुफ़्त हैं।
+
 ## इसमें क्या है
 
 | फ़ाइल | पंक्तियाँ | यह क्या है |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,323,562 | दुर्भावनापूर्ण पते, हर एक कम से कम दो बार पुष्ट, हमारे 0 से 100 स्कोर, ख़तरा श्रेणी (c2, मालवेयर, बॉटनेट, ब्रूट फ़ोर्स, वेब हमला, स्कैनर, फ़िशिंग, स्पैम) और जहाँ ज्ञात हो वहाँ ढाँचे के प्रकार (proxy, vpn, tor, datacenter, mobile) के साथ |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | वे नेटवर्क जिनके देखे गए पते अधिकांशतः दुर्भावनापूर्ण और प्रॉक्सी से भरे थे: बुलेटप्रूफ़ होस्टिंग की पहचान |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,249 | डिस्पोजेबल और अस्थायी ईमेल डोमेन, हर पंक्ति में एक |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,347,943 | दुर्भावनापूर्ण पते, हर एक कम से कम दो बार पुष्ट, हमारे 0 से 100 स्कोर, ख़तरा श्रेणी (c2, मालवेयर, बॉटनेट, ब्रूट फ़ोर्स, वेब हमला, स्कैनर, फ़िशिंग, स्पैम) और जहाँ ज्ञात हो वहाँ ढाँचे के प्रकार (proxy, vpn, tor, datacenter, mobile) के साथ |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | वे नेटवर्क जिनके देखे गए पते अधिकांशतः दुर्भावनापूर्ण और प्रॉक्सी से भरे थे: बुलेटप्रूफ़ होस्टिंग की पहचान |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,635 | डिस्पोजेबल और अस्थायी ईमेल डोमेन, हर पंक्ति में एक |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | नमूना | प्रति पता पूरी जानकारी: स्कोर, सरल भाषा में कारण, और जोड़ी गई हर श्रेणी |
 | [`metadata.json`](../metadata.json) | &mdash; | मौजूदा गिनती और UTC में बिल्ड का समय, ताकि कोई स्क्रिप्ट जान सके उसकी प्रति कितनी ताज़ा है |
 
@@ -125,7 +146,7 @@ curl -s https://api.ffraud.com/public/domain/mailinator.com
 <details>
 <summary><b>बड़े सशुल्क प्रदाताओं से यह कैसे अलग है?</b></summary>
 
-यह मुफ़्त है, MIT लाइसेंस वाला है, न कुंजी चाहिए न कोई सीमा है, और हर पते के सूचीबद्ध होने की वजह आप ठीक-ठीक पढ़ सकते हैं। आप पूरा डेटाबेस भी डाउनलोड कर सकते हैं, जो अधिकांश सशुल्क उत्पाद किसी भी क़ीमत पर नहीं करने देते।
+यह मुफ़्त है, MIT लाइसेंस में है, न कोई कुंजी चाहिए न कोई सीमा है, और आप ठीक-ठीक पढ़ सकते हैं कि हर पता सूची में क्यों है। आप हर पुष्ट पते को एक ही फ़ाइल में डाउनलोड भी कर सकते हैं, जिसकी अनुमति ज़्यादातर पेड प्रोडक्ट किसी भी क़ीमत पर नहीं देते।
 
 </details>
 

@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/웹사이트-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="웹사이트"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/악성_IP-1,323,562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="악성 IP"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/악용_네트워크-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="악용 네트워크"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/일회용_도메인-220,249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="일회용 도메인"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/악성_IP-1,347,943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="악성 IP"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/악용_네트워크-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="악용 네트워크"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/일회용_도메인-220,635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="일회용 도메인"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/재생성-30분마다-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="재생성"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/무료_API-키_불필요-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="무료 API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,29 +16,50 @@
 
 # IP 사기 데이터베이스, 30분마다 재생성
 
-<p align="center"><b>확인된 악성 IP 주소 1,323,562개와 악용이 심한 네트워크 543개. 모든 주소에 점수와 분류가 있고, 최소 두 번 독립적으로 확인되었습니다.</b></p>
-<p align="center"><sub>MIT 라이선스 &middot; 가입 불필요, API 키 불필요, 요청 제한 없음 &middot; 업데이트 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ko.svg?v=1789905601" alt="ffraud.com에서 실시간 데이터베이스 보기" width="540"></a></p>
+<p align="center"><b>확인된 악성 IP 주소 1,347,943개와 악용이 심한 네트워크 546개. 모든 주소에 점수와 분류가 있고, 최소 두 번 독립적으로 확인되었습니다.</b></p>
+<p align="center"><sub>MIT 라이선스 &middot; 가입 불필요, API 키 불필요, 요청 제한 없음 &middot; 업데이트 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ko.svg?v=1790250759" alt="ffraud.com에서 실시간 데이터베이스 보기" width="540"></a></p>
 
 [ffraud.com](https://ffraud.com)을 떠받치는 공개 IP 사기 데이터베이스입니다. 여기 있는 주소는 모두 무언가를 공격하는 중에 관측되었고, 최소 두 번 독립적으로 확인되었으며, 0에서 100까지 점수가 매겨지고, 무엇을 하다 잡혔는지와 어떤 인프라에서 도는지까지 표시되어 있습니다. 공격자는 인프라를 끊임없이 바꾸기 때문에 차단 목록의 가치는 마지막 갱신 시점이 정합니다. 이 목록은 **30분마다** 살아 있는 엔진에서 바로 다시 만들어집니다. 내려받는 것이 지금 이 순간 인터넷을 공격하고 있는 것입니다. 가입도, API 키도, 요청 제한도 없습니다. 방화벽이나 WAF, 가입 폼, 사기 탐지 파이프라인에 그대로 넣으면 됩니다.
 
 ## 핵심 수치
 
-- 확인된 악성 IP 주소 **1,323,562개**. 각각 **두 번 이상 독립적으로** 악용이 관측되었습니다
-- **543개** 네트워크. 저희가 관측한 주소 대부분이 악성이었고 프록시 비중이 높았던 곳입니다
-- 일회용 이메일 도메인 **220,249개**도 이 저장소에 함께 들어 있어, 한 번 클론하면 가입 검사의 양쪽을 모두 덮습니다
+- 확인된 악성 IP 주소 **1,347,943개**. 각각 **두 번 이상 독립적으로** 악용이 관측되었습니다
+- **546개** 네트워크. 저희가 관측한 주소 대부분이 악성이었고 프록시 비중이 높았던 곳입니다
+- 일회용 이메일 도메인 **220,635개**도 이 저장소에 함께 들어 있어, 한 번 클론하면 가입 검사의 양쪽을 모두 덮습니다
 - 모든 주소에 **0에서 100까지의 점수**, **위협 분류**, 그리고 파악되는 경우 **인프라 유형**이 붙습니다
 - **30분마다** 다시 만들어 푸시합니다. 커밋 기록이 곧 변경 기록이고, [`metadata.json`](metadata.json)에 정확한 빌드 시각이 있습니다
 - **MIT 라이선스**, 상업적 이용 포함, 출처 표기 불필요
 - 그냥 CSV와 TXT입니다. 풀어야 할 압축도, 익혀야 할 스키마도, 설치할 클라이언트 라이브러리도 없습니다
 
+## 파일인가, API인가?
+
+이 저장소는 FFraud의 확인된 핵심입니다. 공격하는 모습을 최소 두 번 포착한 주소들로, 각각 점수, 하나의 범주, 인프라 유형이 붙어 있습니다. 알려진 공격자를 일괄 차단하기 위해 만들었습니다. [무료 API](https://ffraud.com/docs)는 **모든** 주소에 답하며 훨씬 많은 것을 압니다:
+
+|  | 이 저장소 | API |
+|------|------|------|
+| **주소** | 확인된 공격자만 | 모든 주소, 한 번만 확인된 주소 포함 |
+| **VPN, 프록시, Tor, 데이터센터** | 목록에 있는 공격자만 | 모든 주소에 대해 |
+| **언제 활동했는지** | 날짜 없음 | 최초 관측, 최근 관측, 최근 악용 |
+| **왜 표시되었는지** | 가장 심각한 범주 | 모든 위협 태그와 작성된 사유 |
+| **네트워크 맥락** | 포함 안 됨 | /24 이웃, ASN, 소유자, WHOIS abuse 연락처, 위치 |
+
+**의도적으로 절대 공개하지 않는 것**
+
+- **누가 주소를 신고했고 어떤 증거를 보냈는지**: 신고는 비밀 보장을 전제로 들어옵니다.
+- **한 번만 확인된 주소**: 신고 한 건은 주장일 뿐 증거가 아닙니다. API는 이미 이를 반영하지만, 이 목록은 두 번째의 독립적인 확인을 기다립니다.
+- **센서의 위치**: 허니팟은 공격자가 그것이 허니팟인 줄 모를 때만 작동합니다.
+- **어느 인터넷 사업자의 고객이 감염되었는지**: 그런 순위는 범죄자에게 표적 목록이 됩니다. 네트워크 파일은 관측한 거의 모든 주소가 악용하던 소규모 네트워크만 적습니다.
+
+알려진 공격자를 차단하려면 이 저장소를 쓰세요. 특정 방문자에 대해 판단하려면 API를 쓰세요. 둘 다 무료입니다.
+
 ## 저장소 구성
 
 | 파일 | 행 수 | 설명 |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,323,562 | 악성 주소. 각각 두 번 이상 확인되었고, 0에서 100까지의 점수, 위협 분류(c2, 멀웨어, 봇넷, 무차별 대입, 웹 공격, 스캐너, 피싱, 스팸), 그리고 알려진 경우 인프라 유형(proxy, vpn, tor, datacenter, mobile)이 함께 들어 있습니다 |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | 관측된 주소 대부분이 악성이고 프록시 비중이 높았던 네트워크. 방탄 호스팅의 특징입니다 |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,249 | 일회용·임시 이메일 도메인, 한 줄에 하나 |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,347,943 | 악성 주소. 각각 두 번 이상 확인되었고, 0에서 100까지의 점수, 위협 분류(c2, 멀웨어, 봇넷, 무차별 대입, 웹 공격, 스캐너, 피싱, 스팸), 그리고 알려진 경우 인프라 유형(proxy, vpn, tor, datacenter, mobile)이 함께 들어 있습니다 |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | 관측된 주소 대부분이 악성이고 프록시 비중이 높았던 네트워크. 방탄 호스팅의 특징입니다 |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,635 | 일회용·임시 이메일 도메인, 한 줄에 하나 |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | 샘플 | 주소별 전체 정보: 점수, 쉬운 말로 쓴 근거, 그리고 붙은 모든 분류 |
 | [`metadata.json`](../metadata.json) | &mdash; | 실시간 건수와 UTC 빌드 시각. 스크립트가 자기 사본이 얼마나 최신인지 알 수 있습니다 |
 
@@ -125,7 +146,7 @@ curl -s https://api.ffraud.com/public/domain/mailinator.com
 <details>
 <summary><b>큰 유료 서비스들과 뭐가 다른가요?</b></summary>
 
-무료이고, MIT이며, 키도 상한도 없고, 주소마다 왜 등재되었는지 읽을 수 있습니다. 게다가 전체를 내려받을 수 있는데, 대부분의 유료 제품은 얼마를 내도 그건 허락하지 않습니다.
+무료이고 MIT 라이선스이며, 키도 한도도 없고, 각 주소가 왜 목록에 있는지 정확히 읽을 수 있습니다. 확인된 모든 주소를 파일 하나로 내려받을 수도 있는데, 대부분의 유료 제품은 어떤 가격에도 이를 허용하지 않습니다.
 
 </details>
 

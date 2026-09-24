@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Trang_chủ-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Trang chủ"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_độc_hại-1.323.562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP độc hại"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Mạng_lạm_dụng-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Mạng lạm dụng"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Tên_miền_dùng_một_lần-220.249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Tên miền dùng một lần"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/IP_độc_hại-1.347.943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP độc hại"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Mạng_lạm_dụng-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Mạng lạm dụng"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/Tên_miền_dùng_một_lần-220.635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Tên miền dùng một lần"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/Dựng_lại-mỗi_30_phút-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Dựng lại"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_miễn_phí-không_cần_khóa-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API miễn phí"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -16,29 +16,50 @@
 
 # Cơ sở dữ liệu gian lận IP, dựng lại mỗi 30 phút
 
-<p align="center"><b>1.323.562 địa chỉ IP độc hại đã xác nhận và 543 mạng lạm dụng nặng. Mỗi địa chỉ đều có điểm, phân loại và ít nhất hai lần xác nhận độc lập.</b></p>
-<p align="center"><sub>Giấy phép MIT &middot; không cần đăng ký, không cần khóa API, không giới hạn truy vấn &middot; cập nhật 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/vi.svg?v=1789905601" alt="Xem cơ sở dữ liệu trực tiếp trên ffraud.com" width="540"></a></p>
+<p align="center"><b>1.347.943 địa chỉ IP độc hại đã xác nhận và 546 mạng lạm dụng nặng. Mỗi địa chỉ đều có điểm, phân loại và ít nhất hai lần xác nhận độc lập.</b></p>
+<p align="center"><sub>Giấy phép MIT &middot; không cần đăng ký, không cần khóa API, không giới hạn truy vấn &middot; cập nhật 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/vi.svg?v=1790250759" alt="Xem cơ sở dữ liệu trực tiếp trên ffraud.com" width="540"></a></p>
 
 Đây là cơ sở dữ liệu gian lận IP mở nằm sau [ffraud.com](https://ffraud.com). Mỗi địa chỉ trong đó đều đã bị quan sát thấy đang tấn công thứ gì đó, được xác nhận độc lập ít nhất hai lần, chấm điểm từ 0 đến 100, và gắn nhãn theo việc nó bị bắt gặp đang làm gì cùng loại hạ tầng nó đang chạy. Kẻ tấn công liên tục đổi hạ tầng, nên một danh sách chặn chỉ đáng giá bằng lần cập nhật gần nhất của nó: danh sách này được dựng lại **mỗi 30 phút** trực tiếp từ động cơ đang chạy. Thứ bạn tải về chính là thứ đang tấn công internet ngay lúc này. Không đăng ký, không khóa, không giới hạn. Đổ thẳng vào tường lửa, WAF, biểu mẫu đăng ký hay quy trình chống gian lận.
 
 ## Vài con số
 
-- **1.323.562** địa chỉ IP độc hại đã xác nhận, mỗi địa chỉ bị quan sát thấy lạm dụng **từ hai lần độc lập trở lên**
-- **543** mạng mà các địa chỉ chúng tôi quan sát được phần lớn là độc hại và dày đặc proxy
-- **220.249** tên miền email dùng một lần cũng nằm trong kho này, nên chỉ một lần clone là phủ được cả hai nửa của khâu kiểm tra đăng ký
+- **1.347.943** địa chỉ IP độc hại đã xác nhận, mỗi địa chỉ bị quan sát thấy lạm dụng **từ hai lần độc lập trở lên**
+- **546** mạng mà các địa chỉ chúng tôi quan sát được phần lớn là độc hại và dày đặc proxy
+- **220.635** tên miền email dùng một lần cũng nằm trong kho này, nên chỉ một lần clone là phủ được cả hai nửa của khâu kiểm tra đăng ký
 - Mỗi địa chỉ mang một **điểm từ 0 đến 100**, một **phân loại mối đe dọa** và **loại hạ tầng** khi nhìn ra được
 - Được dựng lại và đẩy lên **mỗi 30 phút**. Lịch sử commit chính là nhật ký thay đổi, còn [`metadata.json`](metadata.json) giữ thời điểm dựng chính xác
 - **Giấy phép MIT**, bao gồm cả dùng thương mại, không bắt buộc ghi công
 - Chỉ là CSV và TXT thuần. Không có kho nén phải giải, không có lược đồ phải học, không có thư viện phải cài
 
+## Tệp hay API?
+
+Kho này là phần lõi đã xác nhận của FFraud: những địa chỉ chúng tôi bắt gặp đang tấn công ít nhất hai lần, mỗi địa chỉ kèm điểm số, một danh mục và loại hạ tầng. Nó được làm để chặn hàng loạt những kẻ tấn công đã biết. [API miễn phí](https://ffraud.com/docs) trả lời cho **mọi** địa chỉ và biết nhiều hơn hẳn:
+
+|  | Kho này | API |
+|------|------|------|
+| **Địa chỉ** | Chỉ kẻ tấn công đã xác nhận | Bất kỳ địa chỉ nào, kể cả địa chỉ mới xác nhận một lần |
+| **VPN, proxy, Tor, trung tâm dữ liệu** | Chỉ cho kẻ tấn công trong danh sách | Cho mọi địa chỉ |
+| **Hoạt động khi nào** | Không có ngày | Lần đầu thấy, lần cuối thấy, lạm dụng gần đây |
+| **Vì sao bị gắn cờ** | Danh mục nặng nhất | Mọi thẻ mối đe dọa và lý do viết rõ |
+| **Bối cảnh mạng** | Không có | Vùng lân cận /24, ASN, chủ sở hữu, liên hệ abuse từ WHOIS, vị trí |
+
+**Cố ý không bao giờ công bố**
+
+- **Ai đã báo cáo một địa chỉ và bằng chứng họ gửi**: báo cáo đến với chúng tôi một cách bảo mật.
+- **Địa chỉ mới xác nhận một lần**: một báo cáo là một lời khẳng định, không phải bằng chứng. API đã tính đến nó; danh sách này chờ lần xác nhận thứ hai, độc lập.
+- **Cảm biến của chúng tôi ở đâu**: honeypot chỉ hiệu quả khi kẻ tấn công không biết đó là honeypot.
+- **Nhà cung cấp internet nào có khách hàng bị nhiễm**: một bảng xếp hạng như vậy sẽ là danh sách mục tiêu cho tội phạm. Tệp mạng chỉ nêu tên những mạng nhỏ nơi gần như mọi địa chỉ chúng tôi thấy đều có hành vi lạm dụng.
+
+Dùng kho này để chặn những kẻ tấn công đã biết. Dùng API để quyết định về một khách truy cập cụ thể. Cả hai đều miễn phí.
+
 ## Bên trong có gì
 
 | Tệp | Dòng | Là gì |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.323.562 | Các địa chỉ độc hại, mỗi địa chỉ đã xác nhận từ hai lần trở lên, kèm điểm 0 đến 100 của chúng tôi, phân loại mối đe dọa (c2, mã độc, botnet, dò mật khẩu, tấn công web, máy quét, lừa đảo, thư rác) và loại hạ tầng (proxy, vpn, tor, datacenter, mobile) khi biết được |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | Những mạng mà các địa chỉ quan sát được phần lớn là độc hại và dày đặc proxy: dấu hiệu đặc trưng của dịch vụ lưu trữ chống khiếu nại |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.249 | Tên miền email dùng một lần và tạm thời, mỗi dòng một tên |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1.347.943 | Các địa chỉ độc hại, mỗi địa chỉ đã xác nhận từ hai lần trở lên, kèm điểm 0 đến 100 của chúng tôi, phân loại mối đe dọa (c2, mã độc, botnet, dò mật khẩu, tấn công web, máy quét, lừa đảo, thư rác) và loại hạ tầng (proxy, vpn, tor, datacenter, mobile) khi biết được |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | Những mạng mà các địa chỉ quan sát được phần lớn là độc hại và dày đặc proxy: dấu hiệu đặc trưng của dịch vụ lưu trữ chống khiếu nại |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.635 | Tên miền email dùng một lần và tạm thời, mỗi dòng một tên |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | mẫu | Thông tin đầy đủ theo từng địa chỉ: điểm số, lý do bằng lời lẽ dễ hiểu và mọi phân loại đã gắn |
 | [`metadata.json`](../metadata.json) | &mdash; | Số đếm hiện thời và thời điểm dựng theo UTC, để một script biết bản sao của mình mới đến đâu |
 
@@ -125,7 +146,7 @@ Vì nó đã bị quan sát thấy đang tấn công thứ gì đó ít nhất h
 <details>
 <summary><b>Khác gì so với các nhà cung cấp trả phí lớn?</b></summary>
 
-Nó miễn phí, giấy phép MIT, không khóa và không hạn mức, và bạn đọc được chính xác vì sao từng địa chỉ có mặt. Bạn cũng tải được toàn bộ cơ sở dữ liệu, điều mà phần lớn sản phẩm trả phí không cho phép với bất kỳ giá nào.
+Nó miễn phí, theo giấy phép MIT, không cần khóa và không giới hạn, và bạn có thể đọc chính xác vì sao mỗi địa chỉ nằm trong danh sách. Bạn cũng có thể tải mọi địa chỉ đã xác nhận trong một tệp duy nhất, điều mà hầu hết sản phẩm trả phí không cho phép với bất kỳ giá nào.
 
 </details>
 

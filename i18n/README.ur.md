@@ -1,14 +1,14 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1789905601" alt="ffraud IP Fraud Database" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/banner.svg?v=1790250759" alt="ffraud IP Fraud Database" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/ویب_سائٹ-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ویب سائٹ"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/نقصان_دہ_آئی_پی-1,323,562-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="نقصان دہ آئی پی"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/بدسلوکی_کے_نیٹ_ورک-543-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="بدسلوکی کے نیٹ ورک"></a>
-  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/یک_بار_استعمال_ڈومین-220,249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="یک بار استعمال ڈومین"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/نقصان_دہ_آئی_پی-1,347,943-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="نقصان دہ آئی پی"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/بدسلوکی_کے_نیٹ_ورک-546-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="بدسلوکی کے نیٹ ورک"></a>
+  <a href="https://github.com/FFraud-com/disposable-email-domains"><img src="https://img.shields.io/badge/یک_بار_استعمال_ڈومین-220,635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="یک بار استعمال ڈومین"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database/commits/main"><img src="https://img.shields.io/badge/دوبارہ_تعمیر-ہر_30_منٹ_بعد-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="دوبارہ تعمیر"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/مفت_API-بغیر_کلید-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="مفت API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
@@ -18,29 +18,50 @@
 
 # آئی پی فراڈ ڈیٹابیس، ہر 30 منٹ بعد دوبارہ تعمیر
 
-<p align="center"><b>1,323,562 تصدیق شدہ نقصان دہ آئی پی پتے اور 543 زیادہ بدسلوکی والے نیٹ ورک۔ ہر پتے کا اسکور اور زمرہ ہے اور کم از کم دو بار آزادانہ تصدیق ہو چکی ہے۔</b></p>
-<p align="center"><sub>MIT لائسنس &middot; رجسٹریشن نہیں، API کلید نہیں، درخواستوں کی حد نہیں &middot; تازہ کاری 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ur.svg?v=1789905601" alt="ffraud.com پر زندہ ڈیٹابیس دیکھیں" width="540"></a></p>
+<p align="center"><b>1,347,943 تصدیق شدہ نقصان دہ آئی پی پتے اور 546 زیادہ بدسلوکی والے نیٹ ورک۔ ہر پتے کا اسکور اور زمرہ ہے اور کم از کم دو بار آزادانہ تصدیق ہو چکی ہے۔</b></p>
+<p align="center"><sub>MIT لائسنس &middot; رجسٹریشن نہیں، API کلید نہیں، درخواستوں کی حد نہیں &middot; تازہ کاری 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/docs/open-data"><img src="https://raw.githubusercontent.com/FFraud-com/ip-fraud-database/main/assets/cta/ur.svg?v=1790250759" alt="ffraud.com پر زندہ ڈیٹابیس دیکھیں" width="540"></a></p>
 
 یہ [ffraud.com](https://ffraud.com) کے پیچھے کھڑا کھلا آئی پی فراڈ ڈیٹابیس ہے۔ اس میں موجود ہر پتہ کسی چیز پر حملہ کرتے ہوئے دیکھا گیا، کم از کم دو بار آزادانہ تصدیق ہوئی، 0 سے 100 کے درمیان اسکور ملا، اور اس پر یہ لیبل لگا کہ وہ کس کام میں پکڑا گیا اور کس قسم کے بنیادی ڈھانچے پر چلتا ہے۔ حملہ آور مسلسل اپنا ڈھانچہ بدلتے رہتے ہیں، اس لیے کسی بلاک لسٹ کی قیمت اس کی آخری تازہ کاری کے برابر ہوتی ہے: یہ فہرست **ہر 30 منٹ بعد** براہِ راست چلتے ہوئے انجن سے نئے سرے سے بنتی ہے۔ آپ جو ڈاؤن لوڈ کرتے ہیں، وہی اس وقت انٹرنیٹ پر حملہ کر رہا ہے۔ نہ رجسٹریشن، نہ کلید، نہ کوئی حد۔ اسے سیدھا فائروال، WAF، سائن اپ فارم یا فراڈ جانچ کی لائن میں ڈال دیجیے۔
 
 ## مختصراً
 
-- **1,323,562** تصدیق شدہ نقصان دہ آئی پی پتے، ہر ایک **کم از کم دو بار آزادانہ طور پر** بدسلوکی کرتے دیکھا گیا
-- **543** نیٹ ورک جہاں ہمارے دیکھے ہوئے پتے زیادہ تر نقصان دہ اور پراکسی سے بھرے تھے
-- **220,249** یک بار استعمال ای میل ڈومین بھی اسی ریپوزٹری میں آتے ہیں، تو ایک بار کلون کرنے سے سائن اپ جانچ کے دونوں حصے ڈھک جاتے ہیں
+- **1,347,943** تصدیق شدہ نقصان دہ آئی پی پتے، ہر ایک **کم از کم دو بار آزادانہ طور پر** بدسلوکی کرتے دیکھا گیا
+- **546** نیٹ ورک جہاں ہمارے دیکھے ہوئے پتے زیادہ تر نقصان دہ اور پراکسی سے بھرے تھے
+- **220,635** یک بار استعمال ای میل ڈومین بھی اسی ریپوزٹری میں آتے ہیں، تو ایک بار کلون کرنے سے سائن اپ جانچ کے دونوں حصے ڈھک جاتے ہیں
 - ہر پتے کے ساتھ **0 سے 100 کا اسکور**، ایک **خطرے کا زمرہ**، اور جہاں نظر آئے وہاں **بنیادی ڈھانچے کی قسم** ہوتی ہے
 - **ہر 30 منٹ بعد** نئے سرے سے بن کر شائع ہوتا ہے۔ کمٹ کی تاریخ ہی تبدیلیوں کا ریکارڈ ہے، اور [`metadata.json`](metadata.json) میں تعمیر کا درست وقت ہوتا ہے
 - **MIT لائسنس**، تجارتی استعمال سمیت، حوالہ دینا لازمی نہیں
 - سادہ CSV اور TXT۔ نہ کھولنے کو کوئی آرکائیو، نہ سیکھنے کو کوئی اسکیما، نہ نصب کرنے کو کوئی لائبریری
 
+## فائلیں یا API؟
+
+یہ ریپوزیٹری FFraud کا تصدیق شدہ مرکز ہے: وہ پتے جنہیں ہم نے کم از کم دو بار حملہ کرتے پکڑا، ہر ایک کے ساتھ ایک اسکور، ایک زمرہ اور انفراسٹرکچر کی قسم۔ یہ معلوم حملہ آوروں کو بڑی تعداد میں بلاک کرنے کے لیے بنائی گئی ہے۔ [مفت API](https://ffraud.com/docs) **ہر** پتے کا جواب دیتا ہے اور کہیں زیادہ جانتا ہے:
+
+|  | یہ ریپوزیٹری | API |
+|------|------|------|
+| **پتے** | صرف تصدیق شدہ حملہ آور | کوئی بھی پتہ، ان سمیت جن کی صرف ایک بار تصدیق ہوئی |
+| **VPN، پراکسی، Tor، ڈیٹا سینٹر** | صرف فہرست کے حملہ آوروں کے لیے | ہر پتے کے لیے |
+| **کب فعال تھا** | کوئی تاریخ نہیں | پہلی بار دیکھا گیا، آخری بار دیکھا گیا، حالیہ غلط استعمال |
+| **کیوں نشان زد ہے** | سب سے سنگین زمرہ | ہر خطرے کا ٹیگ اور لکھی ہوئی وجہ |
+| **نیٹ ورک کا سیاق** | شامل نہیں | /24 پڑوس، ASN، مالک، WHOIS abuse رابطہ، مقام |
+
+**جان بوجھ کر کبھی شائع نہیں کیا جاتا**
+
+- **کس نے کسی پتے کی رپورٹ کی اور کون سے ثبوت بھیجے**: رپورٹیں ہم تک رازداری سے پہنچتی ہیں۔
+- **صرف ایک بار تصدیق شدہ پتے**: ایک رپورٹ ایک دعویٰ ہے، ثبوت نہیں۔ API اسے پہلے ہی شمار کرتا ہے؛ یہ فہرست دوسری، آزاد تصدیق کا انتظار کرتی ہے۔
+- **ہمارے سینسر کہاں ہیں**: honeypot تبھی تک کام کرتا ہے جب تک حملہ آوروں کو معلوم نہ ہو کہ یہ honeypot ہے۔
+- **کن انٹرنیٹ فراہم کنندگان کے صارفین متاثر ہیں**: ایسی درجہ بندی مجرموں کے لیے اہداف کی فہرست بن جاتی۔ نیٹ ورکس فائل صرف ان چھوٹے نیٹ ورکس کے نام دیتی ہے جہاں ہمارا دیکھا ہوا تقریباً ہر پتہ غلط استعمال کر رہا تھا۔
+
+معلوم حملہ آوروں کو بلاک کرنے کے لیے یہ ریپوزیٹری استعمال کریں۔ کسی خاص وزیٹر کے بارے میں فیصلے کے لیے API استعمال کریں۔ دونوں مفت ہیں۔
+
 ## اندر کیا ہے
 
 | فائل | سطریں | یہ کیا ہے |
 |------|------:|------|
-| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,323,562 | نقصان دہ پتے، ہر ایک کم از کم دو بار تصدیق شدہ، ہمارے 0 سے 100 اسکور، خطرے کے زمرے (c2، مالویئر، بوٹ نیٹ، پاس ورڈ توڑنا، ویب حملہ، اسکینر، فشنگ، اسپیم) اور جہاں معلوم ہو وہاں بنیادی ڈھانچے کی قسم (proxy، vpn، tor، datacenter، mobile) کے ساتھ |
-| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 543 | وہ نیٹ ورک جن کے دیکھے گئے پتے زیادہ تر نقصان دہ اور پراکسی سے بھرے تھے: شکایت سے محفوظ ہوسٹنگ کی پہچان |
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,249 | یک بار استعمال اور عارضی ای میل ڈومین، فی سطر ایک |
+| [`threat-ips/confirmed-abusive.csv`](../threat-ips/confirmed-abusive.csv) | 1,347,943 | نقصان دہ پتے، ہر ایک کم از کم دو بار تصدیق شدہ، ہمارے 0 سے 100 اسکور، خطرے کے زمرے (c2، مالویئر، بوٹ نیٹ، پاس ورڈ توڑنا، ویب حملہ، اسکینر، فشنگ، اسپیم) اور جہاں معلوم ہو وہاں بنیادی ڈھانچے کی قسم (proxy، vpn، tor، datacenter، mobile) کے ساتھ |
+| [`asn-reputation/high-abuse-networks.csv`](../asn-reputation/high-abuse-networks.csv) | 546 | وہ نیٹ ورک جن کے دیکھے گئے پتے زیادہ تر نقصان دہ اور پراکسی سے بھرے تھے: شکایت سے محفوظ ہوسٹنگ کی پہچان |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,635 | یک بار استعمال اور عارضی ای میل ڈومین، فی سطر ایک |
 | [`ip-intelligence/examples.json`](../ip-intelligence/examples.json) | نمونہ | فی پتہ مکمل معلومات: اسکور، سادہ زبان میں وجہ، اور لگایا گیا ہر زمرہ |
 | [`metadata.json`](../metadata.json) | &mdash; | تازہ گنتی اور UTC میں تعمیر کا وقت، تاکہ کوئی اسکرپٹ جان سکے اس کی نقل کتنی تازہ ہے |
 
@@ -127,7 +148,7 @@ curl -s https://api.ffraud.com/public/domain/mailinator.com
 <details>
 <summary><b>بڑے ادائیگی والے فراہم کنندگان سے یہ کیسے مختلف ہے؟</b></summary>
 
-یہ مفت ہے، MIT لائسنس والا ہے، نہ کلید چاہیے نہ کوئی حد ہے، اور آپ پڑھ سکتے ہیں کہ ہر پتہ کیوں درج ہے۔ آپ پورا ڈیٹابیس بھی ڈاؤن لوڈ کر سکتے ہیں، جو زیادہ تر ادائیگی والی مصنوعات کسی قیمت پر نہیں کرنے دیتیں۔
+یہ مفت ہے، MIT لائسنس کے تحت، نہ کوئی کلید درکار ہے نہ کوئی حد، اور آپ ٹھیک ٹھیک پڑھ سکتے ہیں کہ ہر پتہ فہرست میں کیوں ہے۔ آپ ہر تصدیق شدہ پتہ ایک ہی فائل میں ڈاؤن لوڈ بھی کر سکتے ہیں، جس کی اجازت زیادہ تر ادائیگی والی مصنوعات کسی قیمت پر نہیں دیتیں۔
 
 </details>
 
