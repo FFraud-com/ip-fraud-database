@@ -1,13 +1,8 @@
 {
   "project": "ip-fraud-database",
-  "generated_utc": "2026-10-07T00:00:01Z",
-  "counts": {
-    "confirmed_abusive_ips": 1416974,
-    "high_abuse_networks": 550,
-    "disposable_email_domains": 221893
-  },
+  "generated_utc": "2026-10-07T00:30:02Z",
+  "counts": { "confirmed_abusive_ips": 1417007, "high_abuse_networks": 550, "disposable_email_domains": 221893 },
   "license": "MIT",
   "homepage": "https://ffraud.com",
-  "note": "ffraud's own derived intelligence, from our honeypot sensors and community reports.",
-  "live_utc": "2026-10-07T00:20:02Z"
+  "note": "ffraud's own derived intelligence, from our honeypot sensors and community reports."
 }
