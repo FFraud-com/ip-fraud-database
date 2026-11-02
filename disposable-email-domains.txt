@@ -65138,7 +65138,6 @@ edu.sbtx1.shop
 edu.scatterteam.com
 edusch.id
 edusch.site
-edusco.us
 edu.seasonofgrace.org
 edus.edu.pl
 edu.sg
@@ -201526,7 +201525,6 @@ unicreatures.com
 unicredi.com
 unicredit.tk
 unicsite.com
-unidas.lat
 uni.de
 unidentic.com
 unidiremail.com
